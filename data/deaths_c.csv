@@ -1,0 +1,984 @@
+MSOA11CD,MSOA11NM,LocalAuthority,covid_19_deaths,covid_19_deaths_per_thousand,Region,Borough,Code
+E02000001,"City of London 001","City of London",3,0.344589938,Central,"City of London",E09000001
+E02000002,"Barking and Dagenham 001","Barking and Dagenham",2,0.259067358,East,"Barking and Dagenham",E09000002
+E02000003,"Barking and Dagenham 002","Barking and Dagenham",3,0.271468645,East,"Barking and Dagenham",E09000002
+E02000004,"Barking and Dagenham 003","Barking and Dagenham",9,1.366535074,East,"Barking and Dagenham",E09000002
+E02000005,"Barking and Dagenham 004","Barking and Dagenham",5,0.488806335,East,"Barking and Dagenham",E09000002
+E02000007,"Barking and Dagenham 006","Barking and Dagenham",9,0.889064507,East,"Barking and Dagenham",E09000002
+E02000008,"Barking and Dagenham 007","Barking and Dagenham",10,0.791452315,East,"Barking and Dagenham",E09000002
+E02000009,"Barking and Dagenham 008","Barking and Dagenham",7,0.603864734,East,"Barking and Dagenham",E09000002
+E02000010,"Barking and Dagenham 009","Barking and Dagenham",6,0.652386648,East,"Barking and Dagenham",E09000002
+E02000011,"Barking and Dagenham 010","Barking and Dagenham",6,0.859229557,East,"Barking and Dagenham",E09000002
+E02000012,"Barking and Dagenham 011","Barking and Dagenham",3,0.265721878,East,"Barking and Dagenham",E09000002
+E02000013,"Barking and Dagenham 012","Barking and Dagenham",4,0.449488707,East,"Barking and Dagenham",E09000002
+E02000014,"Barking and Dagenham 013","Barking and Dagenham",3,0.299520767,East,"Barking and Dagenham",E09000002
+E02000015,"Barking and Dagenham 014","Barking and Dagenham",3,0.371793283,East,"Barking and Dagenham",E09000002
+E02000016,"Barking and Dagenham 015","Barking and Dagenham",1,0.100563154,East,"Barking and Dagenham",E09000002
+E02000017,"Barking and Dagenham 016","Barking and Dagenham",3,0.321508949,East,"Barking and Dagenham",E09000002
+E02000018,"Barking and Dagenham 017","Barking and Dagenham",6,0.612932884,East,"Barking and Dagenham",E09000002
+E02000019,"Barking and Dagenham 018","Barking and Dagenham",5,0.546567556,East,"Barking and Dagenham",E09000002
+E02000020,"Barking and Dagenham 019","Barking and Dagenham",2,0.153668844,East,"Barking and Dagenham",E09000002
+E02000021,"Barking and Dagenham 020","Barking and Dagenham",6,0.668896321,East,"Barking and Dagenham",E09000002
+E02000022,"Barking and Dagenham 021","Barking and Dagenham",3,0.359109409,East,"Barking and Dagenham",E09000002
+E02000023,"Barking and Dagenham 022","Barking and Dagenham",2,0.250469631,East,"Barking and Dagenham",E09000002
+E02000024,"Barnet 001",Barnet,6,0.546050237,North,Barnet,E09000003
+E02000025,"Barnet 002",Barnet,12,1.419950302,North,Barnet,E09000003
+E02000026,"Barnet 003",Barnet,2,0.301704631,North,Barnet,E09000003
+E02000027,"Barnet 004",Barnet,9,0.922792987,North,Barnet,E09000003
+E02000028,"Barnet 005",Barnet,2,0.298819662,North,Barnet,E09000003
+E02000029,"Barnet 006",Barnet,7,0.746109572,North,Barnet,E09000003
+E02000030,"Barnet 007",Barnet,6,0.645994832,North,Barnet,E09000003
+E02000031,"Barnet 008",Barnet,11,1.423395445,North,Barnet,E09000003
+E02000032,"Barnet 009",Barnet,5,0.634276291,North,Barnet,E09000003
+E02000033,"Barnet 010",Barnet,7,0.78484135,North,Barnet,E09000003
+E02000034,"Barnet 011",Barnet,8,0.862440707,North,Barnet,E09000003
+E02000035,"Barnet 012",Barnet,13,1.443963123,North,Barnet,E09000003
+E02000036,"Barnet 013",Barnet,9,0.777403472,North,Barnet,E09000003
+E02000037,"Barnet 014",Barnet,11,1.059934477,North,Barnet,E09000003
+E02000038,"Barnet 015",Barnet,20,1.734304544,North,Barnet,E09000003
+E02000039,"Barnet 016",Barnet,6,0.825536599,North,Barnet,E09000003
+E02000040,"Barnet 017",Barnet,9,1.097560976,North,Barnet,E09000003
+E02000041,"Barnet 018",Barnet,7,0.702035904,North,Barnet,E09000003
+E02000042,"Barnet 019",Barnet,13,1.070046917,North,Barnet,E09000003
+E02000043,"Barnet 020",Barnet,5,0.610128127,North,Barnet,E09000003
+E02000044,"Barnet 021",Barnet,5,0.563443768,North,Barnet,E09000003
+E02000045,"Barnet 022",Barnet,3,0.275027503,North,Barnet,E09000003
+E02000046,"Barnet 023",Barnet,4,0.527565286,North,Barnet,E09000003
+E02000047,"Barnet 024",Barnet,7,0.564607195,North,Barnet,E09000003
+E02000048,"Barnet 025",Barnet,2,0.187881635,North,Barnet,E09000003
+E02000049,"Barnet 026",Barnet,4,0.43047783,North,Barnet,E09000003
+E02000050,"Barnet 027",Barnet,6,0.550206327,North,Barnet,E09000003
+E02000051,"Barnet 028",Barnet,8,0.825934338,North,Barnet,E09000003
+E02000052,"Barnet 029",Barnet,3,0.283393161,North,Barnet,E09000003
+E02000053,"Barnet 030",Barnet,1,0.063926357,North,Barnet,E09000003
+E02000054,"Barnet 031",Barnet,8,1.050420168,North,Barnet,E09000003
+E02000055,"Barnet 032",Barnet,7,0.590169463,North,Barnet,E09000003
+E02000056,"Barnet 033",Barnet,9,0.961846746,North,Barnet,E09000003
+E02000057,"Barnet 034",Barnet,9,1.104701117,North,Barnet,E09000003
+E02000058,"Barnet 035",Barnet,3,0.273997625,North,Barnet,E09000003
+E02000059,"Barnet 036",Barnet,14,1.200892091,North,Barnet,E09000003
+E02000060,"Barnet 037",Barnet,9,0.728273183,North,Barnet,E09000003
+E02000061,"Barnet 038",Barnet,10,1.113585746,North,Barnet,E09000003
+E02000062,"Barnet 039",Barnet,3,0.439496045,North,Barnet,E09000003
+E02000063,"Barnet 040",Barnet,4,0.51579626,North,Barnet,E09000003
+E02000064,"Barnet 041",Barnet,0,0,North,Barnet,E09000003
+E02000065,"Bexley 001",Bexley,0,0,East,Bexley,E09000004
+E02000066,"Bexley 002",Bexley,3,0.297944185,East,Bexley,E09000004
+E02000067,"Bexley 003",Bexley,3,0.292198305,East,Bexley,E09000004
+E02000068,"Bexley 004",Bexley,3,0.367556971,East,Bexley,E09000004
+E02000069,"Bexley 005",Bexley,3,0.444049734,East,Bexley,E09000004
+E02000070,"Bexley 006",Bexley,0,0,East,Bexley,E09000004
+E02000071,"Bexley 007",Bexley,3,0.391747192,East,Bexley,E09000004
+E02000072,"Bexley 008",Bexley,1,0.077814956,East,Bexley,E09000004
+E02000073,"Bexley 009",Bexley,6,0.549349936,East,Bexley,E09000004
+E02000074,"Bexley 010",Bexley,7,0.820921778,East,Bexley,E09000004
+E02000075,"Bexley 011",Bexley,4,0.484202881,East,Bexley,E09000004
+E02000077,"Bexley 013",Bexley,9,1.092100473,East,Bexley,E09000004
+E02000078,"Bexley 014",Bexley,5,0.631871604,East,Bexley,E09000004
+E02000079,"Bexley 015",Bexley,19,2.193995381,East,Bexley,E09000004
+E02000080,"Bexley 016",Bexley,1,0.098289758,East,Bexley,E09000004
+E02000081,"Bexley 017",Bexley,3,0.37327361,East,Bexley,E09000004
+E02000082,"Bexley 018",Bexley,5,0.542829226,East,Bexley,E09000004
+E02000083,"Bexley 019",Bexley,3,0.262697023,East,Bexley,E09000004
+E02000084,"Bexley 020",Bexley,1,0.090686497,East,Bexley,E09000004
+E02000085,"Bexley 021",Bexley,2,0.249875062,East,Bexley,E09000004
+E02000086,"Bexley 022",Bexley,4,0.546896363,East,Bexley,E09000004
+E02000087,"Bexley 023",Bexley,2,0.248169748,East,Bexley,E09000004
+E02000088,"Bexley 024",Bexley,2,0.256607647,East,Bexley,E09000004
+E02000089,"Bexley 025",Bexley,8,1.011633789,East,Bexley,E09000004
+E02000090,"Bexley 026",Bexley,9,0.943198491,East,Bexley,E09000004
+E02000091,"Bexley 027",Bexley,9,0.903070439,East,Bexley,E09000004
+E02000092,"Bexley 028",Bexley,7,1.030320871,East,Bexley,E09000004
+E02000093,"Brent 001",Brent,14,1.255943303,West,Brent,E09000005
+E02000094,"Brent 002",Brent,6,0.653381248,West,Brent,E09000005
+E02000095,"Brent 003",Brent,7,0.700420252,West,Brent,E09000005
+E02000096,"Brent 004",Brent,7,0.936454849,West,Brent,E09000005
+E02000097,"Brent 005",Brent,10,1.099263493,West,Brent,E09000005
+E02000098,"Brent 006",Brent,20,2.370510845,West,Brent,E09000005
+E02000099,"Brent 007",Brent,5,0.559221564,West,Brent,E09000005
+E02000100,"Brent 008",Brent,6,0.680812436,West,Brent,E09000005
+E02000101,"Brent 009",Brent,15,1.562825589,West,Brent,E09000005
+E02000102,"Brent 010",Brent,9,1.197764174,West,Brent,E09000005
+E02000103,"Brent 011",Brent,4,0.433980688,West,Brent,E09000005
+E02000104,"Brent 012",Brent,10,1.373437715,West,Brent,E09000005
+E02000105,"Brent 013",Brent,6,0.616903146,West,Brent,E09000005
+E02000106,"Brent 014",Brent,12,1.126549005,West,Brent,E09000005
+E02000107,"Brent 015",Brent,2,0.173415417,West,Brent,E09000005
+E02000108,"Brent 016",Brent,6,0.901713255,West,Brent,E09000005
+E02000109,"Brent 017",Brent,14,1.085860544,West,Brent,E09000005
+E02000110,"Brent 018",Brent,4,0.463929483,West,Brent,E09000005
+E02000111,"Brent 019",Brent,10,0.926097425,West,Brent,E09000005
+E02000112,"Brent 020",Brent,8,0.762485703,West,Brent,E09000005
+E02000113,"Brent 021",Brent,8,0.815078961,West,Brent,E09000005
+E02000114,"Brent 022",Brent,5,0.492610837,West,Brent,E09000005
+E02000115,"Brent 023",Brent,4,0.453977982,West,Brent,E09000005
+E02000116,"Brent 024",Brent,6,0.639249947,West,Brent,E09000005
+E02000117,"Brent 025",Brent,28,2.14954706,West,Brent,E09000005
+E02000118,"Brent 026",Brent,14,1.353703346,West,Brent,E09000005
+E02000119,"Brent 027",Brent,11,1.222222222,West,Brent,E09000005
+E02000120,"Brent 028",Brent,2,0.216990344,West,Brent,E09000005
+E02000121,"Brent 029",Brent,15,1.393663477,West,Brent,E09000005
+E02000122,"Brent 030",Brent,8,1.02406554,West,Brent,E09000005
+E02000123,"Brent 031",Brent,12,0.754527163,West,Brent,E09000005
+E02000124,"Brent 032",Brent,6,0.592534071,West,Brent,E09000005
+E02000125,"Brent 033",Brent,5,0.478377344,West,Brent,E09000005
+E02000126,"Brent 034",Brent,5,0.630994447,West,Brent,E09000005
+E02000127,"Bromley 001",Bromley,2,0.211617818,South,Bromley,E09000006
+E02000128,"Bromley 002",Bromley,1,0.128139416,South,Bromley,E09000006
+E02000130,"Bromley 004",Bromley,1,0.115928588,South,Bromley,E09000006
+E02000131,"Bromley 005",Bromley,6,0.569746463,South,Bromley,E09000006
+E02000132,"Bromley 006",Bromley,5,0.490918017,South,Bromley,E09000006
+E02000133,"Bromley 007",Bromley,4,0.377109456,South,Bromley,E09000006
+E02000134,"Bromley 008",Bromley,7,0.586313762,South,Bromley,E09000006
+E02000135,"Bromley 009",Bromley,7,0.664325709,South,Bromley,E09000006
+E02000136,"Bromley 010",Bromley,8,1.390095569,South,Bromley,E09000006
+E02000137,"Bromley 011",Bromley,6,0.70663055,South,Bromley,E09000006
+E02000138,"Bromley 012",Bromley,5,0.583294447,South,Bromley,E09000006
+E02000139,"Bromley 013",Bromley,5,0.636780438,South,Bromley,E09000006
+E02000140,"Bromley 014",Bromley,5,0.571493885,South,Bromley,E09000006
+E02000141,"Bromley 015",Bromley,3,0.403280011,South,Bromley,E09000006
+E02000142,"Bromley 016",Bromley,4,0.452488688,South,Bromley,E09000006
+E02000144,"Bromley 018",Bromley,4,0.405227434,South,Bromley,E09000006
+E02000145,"Bromley 019",Bromley,1,0.109015589,South,Bromley,E09000006
+E02000146,"Bromley 020",Bromley,7,0.735603195,South,Bromley,E09000006
+E02000147,"Bromley 021",Bromley,5,0.602918124,South,Bromley,E09000006
+E02000148,"Bromley 022",Bromley,1,0.148367953,South,Bromley,E09000006
+E02000149,"Bromley 023",Bromley,5,0.616446801,South,Bromley,E09000006
+E02000150,"Bromley 024",Bromley,1,0.115380178,South,Bromley,E09000006
+E02000151,"Bromley 025",Bromley,2,0.261267146,South,Bromley,E09000006
+E02000152,"Bromley 026",Bromley,0,0,South,Bromley,E09000006
+E02000153,"Bromley 027",Bromley,1,0.126374321,South,Bromley,E09000006
+E02000154,"Bromley 028",Bromley,0,0,South,Bromley,E09000006
+E02000155,"Bromley 029",Bromley,3,0.430230891,South,Bromley,E09000006
+E02000156,"Bromley 030",Bromley,9,0.735354196,South,Bromley,E09000006
+E02000157,"Bromley 031",Bromley,7,0.847252481,South,Bromley,E09000006
+E02000158,"Bromley 032",Bromley,3,0.383386581,South,Bromley,E09000006
+E02000159,"Bromley 033",Bromley,4,0.574547544,South,Bromley,E09000006
+E02000160,"Bromley 034",Bromley,4,0.497636228,South,Bromley,E09000006
+E02000161,"Bromley 035",Bromley,5,0.567665758,South,Bromley,E09000006
+E02000162,"Bromley 036",Bromley,4,0.572246066,South,Bromley,E09000006
+E02000163,"Bromley 037",Bromley,3,0.386398764,South,Bromley,E09000006
+E02000165,"Bromley 039",Bromley,2,0.286368843,South,Bromley,E09000006
+E02000166,"Camden 001",Camden,4,0.439947206,Central,Camden,E09000007
+E02000167,"Camden 002",Camden,1,0.105965879,Central,Camden,E09000007
+E02000168,"Camden 003",Camden,2,0.210504157,Central,Camden,E09000007
+E02000169,"Camden 004",Camden,5,0.543537341,Central,Camden,E09000007
+E02000170,"Camden 005",Camden,2,0.206398349,Central,Camden,E09000007
+E02000171,"Camden 006",Camden,4,0.422654269,Central,Camden,E09000007
+E02000172,"Camden 007",Camden,10,0.826377985,Central,Camden,E09000007
+E02000173,"Camden 008",Camden,0,0,Central,Camden,E09000007
+E02000174,"Camden 009",Camden,4,0.390777648,Central,Camden,E09000007
+E02000175,"Camden 010",Camden,4,0.355871886,Central,Camden,E09000007
+E02000176,"Camden 011",Camden,1,0.13065064,Central,Camden,E09000007
+E02000177,"Camden 012",Camden,5,0.477828746,Central,Camden,E09000007
+E02000178,"Camden 013",Camden,3,0.287797391,Central,Camden,E09000007
+E02000179,"Camden 014",Camden,2,0.263956711,Central,Camden,E09000007
+E02000180,"Camden 015",Camden,2,0.204834084,Central,Camden,E09000007
+E02000181,"Camden 016",Camden,1,0.109421162,Central,Camden,E09000007
+E02000182,"Camden 017",Camden,3,0.345821326,Central,Camden,E09000007
+E02000183,"Camden 018",Camden,3,0.348351138,Central,Camden,E09000007
+E02000184,"Camden 019",Camden,4,0.390205834,Central,Camden,E09000007
+E02000185,"Camden 020",Camden,5,0.502310629,Central,Camden,E09000007
+E02000186,"Camden 021",Camden,3,0.366748166,Central,Camden,E09000007
+E02000187,"Camden 022",Camden,7,0.631142368,Central,Camden,E09000007
+E02000188,"Camden 023",Camden,4,0.450298323,Central,Camden,E09000007
+E02000189,"Camden 024",Camden,1,0.141183114,Central,Camden,E09000007
+E02000190,"Camden 025",Camden,3,0.351288056,Central,Camden,E09000007
+E02000191,"Camden 026",Camden,0,0,Central,Camden,E09000007
+E02000192,"Camden 027",Camden,6,0.683060109,Central,Camden,E09000007
+E02000193,"Camden 028",Camden,2,0.232693426,Central,Camden,E09000007
+E02000194,"Croydon 001",Croydon,13,1.381509033,South,Croydon,E09000008
+E02000195,"Croydon 002",Croydon,11,1.118681989,South,Croydon,E09000008
+E02000196,"Croydon 003",Croydon,10,1.236552492,South,Croydon,E09000008
+E02000197,"Croydon 004",Croydon,5,0.521213385,South,Croydon,E09000008
+E02000198,"Croydon 005",Croydon,8,0.914703865,South,Croydon,E09000008
+E02000199,"Croydon 006",Croydon,8,0.950796292,South,Croydon,E09000008
+E02000200,"Croydon 007",Croydon,2,0.226065333,South,Croydon,E09000008
+E02000201,"Croydon 008",Croydon,2,0.216076059,South,Croydon,E09000008
+E02000202,"Croydon 009",Croydon,10,1.178411501,South,Croydon,E09000008
+E02000203,"Croydon 010",Croydon,10,1.259921885,South,Croydon,E09000008
+E02000204,"Croydon 011",Croydon,12,1.247401247,South,Croydon,E09000008
+E02000206,"Croydon 013",Croydon,4,0.391926318,South,Croydon,E09000008
+E02000207,"Croydon 014",Croydon,1,0.109217999,South,Croydon,E09000008
+E02000208,"Croydon 015",Croydon,5,0.458631444,South,Croydon,E09000008
+E02000209,"Croydon 016",Croydon,6,0.679270916,South,Croydon,E09000008
+E02000210,"Croydon 017",Croydon,3,0.352443609,South,Croydon,E09000008
+E02000211,"Croydon 018",Croydon,5,0.617741537,South,Croydon,E09000008
+E02000212,"Croydon 019",Croydon,2,0.214915109,South,Croydon,E09000008
+E02000213,"Croydon 020",Croydon,9,0.808843354,South,Croydon,E09000008
+E02000214,"Croydon 021",Croydon,6,0.960768615,South,Croydon,E09000008
+E02000215,"Croydon 022",Croydon,8,0.706651356,South,Croydon,E09000008
+E02000216,"Croydon 023",Croydon,5,0.720357297,South,Croydon,E09000008
+E02000217,"Croydon 024",Croydon,2,0.163907556,South,Croydon,E09000008
+E02000218,"Croydon 025",Croydon,3,0.44234739,South,Croydon,E09000008
+E02000219,"Croydon 026",Croydon,9,1.194426012,South,Croydon,E09000008
+E02000220,"Croydon 027",Croydon,12,0.941619586,South,Croydon,E09000008
+E02000221,"Croydon 028",Croydon,13,1.199926158,South,Croydon,E09000008
+E02000222,"Croydon 029",Croydon,1,0.120148985,South,Croydon,E09000008
+E02000223,"Croydon 030",Croydon,0,0,South,Croydon,E09000008
+E02000224,"Croydon 031",Croydon,5,0.623752495,South,Croydon,E09000008
+E02000225,"Croydon 032",Croydon,6,0.788539887,South,Croydon,E09000008
+E02000226,"Croydon 033",Croydon,3,0.398989227,South,Croydon,E09000008
+E02000227,"Croydon 034",Croydon,3,0.261051166,South,Croydon,E09000008
+E02000228,"Croydon 035",Croydon,12,1.544401544,South,Croydon,E09000008
+E02000229,"Croydon 036",Croydon,7,1.030776027,South,Croydon,E09000008
+E02000230,"Croydon 037",Croydon,6,0.569476082,South,Croydon,E09000008
+E02000231,"Croydon 038",Croydon,2,0.262191924,South,Croydon,E09000008
+E02000232,"Croydon 039",Croydon,3,0.476266074,South,Croydon,E09000008
+E02000233,"Croydon 040",Croydon,1,0.153256705,South,Croydon,E09000008
+E02000234,"Croydon 041",Croydon,5,0.57123272,South,Croydon,E09000008
+E02000235,"Croydon 042",Croydon,3,0.422773393,South,Croydon,E09000008
+E02000236,"Croydon 043",Croydon,5,0.623908161,South,Croydon,E09000008
+E02000237,"Croydon 044",Croydon,3,0.390370852,South,Croydon,E09000008
+E02000238,"Ealing 001",Ealing,4,0.424808836,West,Ealing,E09000009
+E02000239,"Ealing 002",Ealing,2,0.226680267,West,Ealing,E09000009
+E02000240,"Ealing 003",Ealing,8,0.78794445,West,Ealing,E09000009
+E02000241,"Ealing 004",Ealing,7,1.046337818,West,Ealing,E09000009
+E02000242,"Ealing 005",Ealing,6,0.874380647,West,Ealing,E09000009
+E02000243,"Ealing 006",Ealing,7,0.826739105,West,Ealing,E09000009
+E02000244,"Ealing 007",Ealing,2,0.266844563,West,Ealing,E09000009
+E02000245,"Ealing 008",Ealing,7,0.82928563,West,Ealing,E09000009
+E02000246,"Ealing 009",Ealing,1,0.115233925,West,Ealing,E09000009
+E02000247,"Ealing 010",Ealing,21,1.999048072,West,Ealing,E09000009
+E02000248,"Ealing 011",Ealing,3,0.390828557,West,Ealing,E09000009
+E02000249,"Ealing 012",Ealing,13,1.739130435,West,Ealing,E09000009
+E02000250,"Ealing 013",Ealing,9,1.428571429,West,Ealing,E09000009
+E02000251,"Ealing 014",Ealing,3,0.401337793,West,Ealing,E09000009
+E02000252,"Ealing 015",Ealing,0,0,West,Ealing,E09000009
+E02000253,"Ealing 016",Ealing,9,0.966391066,West,Ealing,E09000009
+E02000254,"Ealing 017",Ealing,9,1.07117353,West,Ealing,E09000009
+E02000255,"Ealing 018",Ealing,5,0.538502962,West,Ealing,E09000009
+E02000256,"Ealing 019",Ealing,2,0.23054755,West,Ealing,E09000009
+E02000257,"Ealing 020",Ealing,2,0.138523341,West,Ealing,E09000009
+E02000258,"Ealing 021",Ealing,2,0.286902883,West,Ealing,E09000009
+E02000259,"Ealing 022",Ealing,3,0.495622006,West,Ealing,E09000009
+E02000260,"Ealing 023",Ealing,8,0.857081637,West,Ealing,E09000009
+E02000261,"Ealing 024",Ealing,4,0.338037691,West,Ealing,E09000009
+E02000262,"Ealing 025",Ealing,13,1.459034792,West,Ealing,E09000009
+E02000263,"Ealing 026",Ealing,8,0.673004122,West,Ealing,E09000009
+E02000264,"Ealing 027",Ealing,3,0.355745286,West,Ealing,E09000009
+E02000265,"Ealing 028",Ealing,9,0.843012364,West,Ealing,E09000009
+E02000266,"Ealing 029",Ealing,16,1.396648045,West,Ealing,E09000009
+E02000267,"Ealing 030",Ealing,3,0.410677618,West,Ealing,E09000009
+E02000268,"Ealing 031",Ealing,6,0.670840787,West,Ealing,E09000009
+E02000269,"Ealing 032",Ealing,1,0.124672734,West,Ealing,E09000009
+E02000270,"Ealing 033",Ealing,6,0.771406531,West,Ealing,E09000009
+E02000271,"Ealing 034",Ealing,3,0.435097897,West,Ealing,E09000009
+E02000272,"Ealing 035",Ealing,4,0.618238022,West,Ealing,E09000009
+E02000274,"Ealing 037",Ealing,9,0.635817732,West,Ealing,E09000009
+E02000275,"Ealing 038",Ealing,14,1.87366167,West,Ealing,E09000009
+E02000276,"Ealing 039",Ealing,3,0.459277404,West,Ealing,E09000009
+E02000277,"Enfield 001",Enfield,4,0.522739153,North,Enfield,E09000010
+E02000278,"Enfield 002",Enfield,7,0.711599065,North,Enfield,E09000010
+E02000279,"Enfield 003",Enfield,3,0.229832222,North,Enfield,E09000010
+E02000280,"Enfield 004",Enfield,16,1.875293015,North,Enfield,E09000010
+E02000281,"Enfield 005",Enfield,4,0.429599399,North,Enfield,E09000010
+E02000282,"Enfield 006",Enfield,4,0.397851601,North,Enfield,E09000010
+E02000283,"Enfield 007",Enfield,2,0.226244344,North,Enfield,E09000010
+E02000284,"Enfield 008",Enfield,0,0,North,Enfield,E09000010
+E02000285,"Enfield 009",Enfield,3,0.466200466,North,Enfield,E09000010
+E02000286,"Enfield 010",Enfield,9,1.056710109,North,Enfield,E09000010
+E02000287,"Enfield 011",Enfield,13,1.81665735,North,Enfield,E09000010
+E02000288,"Enfield 012",Enfield,2,0.176397954,North,Enfield,E09000010
+E02000289,"Enfield 013",Enfield,2,0.303168107,North,Enfield,E09000010
+E02000290,"Enfield 014",Enfield,5,0.71952799,North,Enfield,E09000010
+E02000291,"Enfield 015",Enfield,3,0.292597289,North,Enfield,E09000010
+E02000292,"Enfield 016",Enfield,10,1.017087063,North,Enfield,E09000010
+E02000293,"Enfield 017",Enfield,2,0.309023486,North,Enfield,E09000010
+E02000294,"Enfield 018",Enfield,4,0.424403183,North,Enfield,E09000010
+E02000295,"Enfield 019",Enfield,6,0.663496627,North,Enfield,E09000010
+E02000296,"Enfield 020",Enfield,18,1.722488038,North,Enfield,E09000010
+E02000297,"Enfield 021",Enfield,5,0.51975052,North,Enfield,E09000010
+E02000298,"Enfield 022",Enfield,10,1.240233164,North,Enfield,E09000010
+E02000299,"Enfield 023",Enfield,7,0.69637883,North,Enfield,E09000010
+E02000300,"Enfield 024",Enfield,8,0.885347499,North,Enfield,E09000010
+E02000301,"Enfield 025",Enfield,6,0.544168329,North,Enfield,E09000010
+E02000302,"Enfield 026",Enfield,3,0.348513011,North,Enfield,E09000010
+E02000303,"Enfield 027",Enfield,5,0.546209307,North,Enfield,E09000010
+E02000304,"Enfield 028",Enfield,1,0.121787846,North,Enfield,E09000010
+E02000305,"Enfield 029",Enfield,6,0.6709158,North,Enfield,E09000010
+E02000306,"Enfield 030",Enfield,7,0.760208514,North,Enfield,E09000010
+E02000307,"Enfield 031",Enfield,8,0.78794445,North,Enfield,E09000010
+E02000308,"Enfield 032",Enfield,2,0.238180302,North,Enfield,E09000010
+E02000309,"Enfield 033",Enfield,11,0.89039987,North,Enfield,E09000010
+E02000311,"Enfield 035",Enfield,10,0.924299843,North,Enfield,E09000010
+E02000312,"Enfield 036",Enfield,5,0.430774533,North,Enfield,E09000010
+E02000313,"Greenwich 001",Greenwich,2,0.265287173,East,Greenwich,E09000011
+E02000314,"Greenwich 002",Greenwich,7,0.434863639,East,Greenwich,E09000011
+E02000315,"Greenwich 003",Greenwich,6,0.618620476,East,Greenwich,E09000011
+E02000316,"Greenwich 004",Greenwich,6,0.413080895,East,Greenwich,E09000011
+E02000317,"Greenwich 005",Greenwich,6,0.698486612,East,Greenwich,E09000011
+E02000318,"Greenwich 006",Greenwich,4,0.381460996,East,Greenwich,E09000011
+E02000319,"Greenwich 007",Greenwich,4,0.336671997,East,Greenwich,E09000011
+E02000320,"Greenwich 008",Greenwich,7,0.957854406,East,Greenwich,E09000011
+E02000321,"Greenwich 009",Greenwich,2,0.25910092,East,Greenwich,E09000011
+E02000323,"Greenwich 011",Greenwich,6,0.529707778,East,Greenwich,E09000011
+E02000324,"Greenwich 012",Greenwich,4,0.50018757,East,Greenwich,E09000011
+E02000326,"Greenwich 014",Greenwich,4,0.536624631,East,Greenwich,E09000011
+E02000327,"Greenwich 015",Greenwich,3,0.419756541,East,Greenwich,E09000011
+E02000328,"Greenwich 016",Greenwich,6,0.876680304,East,Greenwich,E09000011
+E02000329,"Greenwich 017",Greenwich,2,0.316756414,East,Greenwich,E09000011
+E02000331,"Greenwich 019",Greenwich,6,0.728420541,East,Greenwich,E09000011
+E02000332,"Greenwich 020",Greenwich,2,0.258732212,East,Greenwich,E09000011
+E02000333,"Greenwich 021",Greenwich,3,0.457945352,East,Greenwich,E09000011
+E02000334,"Greenwich 022",Greenwich,4,0.604869197,East,Greenwich,E09000011
+E02000335,"Greenwich 023",Greenwich,3,0.436554133,East,Greenwich,E09000011
+E02000337,"Greenwich 025",Greenwich,2,0.240182539,East,Greenwich,E09000011
+E02000339,"Greenwich 027",Greenwich,6,0.949367089,East,Greenwich,E09000011
+E02000340,"Greenwich 028",Greenwich,0,0,East,Greenwich,E09000011
+E02000341,"Greenwich 029",Greenwich,5,0.611545988,East,Greenwich,E09000011
+E02000342,"Greenwich 030",Greenwich,1,0.160926939,East,Greenwich,E09000011
+E02000343,"Greenwich 031",Greenwich,5,0.724112962,East,Greenwich,E09000011
+E02000344,"Greenwich 032",Greenwich,10,1.526018617,East,Greenwich,E09000011
+E02000345,"Hackney 001",Hackney,6,0.61893955,East,Hackney,E09000012
+E02000346,"Hackney 002",Hackney,3,0.381825124,East,Hackney,E09000012
+E02000347,"Hackney 003",Hackney,3,0.339481725,East,Hackney,E09000012
+E02000348,"Hackney 004",Hackney,8,0.884271029,East,Hackney,E09000012
+E02000350,"Hackney 006",Hackney,7,0.69797587,East,Hackney,E09000012
+E02000351,"Hackney 007",Hackney,3,0.310045473,East,Hackney,E09000012
+E02000352,"Hackney 008",Hackney,6,0.823045267,East,Hackney,E09000012
+E02000353,"Hackney 009",Hackney,5,0.610053685,East,Hackney,E09000012
+E02000354,"Hackney 010",Hackney,5,0.466853408,East,Hackney,E09000012
+E02000355,"Hackney 011",Hackney,14,1.508133147,East,Hackney,E09000012
+E02000356,"Hackney 012",Hackney,3,0.403171617,East,Hackney,E09000012
+E02000357,"Hackney 013",Hackney,4,0.600240096,East,Hackney,E09000012
+E02000358,"Hackney 014",Hackney,10,0.840760047,East,Hackney,E09000012
+E02000359,"Hackney 015",Hackney,4,0.592592593,East,Hackney,E09000012
+E02000360,"Hackney 016",Hackney,5,0.41411297,East,Hackney,E09000012
+E02000361,"Hackney 017",Hackney,2,0.223064912,East,Hackney,E09000012
+E02000362,"Hackney 018",Hackney,0,0,East,Hackney,E09000012
+E02000363,"Hackney 019",Hackney,5,0.414215889,East,Hackney,E09000012
+E02000364,"Hackney 020",Hackney,5,0.484637007,East,Hackney,E09000012
+E02000365,"Hackney 021",Hackney,7,0.453221107,East,Hackney,E09000012
+E02000366,"Hackney 022",Hackney,6,0.645647261,East,Hackney,E09000012
+E02000367,"Hackney 023",Hackney,4,0.345006038,East,Hackney,E09000012
+E02000368,"Hackney 024",Hackney,5,0.470278405,East,Hackney,E09000012
+E02000369,"Hackney 025",Hackney,11,0.763729779,East,Hackney,E09000012
+E02000370,"Hackney 026",Hackney,6,0.60204696,East,Hackney,E09000012
+E02000371,"Hackney 027",Hackney,1,0.061827625,East,Hackney,E09000012
+E02000372,"Hammersmith and Fulham 001","Hammersmith and Fulham",6,0.607410407,West,"Hammersmith and Fulham",E09000013
+E02000373,"Hammersmith and Fulham 002","Hammersmith and Fulham",1,0.148367953,West,"Hammersmith and Fulham",E09000013
+E02000374,"Hammersmith and Fulham 003","Hammersmith and Fulham",8,1.174053419,West,"Hammersmith and Fulham",E09000013
+E02000375,"Hammersmith and Fulham 004","Hammersmith and Fulham",0,0,West,"Hammersmith and Fulham",E09000013
+E02000376,"Hammersmith and Fulham 005","Hammersmith and Fulham",4,0.579122629,West,"Hammersmith and Fulham",E09000013
+E02000377,"Hammersmith and Fulham 006","Hammersmith and Fulham",5,0.606575276,West,"Hammersmith and Fulham",E09000013
+E02000378,"Hammersmith and Fulham 007","Hammersmith and Fulham",4,0.612463635,West,"Hammersmith and Fulham",E09000013
+E02000379,"Hammersmith and Fulham 008","Hammersmith and Fulham",18,2.292993631,West,"Hammersmith and Fulham",E09000013
+E02000380,"Hammersmith and Fulham 009","Hammersmith and Fulham",2,0.342055755,West,"Hammersmith and Fulham",E09000013
+E02000381,"Hammersmith and Fulham 010","Hammersmith and Fulham",3,0.376553282,West,"Hammersmith and Fulham",E09000013
+E02000382,"Hammersmith and Fulham 011","Hammersmith and Fulham",1,0.169004563,West,"Hammersmith and Fulham",E09000013
+E02000383,"Hammersmith and Fulham 012","Hammersmith and Fulham",5,0.558534406,West,"Hammersmith and Fulham",E09000013
+E02000384,"Hammersmith and Fulham 013","Hammersmith and Fulham",10,1.361470388,West,"Hammersmith and Fulham",E09000013
+E02000385,"Hammersmith and Fulham 014","Hammersmith and Fulham",1,0.166002656,West,"Hammersmith and Fulham",E09000013
+E02000386,"Hammersmith and Fulham 015","Hammersmith and Fulham",5,0.617283951,West,"Hammersmith and Fulham",E09000013
+E02000387,"Hammersmith and Fulham 016","Hammersmith and Fulham",3,0.49833887,West,"Hammersmith and Fulham",E09000013
+E02000388,"Hammersmith and Fulham 017","Hammersmith and Fulham",9,1.0348396,West,"Hammersmith and Fulham",E09000013
+E02000389,"Hammersmith and Fulham 018","Hammersmith and Fulham",5,0.594883998,West,"Hammersmith and Fulham",E09000013
+E02000390,"Hammersmith and Fulham 019","Hammersmith and Fulham",0,0,West,"Hammersmith and Fulham",E09000013
+E02000391,"Hammersmith and Fulham 020","Hammersmith and Fulham",2,0.250438267,West,"Hammersmith and Fulham",E09000013
+E02000392,"Hammersmith and Fulham 021","Hammersmith and Fulham",1,0.10517459,West,"Hammersmith and Fulham",E09000013
+E02000393,"Hammersmith and Fulham 022","Hammersmith and Fulham",0,0,West,"Hammersmith and Fulham",E09000013
+E02000394,"Hammersmith and Fulham 023","Hammersmith and Fulham",4,0.435872289,West,"Hammersmith and Fulham",E09000013
+E02000395,"Hammersmith and Fulham 024","Hammersmith and Fulham",1,0.161812298,West,"Hammersmith and Fulham",E09000013
+E02000396,"Hammersmith and Fulham 025","Hammersmith and Fulham",2,0.283406547,West,"Hammersmith and Fulham",E09000013
+E02000397,"Haringey 001",Haringey,6,0.699382212,North,Haringey,E09000014
+E02000398,"Haringey 002",Haringey,6,0.760263558,North,Haringey,E09000014
+E02000400,"Haringey 004",Haringey,4,0.490136013,North,Haringey,E09000014
+E02000401,"Haringey 005",Haringey,2,0.297574766,North,Haringey,E09000014
+E02000402,"Haringey 006",Haringey,2,0.295202952,North,Haringey,E09000014
+E02000403,"Haringey 007",Haringey,4,0.487388814,North,Haringey,E09000014
+E02000404,"Haringey 008",Haringey,4,0.508388409,North,Haringey,E09000014
+E02000405,"Haringey 009",Haringey,7,1.077586207,North,Haringey,E09000014
+E02000406,"Haringey 010",Haringey,3,0.415397397,North,Haringey,E09000014
+E02000407,"Haringey 011",Haringey,6,0.780538572,North,Haringey,E09000014
+E02000408,"Haringey 012",Haringey,9,1.064207166,North,Haringey,E09000014
+E02000409,"Haringey 013",Haringey,3,0.467726848,North,Haringey,E09000014
+E02000410,"Haringey 014",Haringey,1,0.14907573,North,Haringey,E09000014
+E02000411,"Haringey 015",Haringey,2,0.187090739,North,Haringey,E09000014
+E02000412,"Haringey 016",Haringey,6,0.765013388,North,Haringey,E09000014
+E02000413,"Haringey 017",Haringey,4,0.524177696,North,Haringey,E09000014
+E02000414,"Haringey 018",Haringey,6,0.841160802,North,Haringey,E09000014
+E02000415,"Haringey 019",Haringey,3,0.414708322,North,Haringey,E09000014
+E02000416,"Haringey 020",Haringey,4,0.498504487,North,Haringey,E09000014
+E02000417,"Haringey 021",Haringey,6,0.912825194,North,Haringey,E09000014
+E02000418,"Haringey 022",Haringey,3,0.552791598,North,Haringey,E09000014
+E02000419,"Haringey 023",Haringey,4,0.446627959,North,Haringey,E09000014
+E02000420,"Haringey 024",Haringey,7,0.849205386,North,Haringey,E09000014
+E02000421,"Haringey 025",Haringey,12,1.450501632,North,Haringey,E09000014
+E02000422,"Haringey 026",Haringey,7,0.827325375,North,Haringey,E09000014
+E02000423,"Haringey 027",Haringey,3,0.403551251,North,Haringey,E09000014
+E02000424,"Haringey 028",Haringey,3,0.435983142,North,Haringey,E09000014
+E02000425,"Haringey 029",Haringey,8,1.016906063,North,Haringey,E09000014
+E02000426,"Haringey 030",Haringey,5,0.812215724,North,Haringey,E09000014
+E02000427,"Haringey 031",Haringey,4,0.573805767,North,Haringey,E09000014
+E02000428,"Haringey 032",Haringey,7,0.853970965,North,Haringey,E09000014
+E02000429,"Haringey 033",Haringey,3,0.425170068,North,Haringey,E09000014
+E02000430,"Haringey 034",Haringey,3,0.415454923,North,Haringey,E09000014
+E02000431,"Haringey 035",Haringey,0,0,North,Haringey,E09000014
+E02000432,"Haringey 036",Haringey,4,0.630914826,North,Haringey,E09000014
+E02000433,"Harrow 001",Harrow,21,2.541757444,West,Harrow,E09000015
+E02000434,"Harrow 002",Harrow,18,1.871296393,West,Harrow,E09000015
+E02000435,"Harrow 003",Harrow,8,1.020538334,West,Harrow,E09000015
+E02000436,"Harrow 004",Harrow,7,1.257409736,West,Harrow,E09000015
+E02000437,"Harrow 005",Harrow,12,1.401214386,West,Harrow,E09000015
+E02000438,"Harrow 006",Harrow,9,1.146204789,West,Harrow,E09000015
+E02000439,"Harrow 007",Harrow,8,0.882125923,West,Harrow,E09000015
+E02000440,"Harrow 008",Harrow,3,0.31377471,West,Harrow,E09000015
+E02000441,"Harrow 009",Harrow,8,1.123279978,West,Harrow,E09000015
+E02000442,"Harrow 010",Harrow,4,0.439657067,West,Harrow,E09000015
+E02000443,"Harrow 011",Harrow,13,1.266933047,West,Harrow,E09000015
+E02000444,"Harrow 012",Harrow,5,0.563761416,West,Harrow,E09000015
+E02000445,"Harrow 013",Harrow,13,1.169485426,West,Harrow,E09000015
+E02000447,"Harrow 015",Harrow,5,0.698226505,West,Harrow,E09000015
+E02000448,"Harrow 016",Harrow,5,0.711642471,West,Harrow,E09000015
+E02000449,"Harrow 017",Harrow,13,1.56626506,West,Harrow,E09000015
+E02000451,"Harrow 019",Harrow,4,0.601232527,West,Harrow,E09000015
+E02000452,"Harrow 020",Harrow,8,0.93218364,West,Harrow,E09000015
+E02000453,"Harrow 021",Harrow,5,0.608790941,West,Harrow,E09000015
+E02000454,"Harrow 022",Harrow,3,0.423131171,West,Harrow,E09000015
+E02000455,"Harrow 023",Harrow,8,0.841131322,West,Harrow,E09000015
+E02000456,"Harrow 024",Harrow,7,0.960878518,West,Harrow,E09000015
+E02000457,"Harrow 025",Harrow,4,0.604594921,West,Harrow,E09000015
+E02000459,"Harrow 027",Harrow,9,0.974870017,West,Harrow,E09000015
+E02000460,"Harrow 028",Harrow,7,1.029866117,West,Harrow,E09000015
+E02000461,"Harrow 029",Harrow,6,0.802139037,West,Harrow,E09000015
+E02000462,"Harrow 030",Harrow,5,0.734969866,West,Harrow,E09000015
+E02000463,"Harrow 031",Harrow,3,0.359625989,West,Harrow,E09000015
+E02000464,"Havering 001",Havering,4,0.519278203,East,Havering,E09000016
+E02000465,"Havering 002",Havering,4,0.427990584,East,Havering,E09000016
+E02000466,"Havering 003",Havering,4,0.449438202,East,Havering,E09000016
+E02000467,"Havering 004",Havering,5,0.445354948,East,Havering,E09000016
+E02000468,"Havering 005",Havering,10,1.199904008,East,Havering,E09000016
+E02000469,"Havering 006",Havering,2,0.274085241,East,Havering,E09000016
+E02000470,"Havering 007",Havering,8,0.876904527,East,Havering,E09000016
+E02000471,"Havering 008",Havering,3,0.396301189,East,Havering,E09000016
+E02000472,"Havering 009",Havering,4,0.434640878,East,Havering,E09000016
+E02000473,"Havering 010",Havering,3,0.288711385,East,Havering,E09000016
+E02000474,"Havering 011",Havering,5,0.546746856,East,Havering,E09000016
+E02000475,"Havering 012",Havering,7,0.705858627,East,Havering,E09000016
+E02000476,"Havering 013",Havering,5,0.488854126,East,Havering,E09000016
+E02000477,"Havering 014",Havering,4,0.418760469,East,Havering,E09000016
+E02000478,"Havering 015",Havering,7,1.197399932,East,Havering,E09000016
+E02000479,"Havering 016",Havering,6,0.63525675,East,Havering,E09000016
+E02000480,"Havering 017",Havering,11,0.865256037,East,Havering,E09000016
+E02000481,"Havering 018",Havering,12,1.492351698,East,Havering,E09000016
+E02000482,"Havering 019",Havering,4,0.614911606,East,Havering,E09000016
+E02000483,"Havering 020",Havering,4,0.501504514,East,Havering,E09000016
+E02000484,"Havering 021",Havering,7,0.838624656,East,Havering,E09000016
+E02000485,"Havering 022",Havering,5,0.579575751,East,Havering,E09000016
+E02000486,"Havering 023",Havering,6,0.795228628,East,Havering,E09000016
+E02000487,"Havering 024",Havering,9,1.162040026,East,Havering,E09000016
+E02000488,"Havering 025",Havering,3,0.412031314,East,Havering,E09000016
+E02000489,"Havering 026",Havering,3,0.348270258,East,Havering,E09000016
+E02000490,"Havering 027",Havering,6,0.748596382,East,Havering,E09000016
+E02000491,"Havering 028",Havering,7,0.711526733,East,Havering,E09000016
+E02000492,"Havering 029",Havering,3,0.461254613,East,Havering,E09000016
+E02000493,"Havering 030",Havering,5,0.731850117,East,Havering,E09000016
+E02000494,"Hillingdon 001",Hillingdon,4,0.51975052,West,Hillingdon,E09000017
+E02000495,"Hillingdon 002",Hillingdon,10,0.959969281,West,Hillingdon,E09000017
+E02000496,"Hillingdon 003",Hillingdon,15,1.979675333,West,Hillingdon,E09000017
+E02000497,"Hillingdon 004",Hillingdon,16,1.722096653,West,Hillingdon,E09000017
+E02000498,"Hillingdon 005",Hillingdon,4,0.649878148,West,Hillingdon,E09000017
+E02000499,"Hillingdon 006",Hillingdon,6,0.785134781,West,Hillingdon,E09000017
+E02000500,"Hillingdon 007",Hillingdon,5,0.603354652,West,Hillingdon,E09000017
+E02000501,"Hillingdon 008",Hillingdon,4,0.475680818,West,Hillingdon,E09000017
+E02000502,"Hillingdon 009",Hillingdon,6,0.700852704,West,Hillingdon,E09000017
+E02000503,"Hillingdon 010",Hillingdon,1,0.109577033,West,Hillingdon,E09000017
+E02000504,"Hillingdon 011",Hillingdon,3,0.40096231,West,Hillingdon,E09000017
+E02000506,"Hillingdon 013",Hillingdon,3,0.380083618,West,Hillingdon,E09000017
+E02000507,"Hillingdon 014",Hillingdon,1,0.121197431,West,Hillingdon,E09000017
+E02000508,"Hillingdon 015",Hillingdon,1,0.085128118,West,Hillingdon,E09000017
+E02000509,"Hillingdon 016",Hillingdon,4,0.328030179,West,Hillingdon,E09000017
+E02000510,"Hillingdon 017",Hillingdon,4,0.439319055,West,Hillingdon,E09000017
+E02000511,"Hillingdon 018",Hillingdon,6,0.601443464,West,Hillingdon,E09000017
+E02000512,"Hillingdon 019",Hillingdon,2,0.226500566,West,Hillingdon,E09000017
+E02000513,"Hillingdon 020",Hillingdon,5,0.497561946,West,Hillingdon,E09000017
+E02000514,"Hillingdon 021",Hillingdon,9,0.839787254,West,Hillingdon,E09000017
+E02000515,"Hillingdon 022",Hillingdon,4,0.330441966,West,Hillingdon,E09000017
+E02000516,"Hillingdon 023",Hillingdon,5,0.543951262,West,Hillingdon,E09000017
+E02000517,"Hillingdon 024",Hillingdon,7,0.691153239,West,Hillingdon,E09000017
+E02000518,"Hillingdon 025",Hillingdon,3,0.337685727,West,Hillingdon,E09000017
+E02000519,"Hillingdon 026",Hillingdon,3,0.32449973,West,Hillingdon,E09000017
+E02000520,"Hillingdon 027",Hillingdon,8,0.579542162,West,Hillingdon,E09000017
+E02000521,"Hillingdon 028",Hillingdon,4,0.304275065,West,Hillingdon,E09000017
+E02000522,"Hillingdon 029",Hillingdon,6,0.623441397,West,Hillingdon,E09000017
+E02000523,"Hillingdon 030",Hillingdon,4,0.343377114,West,Hillingdon,E09000017
+E02000524,"Hillingdon 031",Hillingdon,5,0.616067028,West,Hillingdon,E09000017
+E02000525,"Hillingdon 032",Hillingdon,4,0.389521862,West,Hillingdon,E09000017
+E02000526,"Hounslow 001",Hounslow,2,0.234934806,West,Hounslow,E09000018
+E02000528,"Hounslow 003",Hounslow,4,0.323049588,West,Hounslow,E09000018
+E02000529,"Hounslow 004",Hounslow,3,0.334933572,West,Hounslow,E09000018
+E02000530,"Hounslow 005",Hounslow,6,0.819560169,West,Hounslow,E09000018
+E02000531,"Hounslow 006",Hounslow,6,0.572628364,West,Hounslow,E09000018
+E02000532,"Hounslow 007",Hounslow,3,0.332926423,West,Hounslow,E09000018
+E02000533,"Hounslow 008",Hounslow,3,0.355534487,West,Hounslow,E09000018
+E02000534,"Hounslow 009",Hounslow,3,0.372902424,West,Hounslow,E09000018
+E02000535,"Hounslow 010",Hounslow,10,1.077354019,West,Hounslow,E09000018
+E02000536,"Hounslow 011",Hounslow,3,0.321543408,West,Hounslow,E09000018
+E02000537,"Hounslow 012",Hounslow,2,0.222866057,West,Hounslow,E09000018
+E02000538,"Hounslow 013",Hounslow,4,0.415498078,West,Hounslow,E09000018
+E02000539,"Hounslow 014",Hounslow,9,0.820868296,West,Hounslow,E09000018
+E02000540,"Hounslow 015",Hounslow,12,1.089225742,West,Hounslow,E09000018
+E02000541,"Hounslow 016",Hounslow,7,0.724337748,West,Hounslow,E09000018
+E02000542,"Hounslow 017",Hounslow,7,0.601581299,West,Hounslow,E09000018
+E02000543,"Hounslow 018",Hounslow,3,0.219796322,West,Hounslow,E09000018
+E02000544,"Hounslow 019",Hounslow,1,0.122369065,West,Hounslow,E09000018
+E02000545,"Hounslow 020",Hounslow,1,0.114823746,West,Hounslow,E09000018
+E02000546,"Hounslow 021",Hounslow,1,0.102806621,West,Hounslow,E09000018
+E02000547,"Hounslow 022",Hounslow,5,0.501756147,West,Hounslow,E09000018
+E02000548,"Hounslow 023",Hounslow,6,0.599340725,West,Hounslow,E09000018
+E02000549,"Hounslow 024",Hounslow,7,0.606796117,West,Hounslow,E09000018
+E02000550,"Hounslow 025",Hounslow,0,0,West,Hounslow,E09000018
+E02000551,"Hounslow 026",Hounslow,2,0.219466696,West,Hounslow,E09000018
+E02000552,"Hounslow 027",Hounslow,1,0.109385255,West,Hounslow,E09000018
+E02000553,"Hounslow 028",Hounslow,3,0.415973378,West,Hounslow,E09000018
+E02000554,"Islington 001",Islington,1,0.099780483,Central,Islington,E09000019
+E02000555,"Islington 002",Islington,2,0.201673893,Central,Islington,E09000019
+E02000556,"Islington 003",Islington,6,0.52608505,Central,Islington,E09000019
+E02000557,"Islington 004",Islington,2,0.225326724,Central,Islington,E09000019
+E02000558,"Islington 005",Islington,3,0.294290759,Central,Islington,E09000019
+E02000559,"Islington 006",Islington,1,0.095020905,Central,Islington,E09000019
+E02000560,"Islington 007",Islington,1,0.110975474,Central,Islington,E09000019
+E02000561,"Islington 008",Islington,4,0.467344316,Central,Islington,E09000019
+E02000562,"Islington 009",Islington,5,0.56567485,Central,Islington,E09000019
+E02000563,"Islington 010",Islington,4,0.464198677,Central,Islington,E09000019
+E02000564,"Islington 011",Islington,2,0.144896037,Central,Islington,E09000019
+E02000565,"Islington 012",Islington,2,0.220896841,Central,Islington,E09000019
+E02000566,"Islington 013",Islington,1,0.106575722,Central,Islington,E09000019
+E02000567,"Islington 014",Islington,3,0.260235947,Central,Islington,E09000019
+E02000568,"Islington 015",Islington,6,0.464792006,Central,Islington,E09000019
+E02000569,"Islington 016",Islington,6,0.539422818,Central,Islington,E09000019
+E02000570,"Islington 017",Islington,2,0.200863714,Central,Islington,E09000019
+E02000571,"Islington 018",Islington,3,0.326406267,Central,Islington,E09000019
+E02000572,"Islington 019",Islington,7,0.755368512,Central,Islington,E09000019
+E02000573,"Islington 020",Islington,18,1.730935667,Central,Islington,E09000019
+E02000574,"Islington 021",Islington,3,0.312891114,Central,Islington,E09000019
+E02000575,"Islington 022",Islington,3,0.198176774,Central,Islington,E09000019
+E02000576,"Islington 023",Islington,3,0.253421186,Central,Islington,E09000019
+E02000577,"Kensington and Chelsea 001","Kensington and Chelsea",4,0.592329335,Central,"Kensington and Chelsea",E09000020
+E02000578,"Kensington and Chelsea 002","Kensington and Chelsea",8,1.367755172,Central,"Kensington and Chelsea",E09000020
+E02000579,"Kensington and Chelsea 003","Kensington and Chelsea",4,0.491098834,Central,"Kensington and Chelsea",E09000020
+E02000580,"Kensington and Chelsea 004","Kensington and Chelsea",5,0.624843789,Central,"Kensington and Chelsea",E09000020
+E02000581,"Kensington and Chelsea 005","Kensington and Chelsea",4,0.604047116,Central,"Kensington and Chelsea",E09000020
+E02000582,"Kensington and Chelsea 006","Kensington and Chelsea",6,0.8256502,Central,"Kensington and Chelsea",E09000020
+E02000583,"Kensington and Chelsea 007","Kensington and Chelsea",2,0.287521564,Central,"Kensington and Chelsea",E09000020
+E02000584,"Kensington and Chelsea 008","Kensington and Chelsea",1,0.124331717,Central,"Kensington and Chelsea",E09000020
+E02000585,"Kensington and Chelsea 009","Kensington and Chelsea",2,0.249252243,Central,"Kensington and Chelsea",E09000020
+E02000586,"Kensington and Chelsea 010","Kensington and Chelsea",0,0,Central,"Kensington and Chelsea",E09000020
+E02000587,"Kensington and Chelsea 011","Kensington and Chelsea",4,0.538068335,Central,"Kensington and Chelsea",E09000020
+E02000588,"Kensington and Chelsea 012","Kensington and Chelsea",2,0.254582485,Central,"Kensington and Chelsea",E09000020
+E02000589,"Kensington and Chelsea 013","Kensington and Chelsea",5,0.575771534,Central,"Kensington and Chelsea",E09000020
+E02000590,"Kensington and Chelsea 014","Kensington and Chelsea",2,0.291502696,Central,"Kensington and Chelsea",E09000020
+E02000591,"Kensington and Chelsea 015","Kensington and Chelsea",4,0.586252382,Central,"Kensington and Chelsea",E09000020
+E02000592,"Kensington and Chelsea 016","Kensington and Chelsea",4,0.579122629,Central,"Kensington and Chelsea",E09000020
+E02000593,"Kensington and Chelsea 017","Kensington and Chelsea",1,0.12363996,Central,"Kensington and Chelsea",E09000020
+E02000594,"Kensington and Chelsea 018","Kensington and Chelsea",10,1.285347044,Central,"Kensington and Chelsea",E09000020
+E02000595,"Kensington and Chelsea 019","Kensington and Chelsea",3,0.399627015,Central,"Kensington and Chelsea",E09000020
+E02000596,"Kensington and Chelsea 020","Kensington and Chelsea",9,1.168831169,Central,"Kensington and Chelsea",E09000020
+E02000597,"Kensington and Chelsea 021","Kensington and Chelsea",4,0.553020877,Central,"Kensington and Chelsea",E09000020
+E02000598,"Kingston upon Thames 001","Kingston upon Thames",2,0.244021474," South","Kingston upon Thames",E09000021
+E02000599,"Kingston upon Thames 002","Kingston upon Thames",8,0.946521533," South","Kingston upon Thames",E09000021
+E02000600,"Kingston upon Thames 003","Kingston upon Thames",5,0.523395792," South","Kingston upon Thames",E09000021
+E02000601,"Kingston upon Thames 004","Kingston upon Thames",0,0," South","Kingston upon Thames",E09000021
+E02000602,"Kingston upon Thames 005","Kingston upon Thames",0,0," South","Kingston upon Thames",E09000021
+E02000603,"Kingston upon Thames 006","Kingston upon Thames",4,0.453669048," South","Kingston upon Thames",E09000021
+E02000604,"Kingston upon Thames 007","Kingston upon Thames",3,0.321577875," South","Kingston upon Thames",E09000021
+E02000605,"Kingston upon Thames 008","Kingston upon Thames",7,0.839529863," South","Kingston upon Thames",E09000021
+E02000606,"Kingston upon Thames 009","Kingston upon Thames",2,0.178906879," South","Kingston upon Thames",E09000021
+E02000607,"Kingston upon Thames 010","Kingston upon Thames",0,0," South","Kingston upon Thames",E09000021
+E02000608,"Kingston upon Thames 011","Kingston upon Thames",0,0," South","Kingston upon Thames",E09000021
+E02000609,"Kingston upon Thames 012","Kingston upon Thames",3,0.390015601," South","Kingston upon Thames",E09000021
+E02000610,"Kingston upon Thames 013","Kingston upon Thames",7,0.865158818," South","Kingston upon Thames",E09000021
+E02000611,"Kingston upon Thames 014","Kingston upon Thames",1,0.135869565," South","Kingston upon Thames",E09000021
+E02000612,"Kingston upon Thames 015","Kingston upon Thames",4,0.488878025," South","Kingston upon Thames",E09000021
+E02000613,"Kingston upon Thames 016","Kingston upon Thames",2,0.240153698," South","Kingston upon Thames",E09000021
+E02000614,"Kingston upon Thames 017","Kingston upon Thames",3,0.330578512," South","Kingston upon Thames",E09000021
+E02000615,"Kingston upon Thames 018","Kingston upon Thames",3,0.388701736," South","Kingston upon Thames",E09000021
+E02000616,"Kingston upon Thames 019","Kingston upon Thames",1,0.166583375," South","Kingston upon Thames",E09000021
+E02000617,"Kingston upon Thames 020","Kingston upon Thames",2,0.223964166," South","Kingston upon Thames",E09000021
+E02000619,"Lambeth 002",Lambeth,5,0.549813064,Central,Lambeth,E09000022
+E02000620,"Lambeth 003",Lambeth,5,0.475465957,Central,Lambeth,E09000022
+E02000621,"Lambeth 004",Lambeth,8,0.682360969,Central,Lambeth,E09000022
+E02000622,"Lambeth 005",Lambeth,4,0.4459806,Central,Lambeth,E09000022
+E02000623,"Lambeth 006",Lambeth,4,0.492914356,Central,Lambeth,E09000022
+E02000624,"Lambeth 007",Lambeth,6,0.673174015,Central,Lambeth,E09000022
+E02000625,"Lambeth 008",Lambeth,3,0.357781753,Central,Lambeth,E09000022
+E02000626,"Lambeth 009",Lambeth,8,0.948204338,Central,Lambeth,E09000022
+E02000627,"Lambeth 010",Lambeth,3,0.300090027,Central,Lambeth,E09000022
+E02000628,"Lambeth 011",Lambeth,9,0.92175338,Central,Lambeth,E09000022
+E02000629,"Lambeth 012",Lambeth,2,0.215866163,Central,Lambeth,E09000022
+E02000630,"Lambeth 013",Lambeth,5,0.620116582,Central,Lambeth,E09000022
+E02000631,"Lambeth 014",Lambeth,5,0.530166472,Central,Lambeth,E09000022
+E02000632,"Lambeth 015",Lambeth,2,0.213219616,Central,Lambeth,E09000022
+E02000633,"Lambeth 016",Lambeth,3,0.327189443,Central,Lambeth,E09000022
+E02000634,"Lambeth 017",Lambeth,7,1.01744186,Central,Lambeth,E09000022
+E02000635,"Lambeth 018",Lambeth,8,0.866926745,Central,Lambeth,E09000022
+E02000636,"Lambeth 019",Lambeth,7,0.850753525,Central,Lambeth,E09000022
+E02000637,"Lambeth 020",Lambeth,5,0.552791598,Central,Lambeth,E09000022
+E02000638,"Lambeth 021",Lambeth,3,0.276803838,Central,Lambeth,E09000022
+E02000639,"Lambeth 022",Lambeth,2,0.242277408,Central,Lambeth,E09000022
+E02000640,"Lambeth 023",Lambeth,6,0.608951588,Central,Lambeth,E09000022
+E02000641,"Lambeth 024",Lambeth,4,0.457404231,Central,Lambeth,E09000022
+E02000642,"Lambeth 025",Lambeth,4,0.405844156,Central,Lambeth,E09000022
+E02000643,"Lambeth 026",Lambeth,5,0.52295785,Central,Lambeth,E09000022
+E02000644,"Lambeth 027",Lambeth,2,0.220799293,Central,Lambeth,E09000022
+E02000645,"Lambeth 028",Lambeth,3,0.306968178,Central,Lambeth,E09000022
+E02000646,"Lambeth 029",Lambeth,4,0.38420901,Central,Lambeth,E09000022
+E02000647,"Lambeth 030",Lambeth,10,1.076078769,Central,Lambeth,E09000022
+E02000648,"Lambeth 031",Lambeth,8,0.95272121,Central,Lambeth,E09000022
+E02000649,"Lambeth 032",Lambeth,5,0.368459838,Central,Lambeth,E09000022
+E02000650,"Lambeth 033",Lambeth,4,0.513149455,Central,Lambeth,E09000022
+E02000651,"Lambeth 034",Lambeth,3,0.329163924,Central,Lambeth,E09000022
+E02000652,"Lambeth 035",Lambeth,3,0.384221311,Central,Lambeth,E09000022
+E02000653,"Lewisham 001",Lewisham,9,0.791347929,East,Lewisham,E09000023
+E02000654,"Lewisham 002",Lewisham,6,0.692520776,East,Lewisham,E09000023
+E02000655,"Lewisham 003",Lewisham,13,1.390374332,East,Lewisham,E09000023
+E02000657,"Lewisham 005",Lewisham,1,0.102417042,East,Lewisham,E09000023
+E02000658,"Lewisham 006",Lewisham,1,0.112688754,East,Lewisham,E09000023
+E02000659,"Lewisham 007",Lewisham,1,0.125203456,East,Lewisham,E09000023
+E02000660,"Lewisham 008",Lewisham,4,0.469043152,East,Lewisham,E09000023
+E02000661,"Lewisham 009",Lewisham,3,0.440463955,East,Lewisham,E09000023
+E02000662,"Lewisham 010",Lewisham,3,0.340367597,East,Lewisham,E09000023
+E02000663,"Lewisham 011",Lewisham,3,0.405076965,East,Lewisham,E09000023
+E02000664,"Lewisham 012",Lewisham,8,0.55877628,East,Lewisham,E09000023
+E02000665,"Lewisham 013",Lewisham,3,0.34348523,East,Lewisham,E09000023
+E02000666,"Lewisham 014",Lewisham,7,0.950441276,East,Lewisham,E09000023
+E02000667,"Lewisham 015",Lewisham,4,0.570450656,East,Lewisham,E09000023
+E02000668,"Lewisham 016",Lewisham,3,0.400587528,East,Lewisham,E09000023
+E02000669,"Lewisham 017",Lewisham,5,0.611246944,East,Lewisham,E09000023
+E02000670,"Lewisham 018",Lewisham,6,0.902934537,East,Lewisham,E09000023
+E02000671,"Lewisham 019",Lewisham,3,0.343327993,East,Lewisham,E09000023
+E02000672,"Lewisham 020",Lewisham,6,0.602228245,East,Lewisham,E09000023
+E02000673,"Lewisham 021",Lewisham,1,0.114982178,East,Lewisham,E09000023
+E02000674,"Lewisham 022",Lewisham,5,0.576967459,East,Lewisham,E09000023
+E02000675,"Lewisham 023",Lewisham,4,0.445632799,East,Lewisham,E09000023
+E02000676,"Lewisham 024",Lewisham,3,0.361054278,East,Lewisham,E09000023
+E02000677,"Lewisham 025",Lewisham,4,0.532765051,East,Lewisham,E09000023
+E02000678,"Lewisham 026",Lewisham,4,0.583856371,East,Lewisham,E09000023
+E02000679,"Lewisham 027",Lewisham,5,0.598086124,East,Lewisham,E09000023
+E02000680,"Lewisham 028",Lewisham,5,0.65027962,East,Lewisham,E09000023
+E02000681,"Lewisham 029",Lewisham,6,0.686655985,East,Lewisham,E09000023
+E02000682,"Lewisham 030",Lewisham,4,0.444395067,East,Lewisham,E09000023
+E02000683,"Lewisham 031",Lewisham,3,0.46253469,East,Lewisham,E09000023
+E02000685,"Lewisham 033",Lewisham,8,0.947530499,East,Lewisham,E09000023
+E02000686,"Lewisham 034",Lewisham,3,0.402955003,East,Lewisham,E09000023
+E02000687,"Lewisham 035",Lewisham,11,1.301159215,East,Lewisham,E09000023
+E02000689,"Merton 001",Merton,1,0.12025012," South",Merton,E09000024
+E02000690,"Merton 002",Merton,4,0.718778077," South",Merton,E09000024
+E02000691,"Merton 003",Merton,2,0.266595575," South",Merton,E09000024
+E02000692,"Merton 004",Merton,4,0.510986203," South",Merton,E09000024
+E02000693,"Merton 005",Merton,6,0.639386189," South",Merton,E09000024
+E02000694,"Merton 006",Merton,2,0.21896212," South",Merton,E09000024
+E02000695,"Merton 007",Merton,4,0.476871722," South",Merton,E09000024
+E02000696,"Merton 008",Merton,7,0.875656743," South",Merton,E09000024
+E02000697,"Merton 009",Merton,1,0.112233446," South",Merton,E09000024
+E02000698,"Merton 010",Merton,3,0.375281461," South",Merton,E09000024
+E02000699,"Merton 011",Merton,1,0.120627262," South",Merton,E09000024
+E02000700,"Merton 012",Merton,8,0.945738267," South",Merton,E09000024
+E02000701,"Merton 013",Merton,9,1.06546703," South",Merton,E09000024
+E02000702,"Merton 014",Merton,3,0.344273583," South",Merton,E09000024
+E02000703,"Merton 015",Merton,3,0.376222724," South",Merton,E09000024
+E02000704,"Merton 016",Merton,11,1.324822353," South",Merton,E09000024
+E02000705,"Merton 017",Merton,11,1.295336788," South",Merton,E09000024
+E02000706,"Merton 018",Merton,2,0.21310602," South",Merton,E09000024
+E02000707,"Merton 019",Merton,5,0.670780789," South",Merton,E09000024
+E02000708,"Merton 020",Merton,5,0.589831308," South",Merton,E09000024
+E02000709,"Merton 021",Merton,5,0.650872169," South",Merton,E09000024
+E02000710,"Merton 022",Merton,9,1.05361742," South",Merton,E09000024
+E02000711,"Merton 023",Merton,4,0.451161741," South",Merton,E09000024
+E02000712,"Merton 024",Merton,4,0.462160601," South",Merton,E09000024
+E02000713,"Merton 025",Merton,3,0.40371417," South",Merton,E09000024
+E02000714,"Newham 001",Newham,3,0.362756953,East,Newham,E09000025
+E02000715,"Newham 002",Newham,22,2.827036751,East,Newham,E09000025
+E02000716,"Newham 003",Newham,10,1.271617497,East,Newham,E09000025
+E02000717,"Newham 004",Newham,3,0.347061546,East,Newham,E09000025
+E02000718,"Newham 005",Newham,0,0,East,Newham,E09000025
+E02000719,"Newham 006",Newham,10,1.143249114,East,Newham,E09000025
+E02000720,"Newham 007",Newham,3,0.379362671,East,Newham,E09000025
+E02000721,"Newham 008",Newham,8,0.807999192,East,Newham,E09000025
+E02000722,"Newham 009",Newham,6,0.69637883,East,Newham,E09000025
+E02000723,"Newham 010",Newham,9,0.800355714,East,Newham,E09000025
+E02000724,"Newham 011",Newham,9,0.899910009,East,Newham,E09000025
+E02000725,"Newham 012",Newham,4,0.390586857,East,Newham,E09000025
+E02000726,"Newham 013",Newham,5,0.200248308,East,Newham,E09000025
+E02000727,"Newham 014",Newham,4,0.464738004,East,Newham,E09000025
+E02000728,"Newham 015",Newham,4,0.489596083,East,Newham,E09000025
+E02000729,"Newham 016",Newham,8,1.080205239,East,Newham,E09000025
+E02000730,"Newham 017",Newham,3,0.328983441,East,Newham,E09000025
+E02000731,"Newham 018",Newham,6,0.545702592,East,Newham,E09000025
+E02000732,"Newham 019",Newham,8,0.996636352,East,Newham,E09000025
+E02000733,"Newham 020",Newham,3,0.289407679,East,Newham,E09000025
+E02000734,"Newham 021",Newham,4,0.521240553,East,Newham,E09000025
+E02000735,"Newham 022",Newham,6,0.697836706,East,Newham,E09000025
+E02000736,"Newham 023",Newham,5,0.54662731,East,Newham,E09000025
+E02000737,"Newham 024",Newham,8,0.78369906,East,Newham,E09000025
+E02000738,"Newham 025",Newham,4,0.438788943,East,Newham,E09000025
+E02000739,"Newham 026",Newham,1,0.12926577,East,Newham,E09000025
+E02000740,"Newham 027",Newham,3,0.421525924,East,Newham,E09000025
+E02000741,"Newham 028",Newham,6,0.669941938,East,Newham,E09000025
+E02000742,"Newham 029",Newham,3,0.340058944,East,Newham,E09000025
+E02000743,"Newham 030",Newham,6,0.588235294,East,Newham,E09000025
+E02000744,"Newham 031",Newham,8,0.84254871,East,Newham,E09000025
+E02000745,"Newham 032",Newham,4,0.475567709,East,Newham,E09000025
+E02000746,"Newham 033",Newham,6,0.702658391,East,Newham,E09000025
+E02000747,"Newham 034",Newham,4,0.298018179,East,Newham,E09000025
+E02000748,"Newham 035",Newham,3,0.457875458,East,Newham,E09000025
+E02000749,"Newham 036",Newham,6,0.684072512,East,Newham,E09000025
+E02000750,"Newham 037",Newham,3,0.202702703,East,Newham,E09000025
+E02000751,"Redbridge 001",Redbridge,11,1.030444965,East,Redbridge,E09000026
+E02000752,"Redbridge 002",Redbridge,3,0.393494229,East,Redbridge,E09000026
+E02000753,"Redbridge 003",Redbridge,3,0.455235205,East,Redbridge,E09000026
+E02000754,"Redbridge 004",Redbridge,5,0.744601638,East,Redbridge,E09000026
+E02000755,"Redbridge 005",Redbridge,4,0.717231486,East,Redbridge,E09000026
+E02000756,"Redbridge 006",Redbridge,11,0.802626779,East,Redbridge,E09000026
+E02000757,"Redbridge 007",Redbridge,2,0.157035176,East,Redbridge,E09000026
+E02000758,"Redbridge 008",Redbridge,2,0.320924262,East,Redbridge,E09000026
+E02000759,"Redbridge 009",Redbridge,7,0.524462426,East,Redbridge,E09000026
+E02000760,"Redbridge 010",Redbridge,5,0.700967335,East,Redbridge,E09000026
+E02000762,"Redbridge 012",Redbridge,2,0.301841232,East,Redbridge,E09000026
+E02000763,"Redbridge 013",Redbridge,5,0.658587987,East,Redbridge,E09000026
+E02000764,"Redbridge 014",Redbridge,10,0.803277372,East,Redbridge,E09000026
+E02000765,"Redbridge 015",Redbridge,0,0,East,Redbridge,E09000026
+E02000767,"Redbridge 017",Redbridge,7,0.837120306,East,Redbridge,E09000026
+E02000768,"Redbridge 018",Redbridge,1,0.172028213,East,Redbridge,E09000026
+E02000769,"Redbridge 019",Redbridge,15,0.947807406,East,Redbridge,E09000026
+E02000770,"Redbridge 020",Redbridge,4,0.495356037,East,Redbridge,E09000026
+E02000772,"Redbridge 022",Redbridge,4,0.447377251,East,Redbridge,E09000026
+E02000773,"Redbridge 023",Redbridge,4,0.396825397,East,Redbridge,E09000026
+E02000774,"Redbridge 024",Redbridge,1,0.131908719,East,Redbridge,E09000026
+E02000776,"Redbridge 026",Redbridge,4,0.566491998,East,Redbridge,E09000026
+E02000777,"Redbridge 027",Redbridge,3,0.491480996,East,Redbridge,E09000026
+E02000779,"Redbridge 029",Redbridge,9,1.00896861,East,Redbridge,E09000026
+E02000780,"Redbridge 030",Redbridge,8,0.459981601,East,Redbridge,E09000026
+E02000781,"Redbridge 031",Redbridge,10,0.662339383,East,Redbridge,E09000026
+E02000782,"Redbridge 032",Redbridge,7,0.660626652,East,Redbridge,E09000026
+E02000783,"Redbridge 033",Redbridge,0,0,East,Redbridge,E09000026
+E02000784,"Richmond upon Thames 001","Richmond upon Thames",6,0.596658711," South","Richmond upon Thames",E09000027
+E02000785,"Richmond upon Thames 002","Richmond upon Thames",3,0.30284676," South","Richmond upon Thames",E09000027
+E02000786,"Richmond upon Thames 003","Richmond upon Thames",3,0.261278523," South","Richmond upon Thames",E09000027
+E02000787,"Richmond upon Thames 004","Richmond upon Thames",0,0," South","Richmond upon Thames",E09000027
+E02000788,"Richmond upon Thames 005","Richmond upon Thames",5,0.548606539," South","Richmond upon Thames",E09000027
+E02000789,"Richmond upon Thames 006","Richmond upon Thames",4,0.612557427," South","Richmond upon Thames",E09000027
+E02000790,"Richmond upon Thames 007","Richmond upon Thames",3,0.450992183," South","Richmond upon Thames",E09000027
+E02000791,"Richmond upon Thames 008","Richmond upon Thames",2,0.282645562," South","Richmond upon Thames",E09000027
+E02000792,"Richmond upon Thames 009","Richmond upon Thames",5,0.691276096," South","Richmond upon Thames",E09000027
+E02000793,"Richmond upon Thames 010","Richmond upon Thames",5,0.60284543," South","Richmond upon Thames",E09000027
+E02000794,"Richmond upon Thames 011","Richmond upon Thames",4,0.572327944," South","Richmond upon Thames",E09000027
+E02000795,"Richmond upon Thames 012","Richmond upon Thames",2,0.279837694," South","Richmond upon Thames",E09000027
+E02000796,"Richmond upon Thames 013","Richmond upon Thames",7,0.646233383," South","Richmond upon Thames",E09000027
+E02000797,"Richmond upon Thames 014","Richmond upon Thames",2,0.255591054," South","Richmond upon Thames",E09000027
+E02000798,"Richmond upon Thames 015","Richmond upon Thames",2,0.179372197," South","Richmond upon Thames",E09000027
+E02000799,"Richmond upon Thames 016","Richmond upon Thames",2,0.312207306," South","Richmond upon Thames",E09000027
+E02000800,"Richmond upon Thames 017","Richmond upon Thames",3,0.550964187," South","Richmond upon Thames",E09000027
+E02000801,"Richmond upon Thames 018","Richmond upon Thames",0,0," South","Richmond upon Thames",E09000027
+E02000802,"Richmond upon Thames 019","Richmond upon Thames",5,0.720876586," South","Richmond upon Thames",E09000027
+E02000803,"Richmond upon Thames 020","Richmond upon Thames",3,0.316789863," South","Richmond upon Thames",E09000027
+E02000804,"Richmond upon Thames 021","Richmond upon Thames",6,0.820793434," South","Richmond upon Thames",E09000027
+E02000805,"Richmond upon Thames 022","Richmond upon Thames",1,0.086880973," South","Richmond upon Thames",E09000027
+E02000806,"Richmond upon Thames 023","Richmond upon Thames",4,0.388085767," South","Richmond upon Thames",E09000027
+E02000807,"Southwark 001",Southwark,2,0.211954218,Central,Southwark,E09000028
+E02000808,"Southwark 002",Southwark,0,0,Central,Southwark,E09000028
+E02000809,"Southwark 003",Southwark,1,0.071143995,Central,Southwark,E09000028
+E02000810,"Southwark 004",Southwark,1,0.074543422,Central,Southwark,E09000028
+E02000812,"Southwark 006",Southwark,11,1.031894934,Central,Southwark,E09000028
+E02000813,"Southwark 007",Southwark,3,0.279850746,Central,Southwark,E09000028
+E02000814,"Southwark 008",Southwark,13,1.317790167,Central,Southwark,E09000028
+E02000815,"Southwark 009",Southwark,2,0.286123033,Central,Southwark,E09000028
+E02000816,"Southwark 010",Southwark,5,0.477874415,Central,Southwark,E09000028
+E02000817,"Southwark 011",Southwark,6,0.825082508,Central,Southwark,E09000028
+E02000818,"Southwark 012",Southwark,4,0.482101965,Central,Southwark,E09000028
+E02000819,"Southwark 013",Southwark,7,0.788732394,Central,Southwark,E09000028
+E02000820,"Southwark 014",Southwark,2,0.193535901,Central,Southwark,E09000028
+E02000821,"Southwark 015",Southwark,7,0.845717047,Central,Southwark,E09000028
+E02000822,"Southwark 016",Southwark,3,0.417072153,Central,Southwark,E09000028
+E02000823,"Southwark 017",Southwark,1,0.112132765,Central,Southwark,E09000028
+E02000824,"Southwark 018",Southwark,4,0.406462758,Central,Southwark,E09000028
+E02000825,"Southwark 019",Southwark,9,0.9447827,Central,Southwark,E09000028
+E02000826,"Southwark 020",Southwark,10,1.084363479,Central,Southwark,E09000028
+E02000827,"Southwark 021",Southwark,2,0.181967064,Central,Southwark,E09000028
+E02000828,"Southwark 022",Southwark,8,0.928397354,Central,Southwark,E09000028
+E02000829,"Southwark 023",Southwark,15,1.281613124,Central,Southwark,E09000028
+E02000830,"Southwark 024",Southwark,6,0.637416339,Central,Southwark,E09000028
+E02000831,"Southwark 025",Southwark,6,0.598862162,Central,Southwark,E09000028
+E02000832,"Southwark 026",Southwark,3,0.27785496,Central,Southwark,E09000028
+E02000833,"Southwark 027",Southwark,3,0.338066261,Central,Southwark,E09000028
+E02000834,"Southwark 028",Southwark,5,0.501303389,Central,Southwark,E09000028
+E02000835,"Southwark 029",Southwark,1,0.12703252,Central,Southwark,E09000028
+E02000836,"Southwark 030",Southwark,4,0.463231036,Central,Southwark,E09000028
+E02000837,"Southwark 031",Southwark,1,0.104058273,Central,Southwark,E09000028
+E02000838,"Southwark 032",Southwark,3,0.309661437,Central,Southwark,E09000028
+E02000839,"Southwark 033",Southwark,1,0.11820331,Central,Southwark,E09000028
+E02000840,"Sutton 001",Sutton,0,0," South",Sutton,E09000029
+E02000841,"Sutton 002",Sutton,4,0.43047783," South",Sutton,E09000029
+E02000842,"Sutton 003",Sutton,4,0.503968754," South",Sutton,E09000029
+E02000843,"Sutton 004",Sutton,8,0.968054211," South",Sutton,E09000029
+E02000844,"Sutton 005",Sutton,1,0.119431506," South",Sutton,E09000029
+E02000845,"Sutton 006",Sutton,0,0," South",Sutton,E09000029
+E02000846,"Sutton 007",Sutton,1,0.134535181," South",Sutton,E09000029
+E02000847,"Sutton 008",Sutton,5,0.52882073," South",Sutton,E09000029
+E02000848,"Sutton 009",Sutton,3,0.373041532," South",Sutton,E09000029
+E02000849,"Sutton 010",Sutton,5,0.628140704," South",Sutton,E09000029
+E02000850,"Sutton 011",Sutton,5,0.458589379," South",Sutton,E09000029
+E02000851,"Sutton 012",Sutton,8,0.805882946," South",Sutton,E09000029
+E02000852,"Sutton 013",Sutton,4,0.500250125," South",Sutton,E09000029
+E02000853,"Sutton 014",Sutton,5,0.616142945," South",Sutton,E09000029
+E02000854,"Sutton 015",Sutton,2,0.264445326," South",Sutton,E09000029
+E02000855,"Sutton 016",Sutton,3,0.374344896," South",Sutton,E09000029
+E02000856,"Sutton 017",Sutton,3,0.326583932," South",Sutton,E09000029
+E02000857,"Sutton 018",Sutton,7,0.80348944," South",Sutton,E09000029
+E02000858,"Sutton 019",Sutton,1,0.117938436," South",Sutton,E09000029
+E02000859,"Sutton 020",Sutton,7,0.804597701," South",Sutton,E09000029
+E02000860,"Sutton 021",Sutton,5,0.586923348," South",Sutton,E09000029
+E02000861,"Sutton 022",Sutton,4,0.513149455," South",Sutton,E09000029
+E02000863,"Sutton 024",Sutton,3,0.438148094," South",Sutton,E09000029
+E02000864,"Tower Hamlets 001","Tower Hamlets",8,0.776397516,East,"Tower Hamlets",E09000030
+E02000865,"Tower Hamlets 002","Tower Hamlets",0,0,East,"Tower Hamlets",E09000030
+E02000866,"Tower Hamlets 003","Tower Hamlets",3,0.276650682,East,"Tower Hamlets",E09000030
+E02000867,"Tower Hamlets 004","Tower Hamlets",3,0.236369367,East,"Tower Hamlets",E09000030
+E02000868,"Tower Hamlets 005","Tower Hamlets",7,0.949410009,East,"Tower Hamlets",E09000030
+E02000869,"Tower Hamlets 006","Tower Hamlets",3,0.455304295,East,"Tower Hamlets",E09000030
+E02000870,"Tower Hamlets 007","Tower Hamlets",3,0.433275563,East,"Tower Hamlets",E09000030
+E02000871,"Tower Hamlets 008","Tower Hamlets",7,0.612745098,East,"Tower Hamlets",E09000030
+E02000872,"Tower Hamlets 009","Tower Hamlets",2,0.220531481,East,"Tower Hamlets",E09000030
+E02000873,"Tower Hamlets 010","Tower Hamlets",4,0.370713624,East,"Tower Hamlets",E09000030
+E02000874,"Tower Hamlets 011","Tower Hamlets",1,0.124455507,East,"Tower Hamlets",E09000030
+E02000875,"Tower Hamlets 012","Tower Hamlets",6,0.44127381,East,"Tower Hamlets",E09000030
+E02000876,"Tower Hamlets 013","Tower Hamlets",1,0.122910521,East,"Tower Hamlets",E09000030
+E02000877,"Tower Hamlets 014","Tower Hamlets",3,0.232306024,East,"Tower Hamlets",E09000030
+E02000878,"Tower Hamlets 015","Tower Hamlets",3,0.255580167,East,"Tower Hamlets",E09000030
+E02000879,"Tower Hamlets 016","Tower Hamlets",8,0.86411752,East,"Tower Hamlets",E09000030
+E02000880,"Tower Hamlets 017","Tower Hamlets",1,0.152068127,East,"Tower Hamlets",E09000030
+E02000881,"Tower Hamlets 018","Tower Hamlets",7,0.765110941,East,"Tower Hamlets",E09000030
+E02000882,"Tower Hamlets 019","Tower Hamlets",11,1.050219591,East,"Tower Hamlets",E09000030
+E02000883,"Tower Hamlets 020","Tower Hamlets",6,0.669120107,East,"Tower Hamlets",E09000030
+E02000884,"Tower Hamlets 021","Tower Hamlets",2,0.152288129,East,"Tower Hamlets",E09000030
+E02000885,"Tower Hamlets 022","Tower Hamlets",8,1.033858878,East,"Tower Hamlets",E09000030
+E02000886,"Tower Hamlets 023","Tower Hamlets",2,0.218221495,East,"Tower Hamlets",E09000030
+E02000887,"Tower Hamlets 024","Tower Hamlets",12,1.072961373,East,"Tower Hamlets",E09000030
+E02000888,"Tower Hamlets 025","Tower Hamlets",1,0.09797198,East,"Tower Hamlets",E09000030
+E02000889,"Tower Hamlets 026","Tower Hamlets",2,0.235710077,East,"Tower Hamlets",E09000030
+E02000890,"Tower Hamlets 027","Tower Hamlets",0,0,East,"Tower Hamlets",E09000030
+E02000891,"Tower Hamlets 028","Tower Hamlets",3,0.154846702,East,"Tower Hamlets",E09000030
+E02000893,"Tower Hamlets 030","Tower Hamlets",6,0.74019245,East,"Tower Hamlets",E09000030
+E02000894,"Tower Hamlets 031","Tower Hamlets",5,0.424556339,East,"Tower Hamlets",E09000030
+E02000895,"Waltham Forest 001","Waltham Forest",10,1.218472036,East,"Waltham Forest",E09000031
+E02000896,"Waltham Forest 002","Waltham Forest",17,1.8699813,East,"Waltham Forest",E09000031
+E02000897,"Waltham Forest 003","Waltham Forest",5,0.583430572,East,"Waltham Forest",E09000031
+E02000898,"Waltham Forest 004","Waltham Forest",12,1.501689401,East,"Waltham Forest",E09000031
+E02000899,"Waltham Forest 005","Waltham Forest",3,0.345144961,East,"Waltham Forest",E09000031
+E02000900,"Waltham Forest 006","Waltham Forest",6,0.68119891,East,"Waltham Forest",E09000031
+E02000901,"Waltham Forest 007","Waltham Forest",4,0.390320062,East,"Waltham Forest",E09000031
+E02000902,"Waltham Forest 008","Waltham Forest",4,0.411311054,East,"Waltham Forest",E09000031
+E02000903,"Waltham Forest 009","Waltham Forest",3,0.307093868,East,"Waltham Forest",E09000031
+E02000904,"Waltham Forest 010","Waltham Forest",3,0.335908633,East,"Waltham Forest",E09000031
+E02000905,"Waltham Forest 011","Waltham Forest",7,0.680669,East,"Waltham Forest",E09000031
+E02000906,"Waltham Forest 012","Waltham Forest",2,0.209402157,East,"Waltham Forest",E09000031
+E02000907,"Waltham Forest 013","Waltham Forest",4,0.357973868,East,"Waltham Forest",E09000031
+E02000908,"Waltham Forest 014","Waltham Forest",5,0.398692289,East,"Waltham Forest",E09000031
+E02000909,"Waltham Forest 015","Waltham Forest",3,0.33281562,East,"Waltham Forest",E09000031
+E02000910,"Waltham Forest 016","Waltham Forest",6,0.552231937,East,"Waltham Forest",E09000031
+E02000911,"Waltham Forest 017","Waltham Forest",7,0.59686221,East,"Waltham Forest",E09000031
+E02000912,"Waltham Forest 018","Waltham Forest",5,0.535733419,East,"Waltham Forest",E09000031
+E02000913,"Waltham Forest 019","Waltham Forest",3,0.325027086,East,"Waltham Forest",E09000031
+E02000914,"Waltham Forest 020","Waltham Forest",12,1.05848108,East,"Waltham Forest",E09000031
+E02000915,"Waltham Forest 021","Waltham Forest",3,0.323519896,East,"Waltham Forest",E09000031
+E02000916,"Waltham Forest 022","Waltham Forest",4,0.410130216,East,"Waltham Forest",E09000031
+E02000917,"Waltham Forest 023","Waltham Forest",4,0.384024578,East,"Waltham Forest",E09000031
+E02000918,"Waltham Forest 024","Waltham Forest",3,0.305872757,East,"Waltham Forest",E09000031
+E02000919,"Waltham Forest 025","Waltham Forest",2,0.204185809,East,"Waltham Forest",E09000031
+E02000920,"Waltham Forest 026","Waltham Forest",3,0.290500629,East,"Waltham Forest",E09000031
+E02000921,"Waltham Forest 027","Waltham Forest",5,0.443655723,East,"Waltham Forest",E09000031
+E02000922,"Waltham Forest 028","Waltham Forest",6,0.54699608,East,"Waltham Forest",E09000031
+E02000923,"Wandsworth 001",Wandsworth,8,0.990712074," South",Wandsworth,E09000032
+E02000924,"Wandsworth 002",Wandsworth,7,0.508979859," South",Wandsworth,E09000032
+E02000925,"Wandsworth 003",Wandsworth,6,0.75547721," South",Wandsworth,E09000032
+E02000926,"Wandsworth 004",Wandsworth,5,0.458211144," South",Wandsworth,E09000032
+E02000927,"Wandsworth 005",Wandsworth,4,0.543625985," South",Wandsworth,E09000032
+E02000928,"Wandsworth 006",Wandsworth,0,0," South",Wandsworth,E09000032
+E02000929,"Wandsworth 007",Wandsworth,2,0.265111347," South",Wandsworth,E09000032
+E02000930,"Wandsworth 008",Wandsworth,1,0.093101201," South",Wandsworth,E09000032
+E02000931,"Wandsworth 009",Wandsworth,3,0.313512384," South",Wandsworth,E09000032
+E02000932,"Wandsworth 010",Wandsworth,3,0.260846883," South",Wandsworth,E09000032
+E02000933,"Wandsworth 011",Wandsworth,1,0.111049417," South",Wandsworth,E09000032
+E02000934,"Wandsworth 012",Wandsworth,1,0.101040719," South",Wandsworth,E09000032
+E02000935,"Wandsworth 013",Wandsworth,1,0.140134529," South",Wandsworth,E09000032
+E02000936,"Wandsworth 014",Wandsworth,2,0.218531469," South",Wandsworth,E09000032
+E02000937,"Wandsworth 015",Wandsworth,1,0.118778952," South",Wandsworth,E09000032
+E02000938,"Wandsworth 016",Wandsworth,2,0.179629962," South",Wandsworth,E09000032
+E02000939,"Wandsworth 017",Wandsworth,12,1.437814522," South",Wandsworth,E09000032
+E02000940,"Wandsworth 018",Wandsworth,1,0.115580213," South",Wandsworth,E09000032
+E02000941,"Wandsworth 019",Wandsworth,6,0.577867668," South",Wandsworth,E09000032
+E02000942,"Wandsworth 020",Wandsworth,5,0.520941863," South",Wandsworth,E09000032
+E02000943,"Wandsworth 021",Wandsworth,1,0.113237459," South",Wandsworth,E09000032
+E02000944,"Wandsworth 022",Wandsworth,6,0.832523935," South",Wandsworth,E09000032
+E02000945,"Wandsworth 023",Wandsworth,8,0.968523002," South",Wandsworth,E09000032
+E02000946,"Wandsworth 024",Wandsworth,3,0.352360817," South",Wandsworth,E09000032
+E02000947,"Wandsworth 025",Wandsworth,3,0.332005312," South",Wandsworth,E09000032
+E02000948,"Wandsworth 026",Wandsworth,7,0.705716302," South",Wandsworth,E09000032
+E02000949,"Wandsworth 027",Wandsworth,6,0.596006755," South",Wandsworth,E09000032
+E02000950,"Wandsworth 028",Wandsworth,2,0.265428003," South",Wandsworth,E09000032
+E02000951,"Wandsworth 029",Wandsworth,2,0.306889673," South",Wandsworth,E09000032
+E02000952,"Wandsworth 030",Wandsworth,2,0.327171602," South",Wandsworth,E09000032
+E02000953,"Wandsworth 031",Wandsworth,1,0.127372309," South",Wandsworth,E09000032
+E02000954,"Wandsworth 032",Wandsworth,3,0.481463649," South",Wandsworth,E09000032
+E02000955,"Wandsworth 033",Wandsworth,3,0.458155162," South",Wandsworth,E09000032
+E02000956,"Wandsworth 034",Wandsworth,3,0.368053," South",Wandsworth,E09000032
+E02000957,"Wandsworth 035",Wandsworth,2,0.181175831," South",Wandsworth,E09000032
+E02000958,"Wandsworth 036",Wandsworth,6,0.693882271," South",Wandsworth,E09000032
+E02000959,"Wandsworth 037",Wandsworth,3,0.35984167," South",Wandsworth,E09000032
+E02000960,"Westminster 001",Westminster,3,0.360750361,Central,Westminster,E09000033
+E02000961,"Westminster 002",Westminster,6,0.534188034,Central,Westminster,E09000033
+E02000962,"Westminster 003",Westminster,10,0.970308558,Central,Westminster,E09000033
+E02000963,"Westminster 004",Westminster,9,0.813522553,Central,Westminster,E09000033
+E02000964,"Westminster 005",Westminster,8,0.586381294,Central,Westminster,E09000033
+E02000965,"Westminster 006",Westminster,3,0.318437533,Central,Westminster,E09000033
+E02000966,"Westminster 007",Westminster,2,0.177999288,Central,Westminster,E09000033
+E02000967,"Westminster 008",Westminster,4,0.400721298,Central,Westminster,E09000033
+E02000968,"Westminster 009",Westminster,13,0.816890788,Central,Westminster,E09000033
+E02000969,"Westminster 010",Westminster,10,0.923531585,Central,Westminster,E09000033
+E02000970,"Westminster 011",Westminster,2,0.181011856,Central,Westminster,E09000033
+E02000971,"Westminster 012",Westminster,4,0.41467966,Central,Westminster,E09000033
+E02000972,"Westminster 013",Westminster,4,0.370988685,Central,Westminster,E09000033
+E02000973,"Westminster 014",Westminster,1,0.087275266,Central,Westminster,E09000033
+E02000974,"Westminster 015",Westminster,1,0.102124183,Central,Westminster,E09000033
+E02000975,"Westminster 016",Westminster,5,0.481463649,Central,Westminster,E09000033
+E02000976,"Westminster 017",Westminster,4,0.357174748,Central,Westminster,E09000033
+E02000977,"Westminster 018",Westminster,1,0.135722041,Central,Westminster,E09000033
+E02000978,"Westminster 019",Westminster,4,0.352640395,Central,Westminster,E09000033
+E02000979,"Westminster 020",Westminster,8,0.776020953,Central,Westminster,E09000033
+E02000980,"Westminster 021",Westminster,6,0.56264066,Central,Westminster,E09000033
+E02000981,"Westminster 022",Westminster,2,0.194005238,Central,Westminster,E09000033
+E02000982,"Westminster 023",Westminster,5,0.539083558,Central,Westminster,E09000033
+E02000983,"Westminster 024",Westminster,5,0.50999592,Central,Westminster,E09000033
+E02006782,"Bromley 040",Bromley,8,1.004898882,South,Bromley,E09000006
+E02006783,"Lewisham 037",Lewisham,4,0.523971706,East,Lewisham,E09000023
+E02006784,"Lewisham 038",Lewisham,4,0.490136013,East,Lewisham,E09000023
+E02006785,"Bexley 029",Bexley,3,0.450112528,East,Bexley,E09000004
+E02006786,"Greenwich 033",Greenwich,1,0.132837407,East,Greenwich,E09000011
+E02006787,"Bromley 041",Bromley,2,0.246487552,South,Bromley,E09000006
+E02006788,"Croydon 045",Croydon,3,0.390320062,South,Croydon,E09000008
+E02006789,"Bromley 042",Bromley,2,0.311380975,South,Bromley,E09000006
+E02006791,"Ealing 040",Ealing,4,0.583345486,West,Ealing,E09000009
+E02006792,"Hounslow 029",Hounslow,6,0.678656261,West,Hounslow,E09000018
+E02006793,"Enfield 037",Enfield,9,0.880798591,North,Enfield,E09000010
+E02006794,"Haringey 037",Haringey,7,0.81366965,North,Haringey,E09000014
+E02006795,"Harrow 032",Harrow,11,1.368840219,West,Harrow,E09000015
+E02006796,"Hillingdon 033",Hillingdon,2,0.216052717,West,Hillingdon,E09000017
+E02006798,"Lewisham 039",Lewisham,9,1.110562685,East,Lewisham,E09000023
+E02006799,"Barking and Dagenham 023","Barking and Dagenham",5,0.451589595,East,"Barking and Dagenham",E09000002
+E02006800,"Redbridge 034",Redbridge,10,0.689464975,East,Redbridge,E09000026
+E02006801,"Lambeth 036",Lambeth,0,0,Central,Lambeth,E09000022
+E02006802,"Southwark 034",Southwark,7,0.870430241,Central,Southwark,E09000028
+E02006836,"Sutton 025",Sutton,8,0.944844691," South",Sutton,E09000029
+E02006853,"Tower Hamlets 032","Tower Hamlets",3,0.283822138,East,"Tower Hamlets",E09000030
+E02006854,"Tower Hamlets 033","Tower Hamlets",1,0.124533001,East,"Tower Hamlets",E09000030
+E02006882,"Harrow 033",Harrow,9,0.632777895,West,Harrow,E09000015
+E02006918,"Hackney 028",Hackney,2,0.21486893,East,Hackney,E09000012
+E02006921,"Hackney 029",Hackney,6,0.696055684,East,Hackney,E09000012
+E02006924,"Redbridge 035",Redbridge,7,0.511210107,East,Redbridge,E09000026
+E02006925,"Redbridge 036",Redbridge,10,0.705168888,East,Redbridge,E09000026
+E02006927,"Greenwich 034",Greenwich,9,0.887311446,East,Greenwich,E09000011
+E02006928,"Greenwich 035",Greenwich,1,0.084545147,East,Greenwich,E09000011
+E02006929,"Greenwich 036",Greenwich,5,0.412337127,East,Greenwich,E09000011
+E02006930,"Greenwich 037",Greenwich,2,0.224517288,East,Greenwich,E09000011
+E02006931,"Greenwich 038",Greenwich,6,0.618110642,East,Greenwich,E09000011
