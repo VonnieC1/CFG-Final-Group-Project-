@@ -1,0 +1,1001 @@
+MSOA11CD,LSOA11NM,LocalAuthority,imd_score,Region,Borough,Code
+E01000001,"City of London 001A","City of London",6.2,Central,"City of London",E09000001
+E01000002,"City of London 001B","City of London",5.1,Central,"City of London",E09000001
+E01000003,"City of London 001C","City of London",19.4,Central,"City of London",E09000001
+E01000005,"City of London 001E","City of London",28.7,Central,"City of London",E09000001
+E01000006,"Barking and Dagenham 016A","Barking and Dagenham",19.8,East,"Barking and Dagenham",E09000002
+E01000007,"Barking and Dagenham 015A","Barking and Dagenham",31.6,East,"Barking and Dagenham",E09000002
+E01000008,"Barking and Dagenham 015B","Barking and Dagenham",37.6,East,"Barking and Dagenham",E09000002
+E01000009,"Barking and Dagenham 016B","Barking and Dagenham",32.8,East,"Barking and Dagenham",E09000002
+E01000010,"Barking and Dagenham 015C","Barking and Dagenham",32.4,East,"Barking and Dagenham",E09000002
+E01000011,"Barking and Dagenham 016C","Barking and Dagenham",30.7,East,"Barking and Dagenham",E09000002
+E01000012,"Barking and Dagenham 015D","Barking and Dagenham",34.7,East,"Barking and Dagenham",E09000002
+E01000013,"Barking and Dagenham 013A","Barking and Dagenham",39,East,"Barking and Dagenham",E09000002
+E01000014,"Barking and Dagenham 013B","Barking and Dagenham",35.7,East,"Barking and Dagenham",E09000002
+E01000015,"Barking and Dagenham 009A","Barking and Dagenham",33.6,East,"Barking and Dagenham",E09000002
+E01000016,"Barking and Dagenham 009B","Barking and Dagenham",32.8,East,"Barking and Dagenham",E09000002
+E01000017,"Barking and Dagenham 009C","Barking and Dagenham",39,East,"Barking and Dagenham",E09000002
+E01000018,"Barking and Dagenham 009D","Barking and Dagenham",33.4,East,"Barking and Dagenham",E09000002
+E01000019,"Barking and Dagenham 023A","Barking and Dagenham",33.6,East,"Barking and Dagenham",E09000002
+E01000020,"Barking and Dagenham 023B","Barking and Dagenham",36,East,"Barking and Dagenham",E09000002
+E01000021,"Barking and Dagenham 008A","Barking and Dagenham",38.9,East,"Barking and Dagenham",E09000002
+E01000022,"Barking and Dagenham 008B","Barking and Dagenham",34.4,East,"Barking and Dagenham",E09000002
+E01000023,"Barking and Dagenham 008C","Barking and Dagenham",36.9,East,"Barking and Dagenham",E09000002
+E01000024,"Barking and Dagenham 008D","Barking and Dagenham",29.3,East,"Barking and Dagenham",E09000002
+E01000025,"Barking and Dagenham 008E","Barking and Dagenham",36.7,East,"Barking and Dagenham",E09000002
+E01000027,"Barking and Dagenham 001A","Barking and Dagenham",37.3,East,"Barking and Dagenham",E09000002
+E01000028,"Barking and Dagenham 001B","Barking and Dagenham",40.1,East,"Barking and Dagenham",E09000002
+E01000029,"Barking and Dagenham 001C","Barking and Dagenham",22.5,East,"Barking and Dagenham",E09000002
+E01000030,"Barking and Dagenham 001D","Barking and Dagenham",38.4,East,"Barking and Dagenham",E09000002
+E01000031,"Barking and Dagenham 002A","Barking and Dagenham",22.7,East,"Barking and Dagenham",E09000002
+E01000032,"Barking and Dagenham 002B","Barking and Dagenham",30,East,"Barking and Dagenham",E09000002
+E01000033,"Barking and Dagenham 006A","Barking and Dagenham",38,East,"Barking and Dagenham",E09000002
+E01000034,"Barking and Dagenham 003A","Barking and Dagenham",35.9,East,"Barking and Dagenham",E09000002
+E01000035,"Barking and Dagenham 010A","Barking and Dagenham",26.2,East,"Barking and Dagenham",E09000002
+E01000036,"Barking and Dagenham 010B","Barking and Dagenham",19.3,East,"Barking and Dagenham",E09000002
+E01000037,"Barking and Dagenham 003B","Barking and Dagenham",18,East,"Barking and Dagenham",E09000002
+E01000038,"Barking and Dagenham 003C","Barking and Dagenham",19.6,East,"Barking and Dagenham",E09000002
+E01000039,"Barking and Dagenham 003D","Barking and Dagenham",22.3,East,"Barking and Dagenham",E09000002
+E01000040,"Barking and Dagenham 019A","Barking and Dagenham",34.6,East,"Barking and Dagenham",E09000002
+E01000041,"Barking and Dagenham 017A","Barking and Dagenham",33.2,East,"Barking and Dagenham",E09000002
+E01000042,"Barking and Dagenham 017B","Barking and Dagenham",41.6,East,"Barking and Dagenham",E09000002
+E01000043,"Barking and Dagenham 019B","Barking and Dagenham",28.1,East,"Barking and Dagenham",E09000002
+E01000044,"Barking and Dagenham 016D","Barking and Dagenham",28.4,East,"Barking and Dagenham",E09000002
+E01000045,"Barking and Dagenham 017C","Barking and Dagenham",35.7,East,"Barking and Dagenham",E09000002
+E01000046,"Barking and Dagenham 017D","Barking and Dagenham",29.8,East,"Barking and Dagenham",E09000002
+E01000048,"Barking and Dagenham 021B","Barking and Dagenham",44.7,East,"Barking and Dagenham",E09000002
+E01000049,"Barking and Dagenham 021C","Barking and Dagenham",41.2,East,"Barking and Dagenham",E09000002
+E01000050,"Barking and Dagenham 019C","Barking and Dagenham",34.7,East,"Barking and Dagenham",E09000002
+E01000051,"Barking and Dagenham 021D","Barking and Dagenham",36.9,East,"Barking and Dagenham",E09000002
+E01000052,"Barking and Dagenham 019D","Barking and Dagenham",33.3,East,"Barking and Dagenham",E09000002
+E01000053,"Barking and Dagenham 020A","Barking and Dagenham",40,East,"Barking and Dagenham",E09000002
+E01000054,"Barking and Dagenham 018A","Barking and Dagenham",29.8,East,"Barking and Dagenham",E09000002
+E01000055,"Barking and Dagenham 018B","Barking and Dagenham",30.9,East,"Barking and Dagenham",E09000002
+E01000056,"Barking and Dagenham 018C","Barking and Dagenham",35.9,East,"Barking and Dagenham",E09000002
+E01000057,"Barking and Dagenham 012A","Barking and Dagenham",32.9,East,"Barking and Dagenham",E09000002
+E01000058,"Barking and Dagenham 018D","Barking and Dagenham",31.8,East,"Barking and Dagenham",E09000002
+E01000059,"Barking and Dagenham 013C","Barking and Dagenham",32.3,East,"Barking and Dagenham",E09000002
+E01000060,"Barking and Dagenham 006B","Barking and Dagenham",36.2,East,"Barking and Dagenham",E09000002
+E01000061,"Barking and Dagenham 006C","Barking and Dagenham",46.3,East,"Barking and Dagenham",E09000002
+E01000062,"Barking and Dagenham 006D","Barking and Dagenham",26.7,East,"Barking and Dagenham",E09000002
+E01000063,"Barking and Dagenham 004A","Barking and Dagenham",33.4,East,"Barking and Dagenham",E09000002
+E01000064,"Barking and Dagenham 006E","Barking and Dagenham",35.3,East,"Barking and Dagenham",E09000002
+E01000065,"Barking and Dagenham 007A","Barking and Dagenham",39.9,East,"Barking and Dagenham",E09000002
+E01000066,"Barking and Dagenham 011A","Barking and Dagenham",25.8,East,"Barking and Dagenham",E09000002
+E01000067,"Barking and Dagenham 011B","Barking and Dagenham",21,East,"Barking and Dagenham",E09000002
+E01000068,"Barking and Dagenham 016E","Barking and Dagenham",25.6,East,"Barking and Dagenham",E09000002
+E01000069,"Barking and Dagenham 011C","Barking and Dagenham",16.4,East,"Barking and Dagenham",E09000002
+E01000070,"Barking and Dagenham 011D","Barking and Dagenham",21,East,"Barking and Dagenham",E09000002
+E01000071,"Barking and Dagenham 011E","Barking and Dagenham",18.8,East,"Barking and Dagenham",E09000002
+E01000072,"Barking and Dagenham 017E","Barking and Dagenham",41,East,"Barking and Dagenham",E09000002
+E01000073,"Barking and Dagenham 012B","Barking and Dagenham",38.8,East,"Barking and Dagenham",E09000002
+E01000074,"Barking and Dagenham 012C","Barking and Dagenham",35,East,"Barking and Dagenham",E09000002
+E01000075,"Barking and Dagenham 012D","Barking and Dagenham",37,East,"Barking and Dagenham",E09000002
+E01000076,"Barking and Dagenham 012E","Barking and Dagenham",36.2,East,"Barking and Dagenham",E09000002
+E01000077,"Barking and Dagenham 008F","Barking and Dagenham",41,East,"Barking and Dagenham",E09000002
+E01000078,"Barking and Dagenham 007B","Barking and Dagenham",35,East,"Barking and Dagenham",E09000002
+E01000079,"Barking and Dagenham 009E","Barking and Dagenham",34.5,East,"Barking and Dagenham",E09000002
+E01000080,"Barking and Dagenham 007C","Barking and Dagenham",33.2,East,"Barking and Dagenham",E09000002
+E01000081,"Barking and Dagenham 007D","Barking and Dagenham",30.6,East,"Barking and Dagenham",E09000002
+E01000082,"Barking and Dagenham 007E","Barking and Dagenham",27.9,East,"Barking and Dagenham",E09000002
+E01000083,"Barking and Dagenham 007F","Barking and Dagenham",34.4,East,"Barking and Dagenham",E09000002
+E01000084,"Barking and Dagenham 013D","Barking and Dagenham",39.8,East,"Barking and Dagenham",E09000002
+E01000085,"Barking and Dagenham 013E","Barking and Dagenham",35.2,East,"Barking and Dagenham",E09000002
+E01000086,"Barking and Dagenham 013F","Barking and Dagenham",38.2,East,"Barking and Dagenham",E09000002
+E01000087,"Barking and Dagenham 020B","Barking and Dagenham",34.4,East,"Barking and Dagenham",E09000002
+E01000088,"Barking and Dagenham 020C","Barking and Dagenham",28.8,East,"Barking and Dagenham",E09000002
+E01000089,"Barking and Dagenham 020D","Barking and Dagenham",29,East,"Barking and Dagenham",E09000002
+E01000090,"Barking and Dagenham 020E","Barking and Dagenham",28.3,East,"Barking and Dagenham",E09000002
+E01000091,"Barking and Dagenham 022A","Barking and Dagenham",42.2,East,"Barking and Dagenham",E09000002
+E01000092,"Barking and Dagenham 019E","Barking and Dagenham",33.8,East,"Barking and Dagenham",E09000002
+E01000093,"Barking and Dagenham 022B","Barking and Dagenham",46.9,East,"Barking and Dagenham",E09000002
+E01000094,"Barking and Dagenham 022C","Barking and Dagenham",28.2,East,"Barking and Dagenham",E09000002
+E01000095,"Barking and Dagenham 018E","Barking and Dagenham",32.3,East,"Barking and Dagenham",E09000002
+E01000096,"Barking and Dagenham 022D","Barking and Dagenham",40.9,East,"Barking and Dagenham",E09000002
+E01000097,"Barking and Dagenham 023C","Barking and Dagenham",38,East,"Barking and Dagenham",E09000002
+E01000098,"Barking and Dagenham 023D","Barking and Dagenham",39.4,East,"Barking and Dagenham",E09000002
+E01000099,"Barking and Dagenham 023E","Barking and Dagenham",29.3,East,"Barking and Dagenham",E09000002
+E01000100,"Barking and Dagenham 004B","Barking and Dagenham",31.8,East,"Barking and Dagenham",E09000002
+E01000101,"Barking and Dagenham 004C","Barking and Dagenham",40.5,East,"Barking and Dagenham",E09000002
+E01000102,"Barking and Dagenham 007G","Barking and Dagenham",42.6,East,"Barking and Dagenham",E09000002
+E01000103,"Barking and Dagenham 014A","Barking and Dagenham",32.9,East,"Barking and Dagenham",E09000002
+E01000104,"Barking and Dagenham 014B","Barking and Dagenham",34.7,East,"Barking and Dagenham",E09000002
+E01000105,"Barking and Dagenham 014C","Barking and Dagenham",44.1,East,"Barking and Dagenham",E09000002
+E01000106,"Barking and Dagenham 014D","Barking and Dagenham",43.5,East,"Barking and Dagenham",E09000002
+E01000107,"Barking and Dagenham 010C","Barking and Dagenham",28.3,East,"Barking and Dagenham",E09000002
+E01000108,"Barking and Dagenham 010D","Barking and Dagenham",28.2,East,"Barking and Dagenham",E09000002
+E01000109,"Barking and Dagenham 004D","Barking and Dagenham",25.7,East,"Barking and Dagenham",E09000002
+E01000110,"Barking and Dagenham 002C","Barking and Dagenham",17.7,East,"Barking and Dagenham",E09000002
+E01000111,"Barking and Dagenham 002D","Barking and Dagenham",28.9,East,"Barking and Dagenham",E09000002
+E01000112,"Barking and Dagenham 002E","Barking and Dagenham",24.7,East,"Barking and Dagenham",E09000002
+E01000113,"Barking and Dagenham 002F","Barking and Dagenham",25.3,East,"Barking and Dagenham",E09000002
+E01000114,"Barking and Dagenham 004E","Barking and Dagenham",23.3,East,"Barking and Dagenham",E09000002
+E01000115,"Barnet 009A",Barnet,6.2,North,Barnet,E09000003
+E01000116,"Barnet 009B",Barnet,7.8,North,Barnet,E09000003
+E01000117,"Barnet 010A",Barnet,9.6,North,Barnet,E09000003
+E01000118,"Barnet 010B",Barnet,9.8,North,Barnet,E09000003
+E01000119,"Barnet 009C",Barnet,11.6,North,Barnet,E09000003
+E01000120,"Barnet 009D",Barnet,5.9,North,Barnet,E09000003
+E01000121,"Barnet 010C",Barnet,36.2,North,Barnet,E09000003
+E01000122,"Barnet 009E",Barnet,10.2,North,Barnet,E09000003
+E01000123,"Barnet 010D",Barnet,11,North,Barnet,E09000003
+E01000124,"Barnet 010E",Barnet,23.6,North,Barnet,E09000003
+E01000125,"Barnet 024A",Barnet,26.7,North,Barnet,E09000003
+E01000126,"Barnet 026A",Barnet,33.6,North,Barnet,E09000003
+E01000127,"Barnet 024B",Barnet,27.5,North,Barnet,E09000003
+E01000128,"Barnet 024C",Barnet,27.1,North,Barnet,E09000003
+E01000129,"Barnet 024D",Barnet,31,North,Barnet,E09000003
+E01000130,"Barnet 021A",Barnet,30.9,North,Barnet,E09000003
+E01000131,"Barnet 024E",Barnet,20.9,North,Barnet,E09000003
+E01000132,"Barnet 021B",Barnet,25.5,North,Barnet,E09000003
+E01000133,"Barnet 021C",Barnet,30.8,North,Barnet,E09000003
+E01000134,"Barnet 024F",Barnet,24.7,North,Barnet,E09000003
+E01000135,"Barnet 038A",Barnet,12.5,North,Barnet,E09000003
+E01000136,"Barnet 038B",Barnet,9,North,Barnet,E09000003
+E01000137,"Barnet 041A",Barnet,28.8,North,Barnet,E09000003
+E01000138,"Barnet 040A",Barnet,27.9,North,Barnet,E09000003
+E01000139,"Barnet 041B",Barnet,12.4,North,Barnet,E09000003
+E01000140,"Barnet 041C",Barnet,16.8,North,Barnet,E09000003
+E01000141,"Barnet 039A",Barnet,28.8,North,Barnet,E09000003
+E01000142,"Barnet 040B",Barnet,16.7,North,Barnet,E09000003
+E01000143,"Barnet 041D",Barnet,31.3,North,Barnet,E09000003
+E01000144,"Barnet 038C",Barnet,18.3,North,Barnet,E09000003
+E01000145,"Barnet 037A",Barnet,14.6,North,Barnet,E09000003
+E01000146,"Barnet 038D",Barnet,18.5,North,Barnet,E09000003
+E01000147,"Barnet 030A",Barnet,12.8,North,Barnet,E09000003
+E01000148,"Barnet 030B",Barnet,27.7,North,Barnet,E09000003
+E01000150,"Barnet 036A",Barnet,15.6,North,Barnet,E09000003
+E01000151,"Barnet 026B",Barnet,38.9,North,Barnet,E09000003
+E01000152,"Barnet 026C",Barnet,32.4,North,Barnet,E09000003
+E01000153,"Barnet 026D",Barnet,41.6,North,Barnet,E09000003
+E01000154,"Barnet 026E",Barnet,32.7,North,Barnet,E09000003
+E01000155,"Barnet 030D",Barnet,20.8,North,Barnet,E09000003
+E01000156,"Barnet 022A",Barnet,8.3,North,Barnet,E09000003
+E01000157,"Barnet 022B",Barnet,12.7,North,Barnet,E09000003
+E01000158,"Barnet 015A",Barnet,19.7,North,Barnet,E09000003
+E01000159,"Barnet 015B",Barnet,16.3,North,Barnet,E09000003
+E01000160,"Barnet 015C",Barnet,12.1,North,Barnet,E09000003
+E01000161,"Barnet 015D",Barnet,14.5,North,Barnet,E09000003
+E01000162,"Barnet 015E",Barnet,18.5,North,Barnet,E09000003
+E01000163,"Barnet 022C",Barnet,28.5,North,Barnet,E09000003
+E01000164,"Barnet 022D",Barnet,25.3,North,Barnet,E09000003
+E01000165,"Barnet 022E",Barnet,13.3,North,Barnet,E09000003
+E01000166,"Barnet 003A",Barnet,14.9,North,Barnet,E09000003
+E01000167,"Barnet 002A",Barnet,28.4,North,Barnet,E09000003
+E01000168,"Barnet 003B",Barnet,7,North,Barnet,E09000003
+E01000169,"Barnet 003C",Barnet,13.2,North,Barnet,E09000003
+E01000170,"Barnet 006A",Barnet,20.4,North,Barnet,E09000003
+E01000171,"Barnet 006B",Barnet,24.3,North,Barnet,E09000003
+E01000172,"Barnet 003D",Barnet,8.4,North,Barnet,E09000003
+E01000173,"Barnet 006C",Barnet,9.7,North,Barnet,E09000003
+E01000174,"Barnet 006D",Barnet,16.3,North,Barnet,E09000003
+E01000175,"Barnet 006E",Barnet,7.6,North,Barnet,E09000003
+E01000176,"Barnet 027A",Barnet,30.5,North,Barnet,E09000003
+E01000177,"Barnet 029A",Barnet,8.3,North,Barnet,E09000003
+E01000178,"Barnet 027B",Barnet,8.1,North,Barnet,E09000003
+E01000179,"Barnet 029B",Barnet,8.5,North,Barnet,E09000003
+E01000180,"Barnet 029C",Barnet,14.6,North,Barnet,E09000003
+E01000181,"Barnet 029D",Barnet,8.2,North,Barnet,E09000003
+E01000182,"Barnet 029E",Barnet,8,North,Barnet,E09000003
+E01000183,"Barnet 033A",Barnet,10.6,North,Barnet,E09000003
+E01000184,"Barnet 027C",Barnet,31.9,North,Barnet,E09000003
+E01000185,"Barnet 029F",Barnet,25.8,North,Barnet,E09000003
+E01000186,"Barnet 014A",Barnet,5.2,North,Barnet,E09000003
+E01000187,"Barnet 014B",Barnet,13,North,Barnet,E09000003
+E01000188,"Barnet 014C",Barnet,8,North,Barnet,E09000003
+E01000189,"Barnet 014D",Barnet,24.5,North,Barnet,E09000003
+E01000190,"Barnet 014E",Barnet,10.1,North,Barnet,E09000003
+E01000191,"Barnet 014F",Barnet,6.8,North,Barnet,E09000003
+E01000192,"Barnet 018A",Barnet,15.5,North,Barnet,E09000003
+E01000193,"Barnet 018B",Barnet,16.1,North,Barnet,E09000003
+E01000194,"Barnet 018C",Barnet,19.4,North,Barnet,E09000003
+E01000195,"Barnet 013A",Barnet,27,North,Barnet,E09000003
+E01000196,"Barnet 028A",Barnet,12.3,North,Barnet,E09000003
+E01000197,"Barnet 023A",Barnet,12.5,North,Barnet,E09000003
+E01000198,"Barnet 025A",Barnet,11.8,North,Barnet,E09000003
+E01000199,"Barnet 025B",Barnet,7.2,North,Barnet,E09000003
+E01000200,"Barnet 028B",Barnet,9.6,North,Barnet,E09000003
+E01000201,"Barnet 028C",Barnet,7.2,North,Barnet,E09000003
+E01000202,"Barnet 028D",Barnet,6.7,North,Barnet,E09000003
+E01000203,"Barnet 028E",Barnet,15.5,North,Barnet,E09000003
+E01000204,"Barnet 025C",Barnet,10.1,North,Barnet,E09000003
+E01000205,"Barnet 035A",Barnet,7.7,North,Barnet,E09000003
+E01000206,"Barnet 033B",Barnet,9.1,North,Barnet,E09000003
+E01000207,"Barnet 033C",Barnet,6.6,North,Barnet,E09000003
+E01000208,"Barnet 033D",Barnet,6.6,North,Barnet,E09000003
+E01000209,"Barnet 035B",Barnet,7.1,North,Barnet,E09000003
+E01000210,"Barnet 033E",Barnet,8.2,North,Barnet,E09000003
+E01000211,"Barnet 035C",Barnet,14.6,North,Barnet,E09000003
+E01000212,"Barnet 035D",Barnet,10.3,North,Barnet,E09000003
+E01000213,"Barnet 033F",Barnet,7.6,North,Barnet,E09000003
+E01000214,"Barnet 038E",Barnet,10.5,North,Barnet,E09000003
+E01000215,"Barnet 037B",Barnet,13.6,North,Barnet,E09000003
+E01000216,"Barnet 035E",Barnet,10,North,Barnet,E09000003
+E01000217,"Barnet 035F",Barnet,10.8,North,Barnet,E09000003
+E01000218,"Barnet 037C",Barnet,15.3,North,Barnet,E09000003
+E01000219,"Barnet 037D",Barnet,19.9,North,Barnet,E09000003
+E01000220,"Barnet 037E",Barnet,17.1,North,Barnet,E09000003
+E01000221,"Barnet 039B",Barnet,45.8,North,Barnet,E09000003
+E01000222,"Barnet 040C",Barnet,27.1,North,Barnet,E09000003
+E01000223,"Barnet 039C",Barnet,35.8,North,Barnet,E09000003
+E01000224,"Barnet 040D",Barnet,19.7,North,Barnet,E09000003
+E01000225,"Barnet 037F",Barnet,11,North,Barnet,E09000003
+E01000226,"Barnet 018D",Barnet,31.7,North,Barnet,E09000003
+E01000227,"Barnet 018E",Barnet,10,North,Barnet,E09000003
+E01000228,"Barnet 007A",Barnet,12.5,North,Barnet,E09000003
+E01000229,"Barnet 013B",Barnet,21.6,North,Barnet,E09000003
+E01000230,"Barnet 013C",Barnet,7.9,North,Barnet,E09000003
+E01000231,"Barnet 013D",Barnet,17.6,North,Barnet,E09000003
+E01000232,"Barnet 013E",Barnet,14.5,North,Barnet,E09000003
+E01000233,"Barnet 013F",Barnet,8.9,North,Barnet,E09000003
+E01000234,"Barnet 021D",Barnet,8.7,North,Barnet,E09000003
+E01000235,"Barnet 021E",Barnet,23.3,North,Barnet,E09000003
+E01000236,"Barnet 034A",Barnet,10.6,North,Barnet,E09000003
+E01000237,"Barnet 032A",Barnet,9.5,North,Barnet,E09000003
+E01000238,"Barnet 034B",Barnet,14.5,North,Barnet,E09000003
+E01000239,"Barnet 031A",Barnet,21.6,North,Barnet,E09000003
+E01000240,"Barnet 031B",Barnet,19.6,North,Barnet,E09000003
+E01000241,"Barnet 031C",Barnet,10.7,North,Barnet,E09000003
+E01000242,"Barnet 032B",Barnet,19.2,North,Barnet,E09000003
+E01000243,"Barnet 032C",Barnet,14.1,North,Barnet,E09000003
+E01000244,"Barnet 032D",Barnet,15.6,North,Barnet,E09000003
+E01000245,"Barnet 032E",Barnet,24.1,North,Barnet,E09000003
+E01000246,"Barnet 002B",Barnet,10.6,North,Barnet,E09000003
+E01000247,"Barnet 002C",Barnet,10.1,North,Barnet,E09000003
+E01000248,"Barnet 001A",Barnet,7.3,North,Barnet,E09000003
+E01000249,"Barnet 001B",Barnet,5.9,North,Barnet,E09000003
+E01000250,"Barnet 001C",Barnet,13,North,Barnet,E09000003
+E01000251,"Barnet 002D",Barnet,18.9,North,Barnet,E09000003
+E01000252,"Barnet 002E",Barnet,13.4,North,Barnet,E09000003
+E01000253,"Barnet 007B",Barnet,9.4,North,Barnet,E09000003
+E01000254,"Barnet 001D",Barnet,7.8,North,Barnet,E09000003
+E01000255,"Barnet 017A",Barnet,18.7,North,Barnet,E09000003
+E01000256,"Barnet 016A",Barnet,10.6,North,Barnet,E09000003
+E01000257,"Barnet 017B",Barnet,25,North,Barnet,E09000003
+E01000258,"Barnet 016B",Barnet,9.2,North,Barnet,E09000003
+E01000259,"Barnet 025D",Barnet,13.4,North,Barnet,E09000003
+E01000260,"Barnet 025E",Barnet,19.9,North,Barnet,E09000003
+E01000261,"Barnet 017C",Barnet,7.6,North,Barnet,E09000003
+E01000262,"Barnet 017D",Barnet,11.6,North,Barnet,E09000003
+E01000263,"Barnet 016C",Barnet,5.9,North,Barnet,E09000003
+E01000264,"Barnet 016D",Barnet,16.5,North,Barnet,E09000003
+E01000265,"Barnet 011A",Barnet,15.1,North,Barnet,E09000003
+E01000266,"Barnet 011B",Barnet,8,North,Barnet,E09000003
+E01000267,"Barnet 005A",Barnet,12.8,North,Barnet,E09000003
+E01000268,"Barnet 005B",Barnet,15.3,North,Barnet,E09000003
+E01000269,"Barnet 005C",Barnet,10.4,North,Barnet,E09000003
+E01000270,"Barnet 005D",Barnet,12,North,Barnet,E09000003
+E01000271,"Barnet 008A",Barnet,6.6,North,Barnet,E09000003
+E01000272,"Barnet 008B",Barnet,4.8,North,Barnet,E09000003
+E01000273,"Barnet 008C",Barnet,14.1,North,Barnet,E09000003
+E01000274,"Barnet 011C",Barnet,15.6,North,Barnet,E09000003
+E01000275,"Barnet 012A",Barnet,13.5,North,Barnet,E09000003
+E01000276,"Barnet 020A",Barnet,4.1,North,Barnet,E09000003
+E01000277,"Barnet 012B",Barnet,18.2,North,Barnet,E09000003
+E01000278,"Barnet 020B",Barnet,5.5,North,Barnet,E09000003
+E01000279,"Barnet 007C",Barnet,9,North,Barnet,E09000003
+E01000280,"Barnet 007D",Barnet,4,North,Barnet,E09000003
+E01000281,"Barnet 008D",Barnet,10.9,North,Barnet,E09000003
+E01000282,"Barnet 008E",Barnet,8.6,North,Barnet,E09000003
+E01000283,"Barnet 012C",Barnet,4.6,North,Barnet,E09000003
+E01000284,"Barnet 012D",Barnet,15.5,North,Barnet,E09000003
+E01000285,"Barnet 004A",Barnet,15.1,North,Barnet,E09000003
+E01000286,"Barnet 007E",Barnet,23.9,North,Barnet,E09000003
+E01000287,"Barnet 004B",Barnet,22.7,North,Barnet,E09000003
+E01000288,"Barnet 004C",Barnet,13,North,Barnet,E09000003
+E01000289,"Barnet 004D",Barnet,38.3,North,Barnet,E09000003
+E01000290,"Barnet 007F",Barnet,19.9,North,Barnet,E09000003
+E01000291,"Barnet 004E",Barnet,32.9,North,Barnet,E09000003
+E01000292,"Barnet 001E",Barnet,11.3,North,Barnet,E09000003
+E01000293,"Barnet 001F",Barnet,7.6,North,Barnet,E09000003
+E01000294,"Barnet 004F",Barnet,12.2,North,Barnet,E09000003
+E01000295,"Barnet 023B",Barnet,13.3,North,Barnet,E09000003
+E01000296,"Barnet 023C",Barnet,12.1,North,Barnet,E09000003
+E01000297,"Barnet 027D",Barnet,9,North,Barnet,E09000003
+E01000298,"Barnet 023D",Barnet,11.8,North,Barnet,E09000003
+E01000299,"Barnet 019A",Barnet,17,North,Barnet,E09000003
+E01000300,"Barnet 019B",Barnet,12.3,North,Barnet,E09000003
+E01000301,"Barnet 020C",Barnet,7.1,North,Barnet,E09000003
+E01000302,"Barnet 019C",Barnet,15.6,North,Barnet,E09000003
+E01000303,"Barnet 020D",Barnet,6.8,North,Barnet,E09000003
+E01000304,"Barnet 020E",Barnet,13.5,North,Barnet,E09000003
+E01000305,"Barnet 036B",Barnet,27.9,North,Barnet,E09000003
+E01000306,"Barnet 036C",Barnet,14,North,Barnet,E09000003
+E01000307,"Barnet 039D",Barnet,23.3,North,Barnet,E09000003
+E01000308,"Barnet 036D",Barnet,31.8,North,Barnet,E09000003
+E01000309,"Barnet 031D",Barnet,13.9,North,Barnet,E09000003
+E01000310,"Barnet 034C",Barnet,19.2,North,Barnet,E09000003
+E01000311,"Barnet 034D",Barnet,11.1,North,Barnet,E09000003
+E01000312,"Barnet 036E",Barnet,24.9,North,Barnet,E09000003
+E01000313,"Barnet 036F",Barnet,19.9,North,Barnet,E09000003
+E01000314,"Barnet 032F",Barnet,10.7,North,Barnet,E09000003
+E01000315,"Barnet 022F",Barnet,32.7,North,Barnet,E09000003
+E01000316,"Barnet 027E",Barnet,19.9,North,Barnet,E09000003
+E01000317,"Barnet 019D",Barnet,10.9,North,Barnet,E09000003
+E01000318,"Barnet 019E",Barnet,14.7,North,Barnet,E09000003
+E01000319,"Barnet 027F",Barnet,9.9,North,Barnet,E09000003
+E01000320,"Barnet 011D",Barnet,8.7,North,Barnet,E09000003
+E01000321,"Barnet 012E",Barnet,14.4,North,Barnet,E09000003
+E01000322,"Barnet 011E",Barnet,14.9,North,Barnet,E09000003
+E01000323,"Barnet 019F",Barnet,18.8,North,Barnet,E09000003
+E01000324,"Barnet 015F",Barnet,13.8,North,Barnet,E09000003
+E01000325,"Bexley 014A",Bexley,5.9,East,Bexley,E09000004
+E01000326,"Bexley 014B",Bexley,12,East,Bexley,E09000004
+E01000327,"Bexley 017A",Bexley,7.7,East,Bexley,E09000004
+E01000328,"Bexley 017B",Bexley,11.4,East,Bexley,E09000004
+E01000329,"Bexley 017C",Bexley,15.9,East,Bexley,E09000004
+E01000330,"Bexley 017D",Bexley,17.9,East,Bexley,E09000004
+E01000331,"Bexley 017E",Bexley,28.3,East,Bexley,E09000004
+E01000332,"Bexley 005A",Bexley,16.1,East,Bexley,E09000004
+E01000333,"Bexley 003A",Bexley,25.9,East,Bexley,E09000004
+E01000334,"Bexley 006A",Bexley,13,East,Bexley,E09000004
+E01000335,"Bexley 003B",Bexley,31.7,East,Bexley,E09000004
+E01000336,"Bexley 003C",Bexley,31.4,East,Bexley,E09000004
+E01000337,"Bexley 003D",Bexley,19.6,East,Bexley,E09000004
+E01000338,"Bexley 003E",Bexley,18.9,East,Bexley,E09000004
+E01000339,"Bexley 025A",Bexley,16.3,East,Bexley,E09000004
+E01000340,"Bexley 018A",Bexley,12.8,East,Bexley,E09000004
+E01000341,"Bexley 022A",Bexley,8.9,East,Bexley,E09000004
+E01000342,"Bexley 022B",Bexley,8.9,East,Bexley,E09000004
+E01000343,"Bexley 022C",Bexley,8.3,East,Bexley,E09000004
+E01000344,"Bexley 025B",Bexley,6.1,East,Bexley,E09000004
+E01000345,"Bexley 022D",Bexley,6.3,East,Bexley,E09000004
+E01000346,"Bexley 021A",Bexley,9.7,East,Bexley,E09000004
+E01000347,"Bexley 021B",Bexley,11.2,East,Bexley,E09000004
+E01000348,"Bexley 020A",Bexley,5,East,Bexley,E09000004
+E01000349,"Bexley 020B",Bexley,7.5,East,Bexley,E09000004
+E01000350,"Bexley 021C",Bexley,7.9,East,Bexley,E09000004
+E01000351,"Bexley 024A",Bexley,7.6,East,Bexley,E09000004
+E01000352,"Bexley 021D",Bexley,14.8,East,Bexley,E09000004
+E01000353,"Bexley 011A",Bexley,5.2,East,Bexley,E09000004
+E01000354,"Bexley 011B",Bexley,21.3,East,Bexley,E09000004
+E01000355,"Bexley 011C",Bexley,8.2,East,Bexley,E09000004
+E01000356,"Bexley 009A",Bexley,7.9,East,Bexley,E09000004
+E01000357,"Bexley 009B",Bexley,4.1,East,Bexley,E09000004
+E01000358,"Bexley 011D",Bexley,6.2,East,Bexley,E09000004
+E01000359,"Bexley 009C",Bexley,6.2,East,Bexley,E09000004
+E01000360,"Bexley 015A",Bexley,18.7,East,Bexley,E09000004
+E01000361,"Bexley 020C",Bexley,11.3,East,Bexley,E09000004
+E01000362,"Bexley 015B",Bexley,12.6,East,Bexley,E09000004
+E01000363,"Bexley 020D",Bexley,9.3,East,Bexley,E09000004
+E01000364,"Bexley 023A",Bexley,12.7,East,Bexley,E09000004
+E01000365,"Bexley 015C",Bexley,14.4,East,Bexley,E09000004
+E01000366,"Bexley 015D",Bexley,9.9,East,Bexley,E09000004
+E01000367,"Bexley 010A",Bexley,30.9,East,Bexley,E09000004
+E01000368,"Bexley 010B",Bexley,33.9,East,Bexley,E09000004
+E01000369,"Bexley 014C",Bexley,14.6,East,Bexley,E09000004
+E01000370,"Bexley 014D",Bexley,11.4,East,Bexley,E09000004
+E01000371,"Bexley 014E",Bexley,8.2,East,Bexley,E09000004
+E01000372,"Bexley 010C",Bexley,29.9,East,Bexley,E09000004
+E01000373,"Bexley 008A",Bexley,29.3,East,Bexley,E09000004
+E01000374,"Bexley 019A",Bexley,42.4,East,Bexley,E09000004
+E01000375,"Bexley 019B",Bexley,18.3,East,Bexley,E09000004
+E01000376,"Bexley 019C",Bexley,16.2,East,Bexley,E09000004
+E01000377,"Bexley 019D",Bexley,12.3,East,Bexley,E09000004
+E01000378,"Bexley 019E",Bexley,21.2,East,Bexley,E09000004
+E01000379,"Bexley 019F",Bexley,18.6,East,Bexley,E09000004
+E01000380,"Bexley 010D",Bexley,23.3,East,Bexley,E09000004
+E01000381,"Bexley 028A",Bexley,27.8,East,Bexley,E09000004
+E01000382,"Bexley 027A",Bexley,6.4,East,Bexley,E09000004
+E01000383,"Bexley 028B",Bexley,21.1,East,Bexley,E09000004
+E01000384,"Bexley 027B",Bexley,12.1,East,Bexley,E09000004
+E01000385,"Bexley 028C",Bexley,32.3,East,Bexley,E09000004
+E01000386,"Bexley 028D",Bexley,41.6,East,Bexley,E09000004
+E01000387,"Bexley 027C",Bexley,12.3,East,Bexley,E09000004
+E01000388,"Bexley 016A",Bexley,10.8,East,Bexley,E09000004
+E01000389,"Bexley 020E",Bexley,11.2,East,Bexley,E09000004
+E01000390,"Bexley 020F",Bexley,10.2,East,Bexley,E09000004
+E01000391,"Bexley 021E",Bexley,13.9,East,Bexley,E09000004
+E01000392,"Bexley 016B",Bexley,22.9,East,Bexley,E09000004
+E01000393,"Bexley 020G",Bexley,9.2,East,Bexley,E09000004
+E01000394,"Bexley 015E",Bexley,9.3,East,Bexley,E09000004
+E01000395,"Bexley 018B",Bexley,5,East,Bexley,E09000004
+E01000396,"Bexley 018C",Bexley,8.1,East,Bexley,E09000004
+E01000398,"Bexley 029A",Bexley,20,East,Bexley,E09000004
+E01000399,"Bexley 029B",Bexley,9.1,East,Bexley,E09000004
+E01000400,"Bexley 029C",Bexley,14.7,East,Bexley,E09000004
+E01000401,"Bexley 013A",Bexley,21.1,East,Bexley,E09000004
+E01000402,"Bexley 005B",Bexley,23.5,East,Bexley,E09000004
+E01000403,"Bexley 004A",Bexley,29.5,East,Bexley,E09000004
+E01000404,"Bexley 004B",Bexley,30.1,East,Bexley,E09000004
+E01000405,"Bexley 004C",Bexley,28.9,East,Bexley,E09000004
+E01000406,"Bexley 005C",Bexley,23.3,East,Bexley,E09000004
+E01000407,"Bexley 005D",Bexley,14.6,East,Bexley,E09000004
+E01000408,"Bexley 004D",Bexley,23.8,East,Bexley,E09000004
+E01000409,"Bexley 016C",Bexley,5.9,East,Bexley,E09000004
+E01000410,"Bexley 018D",Bexley,7.5,East,Bexley,E09000004
+E01000411,"Bexley 016D",Bexley,9.6,East,Bexley,E09000004
+E01000412,"Bexley 018E",Bexley,8.6,East,Bexley,E09000004
+E01000413,"Bexley 018F",Bexley,11,East,Bexley,E09000004
+E01000414,"Bexley 016E",Bexley,13.6,East,Bexley,E09000004
+E01000415,"Bexley 016F",Bexley,6.2,East,Bexley,E09000004
+E01000416,"Bexley 002A",Bexley,25.3,East,Bexley,E09000004
+E01000417,"Bexley 006B",Bexley,19.6,East,Bexley,E09000004
+E01000418,"Bexley 002B",Bexley,18.7,East,Bexley,E09000004
+E01000419,"Bexley 006C",Bexley,8.7,East,Bexley,E09000004
+E01000420,"Bexley 006D",Bexley,11.2,East,Bexley,E09000004
+E01000421,"Bexley 009D",Bexley,7.2,East,Bexley,E09000004
+E01000422,"Bexley 002C",Bexley,35.9,East,Bexley,E09000004
+E01000423,"Bexley 025C",Bexley,5.6,East,Bexley,E09000004
+E01000424,"Bexley 026A",Bexley,6.8,East,Bexley,E09000004
+E01000425,"Bexley 025D",Bexley,6.5,East,Bexley,E09000004
+E01000426,"Bexley 026B",Bexley,10.3,East,Bexley,E09000004
+E01000427,"Bexley 026C",Bexley,12.9,East,Bexley,E09000004
+E01000428,"Bexley 027D",Bexley,23.9,East,Bexley,E09000004
+E01000429,"Bexley 008B",Bexley,42.5,East,Bexley,E09000004
+E01000430,"Bexley 008C",Bexley,16.5,East,Bexley,E09000004
+E01000431,"Bexley 008D",Bexley,36.1,East,Bexley,E09000004
+E01000432,"Bexley 008E",Bexley,24.4,East,Bexley,E09000004
+E01000433,"Bexley 008F",Bexley,35.5,East,Bexley,E09000004
+E01000434,"Bexley 008G",Bexley,38.2,East,Bexley,E09000004
+E01000435,"Bexley 010E",Bexley,31.2,East,Bexley,E09000004
+E01000436,"Bexley 011E",Bexley,5,East,Bexley,E09000004
+E01000437,"Bexley 007A",Bexley,13.7,East,Bexley,E09000004
+E01000438,"Bexley 007B",Bexley,14,East,Bexley,E09000004
+E01000439,"Bexley 007C",Bexley,23.8,East,Bexley,E09000004
+E01000440,"Bexley 007D",Bexley,7.7,East,Bexley,E09000004
+E01000441,"Bexley 007E",Bexley,29,East,Bexley,E09000004
+E01000442,"Bexley 006E",Bexley,13.9,East,Bexley,E09000004
+E01000443,"Bexley 024B",Bexley,18.2,East,Bexley,E09000004
+E01000444,"Bexley 023B",Bexley,6.8,East,Bexley,E09000004
+E01000445,"Bexley 024C",Bexley,5.8,East,Bexley,E09000004
+E01000446,"Bexley 024D",Bexley,6.2,East,Bexley,E09000004
+E01000447,"Bexley 023C",Bexley,10.4,East,Bexley,E09000004
+E01000448,"Bexley 023D",Bexley,3.2,East,Bexley,E09000004
+E01000449,"Bexley 023E",Bexley,5.4,East,Bexley,E09000004
+E01000450,"Bexley 009E",Bexley,18,East,Bexley,E09000004
+E01000451,"Bexley 009F",Bexley,7.5,East,Bexley,E09000004
+E01000452,"Bexley 009G",Bexley,7.5,East,Bexley,E09000004
+E01000453,"Bexley 013B",Bexley,8,East,Bexley,E09000004
+E01000454,"Bexley 013C",Bexley,18.6,East,Bexley,E09000004
+E01000455,"Bexley 013D",Bexley,8.2,East,Bexley,E09000004
+E01000456,"Bexley 013E",Bexley,6.1,East,Bexley,E09000004
+E01000457,"Bexley 026D",Bexley,12.1,East,Bexley,E09000004
+E01000458,"Bexley 027E",Bexley,5.6,East,Bexley,E09000004
+E01000459,"Bexley 027F",Bexley,14.4,East,Bexley,E09000004
+E01000460,"Bexley 022E",Bexley,5.1,East,Bexley,E09000004
+E01000461,"Bexley 024E",Bexley,7.1,East,Bexley,E09000004
+E01000462,"Bexley 026E",Bexley,14.3,East,Bexley,E09000004
+E01000463,"Bexley 025E",Bexley,5.1,East,Bexley,E09000004
+E01000464,"Bexley 002D",Bexley,25.5,East,Bexley,E09000004
+E01000465,"Bexley 002E",Bexley,28.7,East,Bexley,E09000004
+E01000466,"Bexley 001A",Bexley,23.4,East,Bexley,E09000004
+E01000467,"Bexley 001B",Bexley,18.6,East,Bexley,E09000004
+E01000468,"Bexley 001C",Bexley,20.9,East,Bexley,E09000004
+E01000469,"Bexley 001D",Bexley,19.9,East,Bexley,E09000004
+E01000470,"Bexley 002F",Bexley,38.3,East,Bexley,E09000004
+E01000471,"Brent 026A",Brent,21.5,West,Brent,E09000005
+E01000472,"Brent 029A",Brent,22.9,West,Brent,E09000005
+E01000473,"Brent 029B",Brent,25.2,West,Brent,E09000005
+E01000474,"Brent 026B",Brent,21.8,West,Brent,E09000005
+E01000475,"Brent 029C",Brent,21.1,West,Brent,E09000005
+E01000476,"Brent 026C",Brent,19.7,West,Brent,E09000005
+E01000477,"Brent 026D",Brent,23.5,West,Brent,E09000005
+E01000478,"Brent 029D",Brent,23.7,West,Brent,E09000005
+E01000479,"Brent 009A",Brent,15.8,West,Brent,E09000005
+E01000480,"Brent 006A",Brent,11.8,West,Brent,E09000005
+E01000481,"Brent 009B",Brent,27.7,West,Brent,E09000005
+E01000482,"Brent 009C",Brent,33.3,West,Brent,E09000005
+E01000483,"Brent 009D",Brent,33.5,West,Brent,E09000005
+E01000484,"Brent 006B",Brent,38.6,West,Brent,E09000005
+E01000485,"Brent 006C",Brent,29.7,West,Brent,E09000005
+E01000486,"Brent 006D",Brent,15.6,West,Brent,E09000005
+E01000487,"Brent 006E",Brent,17.6,West,Brent,E09000005
+E01000488,"Brent 022A",Brent,24.3,West,Brent,E09000005
+E01000489,"Brent 030A",Brent,23.3,West,Brent,E09000005
+E01000490,"Brent 023A",Brent,24.2,West,Brent,E09000005
+E01000491,"Brent 030B",Brent,21.2,West,Brent,E09000005
+E01000492,"Brent 030C",Brent,13.4,West,Brent,E09000005
+E01000493,"Brent 030D",Brent,12.3,West,Brent,E09000005
+E01000494,"Brent 023B",Brent,19.5,West,Brent,E09000005
+E01000495,"Brent 023C",Brent,32.6,West,Brent,E09000005
+E01000497,"Brent 011A",Brent,23.7,West,Brent,E09000005
+E01000498,"Brent 010B",Brent,32.5,West,Brent,E09000005
+E01000499,"Brent 011B",Brent,27.1,West,Brent,E09000005
+E01000501,"Brent 011C",Brent,35.7,West,Brent,E09000005
+E01000502,"Brent 011D",Brent,28.7,West,Brent,E09000005
+E01000503,"Brent 011E",Brent,28.6,West,Brent,E09000005
+E01000504,"Brent 018A",Brent,21.4,West,Brent,E09000005
+E01000505,"Brent 018B",Brent,20.3,West,Brent,E09000005
+E01000506,"Brent 014A",Brent,30.4,West,Brent,E09000005
+E01000507,"Brent 018C",Brent,22,West,Brent,E09000005
+E01000508,"Brent 025A",Brent,37.8,West,Brent,E09000005
+E01000509,"Brent 014B",Brent,34.2,West,Brent,E09000005
+E01000510,"Brent 014C",Brent,30.1,West,Brent,E09000005
+E01000511,"Brent 014D",Brent,31,West,Brent,E09000005
+E01000512,"Brent 018D",Brent,18.9,West,Brent,E09000005
+E01000513,"Brent 002A",Brent,15.5,West,Brent,E09000005
+E01000514,"Brent 002B",Brent,14.6,West,Brent,E09000005
+E01000515,"Brent 003A",Brent,27.5,West,Brent,E09000005
+E01000516,"Brent 002C",Brent,19.4,West,Brent,E09000005
+E01000517,"Brent 003B",Brent,13.6,West,Brent,E09000005
+E01000518,"Brent 005A",Brent,25.9,West,Brent,E09000005
+E01000519,"Brent 005B",Brent,20.4,West,Brent,E09000005
+E01000520,"Brent 002D",Brent,20.6,West,Brent,E09000005
+E01000521,"Brent 025B",Brent,53.1,West,Brent,E09000005
+E01000522,"Brent 025C",Brent,31.4,West,Brent,E09000005
+E01000523,"Brent 031A",Brent,31.7,West,Brent,E09000005
+E01000524,"Brent 031B",Brent,44.2,West,Brent,E09000005
+E01000525,"Brent 031C",Brent,33.6,West,Brent,E09000005
+E01000526,"Brent 025D",Brent,42.1,West,Brent,E09000005
+E01000527,"Brent 025E",Brent,34.2,West,Brent,E09000005
+E01000528,"Brent 025F",Brent,46,West,Brent,E09000005
+E01000530,"Brent 033A",Brent,15.6,West,Brent,E09000005
+E01000531,"Brent 033B",Brent,25.3,West,Brent,E09000005
+E01000532,"Brent 033C",Brent,22.1,West,Brent,E09000005
+E01000533,"Brent 031E",Brent,38.6,West,Brent,E09000005
+E01000534,"Brent 033D",Brent,19.4,West,Brent,E09000005
+E01000535,"Brent 031F",Brent,29.6,West,Brent,E09000005
+E01000536,"Brent 004A",Brent,11.3,West,Brent,E09000005
+E01000538,"Brent 004B",Brent,9.6,West,Brent,E09000005
+E01000539,"Brent 004C",Brent,9.4,West,Brent,E09000005
+E01000540,"Brent 004D",Brent,10.5,West,Brent,E09000005
+E01000541,"Brent 004E",Brent,14.8,West,Brent,E09000005
+E01000543,"Brent 003E",Brent,21.4,West,Brent,E09000005
+E01000544,"Brent 034A",Brent,33.6,West,Brent,E09000005
+E01000545,"Brent 028A",Brent,30.4,West,Brent,E09000005
+E01000546,"Brent 028B",Brent,22.3,West,Brent,E09000005
+E01000547,"Brent 028C",Brent,22.7,West,Brent,E09000005
+E01000548,"Brent 028D",Brent,32.7,West,Brent,E09000005
+E01000549,"Brent 028E",Brent,17.1,West,Brent,E09000005
+E01000550,"Brent 034B",Brent,34.6,West,Brent,E09000005
+E01000551,"Brent 034C",Brent,41.1,West,Brent,E09000005
+E01000552,"Brent 034D",Brent,43.4,West,Brent,E09000005
+E01000553,"Brent 015A",Brent,29.1,West,Brent,E09000005
+E01000554,"Brent 015B",Brent,21,West,Brent,E09000005
+E01000555,"Brent 015C",Brent,15.9,West,Brent,E09000005
+E01000556,"Brent 015D",Brent,32,West,Brent,E09000005
+E01000557,"Brent 015E",Brent,23.5,West,Brent,E09000005
+E01000558,"Brent 015F",Brent,26.8,West,Brent,E09000005
+E01000559,"Brent 018E",Brent,22.1,West,Brent,E09000005
+E01000560,"Brent 023D",Brent,19.1,West,Brent,E09000005
+E01000561,"Brent 023E",Brent,24.7,West,Brent,E09000005
+E01000562,"Brent 008A",Brent,10.9,West,Brent,E09000005
+E01000563,"Brent 008B",Brent,9.6,West,Brent,E09000005
+E01000564,"Brent 013A",Brent,17.3,West,Brent,E09000005
+E01000565,"Brent 013B",Brent,23.9,West,Brent,E09000005
+E01000566,"Brent 008C",Brent,14.8,West,Brent,E09000005
+E01000567,"Brent 016A",Brent,18.2,West,Brent,E09000005
+E01000568,"Brent 008D",Brent,14.3,West,Brent,E09000005
+E01000569,"Brent 008E",Brent,9.5,West,Brent,E09000005
+E01000570,"Brent 012A",Brent,24.1,West,Brent,E09000005
+E01000571,"Brent 012B",Brent,22.2,West,Brent,E09000005
+E01000572,"Brent 007A",Brent,12.3,West,Brent,E09000005
+E01000573,"Brent 007B",Brent,13.4,West,Brent,E09000005
+E01000574,"Brent 007C",Brent,10.7,West,Brent,E09000005
+E01000575,"Brent 007D",Brent,17.4,West,Brent,E09000005
+E01000576,"Brent 012C",Brent,16.5,West,Brent,E09000005
+E01000577,"Brent 007E",Brent,32.6,West,Brent,E09000005
+E01000578,"Brent 012D",Brent,28.9,West,Brent,E09000005
+E01000579,"Brent 032A",Brent,28.9,West,Brent,E09000005
+E01000580,"Brent 032B",Brent,20.1,West,Brent,E09000005
+E01000581,"Brent 030E",Brent,15.5,West,Brent,E09000005
+E01000582,"Brent 032C",Brent,14.3,West,Brent,E09000005
+E01000583,"Brent 032D",Brent,21.3,West,Brent,E09000005
+E01000584,"Brent 033E",Brent,14.5,West,Brent,E09000005
+E01000585,"Brent 033F",Brent,14.2,West,Brent,E09000005
+E01000586,"Brent 032E",Brent,21.5,West,Brent,E09000005
+E01000587,"Brent 001A",Brent,15,West,Brent,E09000005
+E01000588,"Brent 002E",Brent,26.1,West,Brent,E09000005
+E01000589,"Brent 001B",Brent,19.3,West,Brent,E09000005
+E01000590,"Brent 001C",Brent,19,West,Brent,E09000005
+E01000591,"Brent 003F",Brent,20.6,West,Brent,E09000005
+E01000592,"Brent 001D",Brent,20.7,West,Brent,E09000005
+E01000593,"Brent 001E",Brent,19.6,West,Brent,E09000005
+E01000594,"Brent 001F",Brent,17.1,West,Brent,E09000005
+E01000595,"Brent 027A",Brent,45.3,West,Brent,E09000005
+E01000596,"Brent 021A",Brent,46.5,West,Brent,E09000005
+E01000599,"Brent 027D",Brent,51.4,West,Brent,E09000005
+E01000600,"Brent 027E",Brent,36.8,West,Brent,E09000005
+E01000601,"Brent 021B",Brent,57.2,West,Brent,E09000005
+E01000602,"Brent 021C",Brent,39.8,West,Brent,E09000005
+E01000603,"Brent 021D",Brent,39.1,West,Brent,E09000005
+E01000604,"Brent 021E",Brent,43.1,West,Brent,E09000005
+E01000605,"Brent 021F",Brent,45.5,West,Brent,E09000005
+E01000606,"Brent 016B",Brent,19.7,West,Brent,E09000005
+E01000607,"Brent 013C",Brent,18.8,West,Brent,E09000005
+E01000608,"Brent 013D",Brent,22.1,West,Brent,E09000005
+E01000609,"Brent 016C",Brent,21,West,Brent,E09000005
+E01000610,"Brent 019A",Brent,24.9,West,Brent,E09000005
+E01000611,"Brent 016D",Brent,24,West,Brent,E09000005
+E01000612,"Brent 019B",Brent,23,West,Brent,E09000005
+E01000613,"Brent 013E",Brent,25.3,West,Brent,E09000005
+E01000615,"Brent 017B",Brent,19.8,West,Brent,E09000005
+E01000616,"Brent 020A",Brent,21.6,West,Brent,E09000005
+E01000617,"Brent 017C",Brent,24.1,West,Brent,E09000005
+E01000618,"Brent 017D",Brent,21.8,West,Brent,E09000005
+E01000619,"Brent 017E",Brent,19.4,West,Brent,E09000005
+E01000620,"Brent 020B",Brent,20.9,West,Brent,E09000005
+E01000621,"Brent 020C",Brent,25.2,West,Brent,E09000005
+E01000622,"Brent 010D",Brent,30.1,West,Brent,E09000005
+E01000623,"Brent 005C",Brent,16.1,West,Brent,E09000005
+E01000624,"Brent 005D",Brent,18.7,West,Brent,E09000005
+E01000625,"Brent 009E",Brent,22.4,West,Brent,E09000005
+E01000626,"Brent 010E",Brent,43.5,West,Brent,E09000005
+E01000627,"Brent 014E",Brent,39.2,West,Brent,E09000005
+E01000628,"Brent 014F",Brent,33.7,West,Brent,E09000005
+E01000629,"Brent 005E",Brent,15.8,West,Brent,E09000005
+E01000630,"Brent 026E",Brent,28.7,West,Brent,E09000005
+E01000631,"Brent 019C",Brent,16.9,West,Brent,E09000005
+E01000632,"Brent 029E",Brent,18.6,West,Brent,E09000005
+E01000633,"Brent 019D",Brent,24.5,West,Brent,E09000005
+E01000634,"Brent 019E",Brent,21.9,West,Brent,E09000005
+E01000635,"Brent 020D",Brent,29.7,West,Brent,E09000005
+E01000636,"Brent 020E",Brent,18.2,West,Brent,E09000005
+E01000637,"Brent 022B",Brent,23.3,West,Brent,E09000005
+E01000638,"Brent 024A",Brent,28.9,West,Brent,E09000005
+E01000639,"Brent 022C",Brent,22.1,West,Brent,E09000005
+E01000640,"Brent 024B",Brent,27,West,Brent,E09000005
+E01000641,"Brent 024C",Brent,30.8,West,Brent,E09000005
+E01000642,"Brent 022D",Brent,27.3,West,Brent,E09000005
+E01000643,"Brent 024D",Brent,51.1,West,Brent,E09000005
+E01000644,"Brent 022E",Brent,25,West,Brent,E09000005
+E01000645,"Bromley 007A",Bromley,4.4,South,Bromley,E09000006
+E01000646,"Bromley 016A",Bromley,8.7,South,Bromley,E09000006
+E01000647,"Bromley 016B",Bromley,6.9,South,Bromley,E09000006
+E01000648,"Bromley 016C",Bromley,6.4,South,Bromley,E09000006
+E01000649,"Bromley 007B",Bromley,9.1,South,Bromley,E09000006
+E01000650,"Bromley 022A",Bromley,11.7,South,Bromley,E09000006
+E01000651,"Bromley 020A",Bromley,9.8,South,Bromley,E09000006
+E01000652,"Bromley 022B",Bromley,6.3,South,Bromley,E09000006
+E01000653,"Bromley 016D",Bromley,9.8,South,Bromley,E09000006
+E01000654,"Bromley 039A",Bromley,7.9,South,Bromley,E09000006
+E01000655,"Bromley 039B",Bromley,10.1,South,Bromley,E09000006
+E01000656,"Bromley 039C",Bromley,6.8,South,Bromley,E09000006
+E01000657,"Bromley 039D",Bromley,12.2,South,Bromley,E09000006
+E01000658,"Bromley 042A",Bromley,6.9,South,Bromley,E09000006
+E01000659,"Bromley 039E",Bromley,7.7,South,Bromley,E09000006
+E01000661,"Bromley 026A",Bromley,37.6,South,Bromley,E09000006
+E01000662,"Bromley 026B",Bromley,18.2,South,Bromley,E09000006
+E01000663,"Bromley 026C",Bromley,17.6,South,Bromley,E09000006
+E01000664,"Bromley 026D",Bromley,19,South,Bromley,E09000006
+E01000665,"Bromley 033A",Bromley,11.3,South,Bromley,E09000006
+E01000666,"Bromley 033B",Bromley,5.6,South,Bromley,E09000006
+E01000667,"Bromley 033C",Bromley,6.9,South,Bromley,E09000006
+E01000668,"Bromley 020B",Bromley,11.5,South,Bromley,E09000006
+E01000669,"Bromley 020C",Bromley,8.8,South,Bromley,E09000006
+E01000670,"Bromley 018A",Bromley,5.9,South,Bromley,E09000006
+E01000671,"Bromley 020D",Bromley,10.6,South,Bromley,E09000006
+E01000672,"Bromley 011A",Bromley,7.6,South,Bromley,E09000006
+E01000673,"Bromley 011B",Bromley,8.3,South,Bromley,E09000006
+E01000674,"Bromley 008A",Bromley,12.2,South,Bromley,E09000006
+E01000675,"Bromley 018B",Bromley,10.2,South,Bromley,E09000006
+E01000676,"Bromley 008B",Bromley,20.8,South,Bromley,E09000006
+E01000677,"Bromley 018C",Bromley,13.3,South,Bromley,E09000006
+E01000678,"Bromley 016E",Bromley,8.9,South,Bromley,E09000006
+E01000679,"Bromley 020E",Bromley,8.8,South,Bromley,E09000006
+E01000680,"Bromley 037A",Bromley,9.2,South,Bromley,E09000006
+E01000681,"Bromley 035A",Bromley,2.7,South,Bromley,E09000006
+E01000682,"Bromley 035B",Bromley,4.3,South,Bromley,E09000006
+E01000683,"Bromley 035C",Bromley,12.3,South,Bromley,E09000006
+E01000684,"Bromley 035D",Bromley,3.5,South,Bromley,E09000006
+E01000685,"Bromley 037B",Bromley,12.6,South,Bromley,E09000006
+E01000686,"Bromley 037C",Bromley,7.3,South,Bromley,E09000006
+E01000687,"Bromley 037D",Bromley,6.5,South,Bromley,E09000006
+E01000688,"Bromley 037E",Bromley,2.6,South,Bromley,E09000006
+E01000689,"Bromley 002A",Bromley,21.8,South,Bromley,E09000006
+E01000690,"Bromley 002B",Bromley,7.2,South,Bromley,E09000006
+E01000691,"Bromley 002C",Bromley,13.1,South,Bromley,E09000006
+E01000692,"Bromley 002D",Bromley,6.7,South,Bromley,E09000006
+E01000693,"Bromley 010A",Bromley,11.7,South,Bromley,E09000006
+E01000694,"Bromley 007C",Bromley,7.8,South,Bromley,E09000006
+E01000695,"Bromley 007D",Bromley,7.6,South,Bromley,E09000006
+E01000696,"Bromley 007E",Bromley,7.3,South,Bromley,E09000006
+E01000697,"Bromley 007F",Bromley,3.5,South,Bromley,E09000006
+E01000698,"Bromley 010B",Bromley,14,South,Bromley,E09000006
+E01000699,"Bromley 015A",Bromley,20.1,South,Bromley,E09000006
+E01000700,"Bromley 013A",Bromley,13.7,South,Bromley,E09000006
+E01000701,"Bromley 015B",Bromley,12.8,South,Bromley,E09000006
+E01000702,"Bromley 013B",Bromley,10.1,South,Bromley,E09000006
+E01000703,"Bromley 013C",Bromley,10.5,South,Bromley,E09000006
+E01000704,"Bromley 015C",Bromley,10.3,South,Bromley,E09000006
+E01000705,"Bromley 015D",Bromley,16.3,South,Bromley,E09000006
+E01000706,"Bromley 013D",Bromley,16.6,South,Bromley,E09000006
+E01000707,"Bromley 041A",Bromley,3.3,South,Bromley,E09000006
+E01000708,"Bromley 041B",Bromley,7.9,South,Bromley,E09000006
+E01000709,"Bromley 006A",Bromley,16.2,South,Bromley,E09000006
+E01000710,"Bromley 006B",Bromley,10.3,South,Bromley,E09000006
+E01000711,"Bromley 006C",Bromley,11.8,South,Bromley,E09000006
+E01000712,"Bromley 012A",Bromley,7,South,Bromley,E09000006
+E01000713,"Bromley 012B",Bromley,8.1,South,Bromley,E09000006
+E01000714,"Bromley 006D",Bromley,10,South,Bromley,E09000006
+E01000715,"Bromley 012C",Bromley,6.6,South,Bromley,E09000006
+E01000716,"Bromley 011C",Bromley,7.5,South,Bromley,E09000006
+E01000717,"Bromley 011D",Bromley,8.4,South,Bromley,E09000006
+E01000718,"Bromley 006E",Bromley,27.3,South,Bromley,E09000006
+E01000719,"Bromley 019A",Bromley,25.4,South,Bromley,E09000006
+E01000720,"Bromley 019B",Bromley,43.3,South,Bromley,E09000006
+E01000721,"Bromley 019C",Bromley,43.2,South,Bromley,E09000006
+E01000722,"Bromley 023A",Bromley,23.6,South,Bromley,E09000006
+E01000723,"Bromley 029A",Bromley,13.7,South,Bromley,E09000006
+E01000724,"Bromley 019D",Bromley,36.1,South,Bromley,E09000006
+E01000725,"Bromley 023B",Bromley,27.9,South,Bromley,E09000006
+E01000726,"Bromley 029B",Bromley,16.2,South,Bromley,E09000006
+E01000727,"Bromley 028A",Bromley,14.5,South,Bromley,E09000006
+E01000728,"Bromley 019E",Bromley,21.4,South,Bromley,E09000006
+E01000729,"Bromley 014A",Bromley,40.9,South,Bromley,E09000006
+E01000730,"Bromley 014B",Bromley,41.8,South,Bromley,E09000006
+E01000731,"Bromley 023C",Bromley,29.7,South,Bromley,E09000006
+E01000732,"Bromley 023D",Bromley,14.4,South,Bromley,E09000006
+E01000733,"Bromley 023E",Bromley,20,South,Bromley,E09000006
+E01000734,"Bromley 028B",Bromley,12,South,Bromley,E09000006
+E01000735,"Bromley 014C",Bromley,30.1,South,Bromley,E09000006
+E01000736,"Bromley 010C",Bromley,21.9,South,Bromley,E09000006
+E01000737,"Bromley 010D",Bromley,32.2,South,Bromley,E09000006
+E01000738,"Bromley 014D",Bromley,20.2,South,Bromley,E09000006
+E01000739,"Bromley 014E",Bromley,42.4,South,Bromley,E09000006
+E01000740,"Bromley 005A",Bromley,25.7,South,Bromley,E09000006
+E01000741,"Bromley 005B",Bromley,24.9,South,Bromley,E09000006
+E01000742,"Bromley 005C",Bromley,23.3,South,Bromley,E09000006
+E01000743,"Bromley 009A",Bromley,34.8,South,Bromley,E09000006
+E01000744,"Bromley 009B",Bromley,41.7,South,Bromley,E09000006
+E01000745,"Bromley 005D",Bromley,19.5,South,Bromley,E09000006
+E01000746,"Bromley 005E",Bromley,17.5,South,Bromley,E09000006
+E01000747,"Bromley 042B",Bromley,20.2,South,Bromley,E09000006
+E01000748,"Bromley 042C",Bromley,12.7,South,Bromley,E09000006
+E01000749,"Bromley 036A",Bromley,11.3,South,Bromley,E09000006
+E01000750,"Bromley 036B",Bromley,30.7,South,Bromley,E09000006
+E01000751,"Bromley 036C",Bromley,6.7,South,Bromley,E09000006
+E01000752,"Bromley 036D",Bromley,8.4,South,Bromley,E09000006
+E01000753,"Bromley 031A",Bromley,6.1,South,Bromley,E09000006
+E01000754,"Bromley 031B",Bromley,7.4,South,Bromley,E09000006
+E01000755,"Bromley 031C",Bromley,5.1,South,Bromley,E09000006
+E01000756,"Bromley 033D",Bromley,4.9,South,Bromley,E09000006
+E01000757,"Bromley 031D",Bromley,4.5,South,Bromley,E09000006
+E01000758,"Bromley 031E",Bromley,3.3,South,Bromley,E09000006
+E01000759,"Bromley 034A",Bromley,7.8,South,Bromley,E09000006
+E01000760,"Bromley 034B",Bromley,9.1,South,Bromley,E09000006
+E01000761,"Bromley 034C",Bromley,7.3,South,Bromley,E09000006
+E01000762,"Bromley 018D",Bromley,7,South,Bromley,E09000006
+E01000763,"Bromley 027A",Bromley,5.4,South,Bromley,E09000006
+E01000764,"Bromley 027B",Bromley,12.2,South,Bromley,E09000006
+E01000765,"Bromley 034D",Bromley,7.2,South,Bromley,E09000006
+E01000766,"Bromley 027C",Bromley,3,South,Bromley,E09000006
+E01000767,"Bromley 027D",Bromley,4.8,South,Bromley,E09000006
+E01000768,"Bromley 034E",Bromley,8.7,South,Bromley,E09000006
+E01000769,"Bromley 024A",Bromley,23.9,South,Bromley,E09000006
+E01000770,"Bromley 012D",Bromley,6,South,Bromley,E09000006
+E01000771,"Bromley 041C",Bromley,5.5,South,Bromley,E09000006
+E01000772,"Bromley 012E",Bromley,4.1,South,Bromley,E09000006
+E01000773,"Bromley 024B",Bromley,6.5,South,Bromley,E09000006
+E01000774,"Bromley 041D",Bromley,9.4,South,Bromley,E09000006
+E01000775,"Bromley 024C",Bromley,7.3,South,Bromley,E09000006
+E01000777,"Bromley 024D",Bromley,7.7,South,Bromley,E09000006
+E01000778,"Bromley 024E",Bromley,13.2,South,Bromley,E09000006
+E01000779,"Bromley 001A",Bromley,15.1,South,Bromley,E09000006
+E01000780,"Bromley 001B",Bromley,22.7,South,Bromley,E09000006
+E01000781,"Bromley 001C",Bromley,37.3,South,Bromley,E09000006
+E01000782,"Bromley 001D",Bromley,47.7,South,Bromley,E09000006
+E01000783,"Bromley 001E",Bromley,31.4,South,Bromley,E09000006
+E01000784,"Bromley 002E",Bromley,10.2,South,Bromley,E09000006
+E01000785,"Bromley 001F",Bromley,31.6,South,Bromley,E09000006
+E01000786,"Bromley 032A",Bromley,9.5,South,Bromley,E09000006
+E01000787,"Bromley 029C",Bromley,22.4,South,Bromley,E09000006
+E01000788,"Bromley 029D",Bromley,23,South,Bromley,E09000006
+E01000789,"Bromley 032B",Bromley,36.6,South,Bromley,E09000006
+E01000790,"Bromley 028C",Bromley,13.6,South,Bromley,E09000006
+E01000791,"Bromley 029E",Bromley,9.7,South,Bromley,E09000006
+E01000792,"Bromley 032C",Bromley,18.9,South,Bromley,E09000006
+E01000793,"Bromley 032D",Bromley,4.8,South,Bromley,E09000006
+E01000794,"Bromley 035E",Bromley,3.7,South,Bromley,E09000006
+E01000795,"Bromley 032E",Bromley,14.3,South,Bromley,E09000006
+E01000796,"Bromley 009C",Bromley,30.1,South,Bromley,E09000006
+E01000797,"Bromley 013E",Bromley,13.5,South,Bromley,E09000006
+E01000798,"Bromley 009D",Bromley,42.1,South,Bromley,E09000006
+E01000799,"Bromley 004A",Bromley,19.4,South,Bromley,E09000006
+E01000800,"Bromley 009E",Bromley,28.1,South,Bromley,E09000006
+E01000801,"Bromley 015E",Bromley,18.2,South,Bromley,E09000006
+E01000802,"Bromley 004B",Bromley,19.8,South,Bromley,E09000006
+E01000803,"Bromley 004C",Bromley,17.2,South,Bromley,E09000006
+E01000804,"Bromley 004D",Bromley,8.3,South,Bromley,E09000006
+E01000805,"Bromley 004E",Bromley,21.8,South,Bromley,E09000006
+E01000806,"Bromley 009F",Bromley,25.7,South,Bromley,E09000006
+E01000807,"Bromley 022C",Bromley,6,South,Bromley,E09000006
+E01000808,"Bromley 025A",Bromley,7,South,Bromley,E09000006
+E01000809,"Bromley 022D",Bromley,4.2,South,Bromley,E09000006
+E01000810,"Bromley 025B",Bromley,2.3,South,Bromley,E09000006
+E01000811,"Bromley 025C",Bromley,5.1,South,Bromley,E09000006
+E01000812,"Bromley 028D",Bromley,10.2,South,Bromley,E09000006
+E01000813,"Bromley 025D",Bromley,3.3,South,Bromley,E09000006
+E01000814,"Bromley 028E",Bromley,4.3,South,Bromley,E09000006
+E01000815,"Bromley 025E",Bromley,2.6,South,Bromley,E09000006
+E01000816,"Bromley 040A",Bromley,14.1,South,Bromley,E09000006
+E01000818,"Bromley 040B",Bromley,13.5,South,Bromley,E09000006
+E01000819,"Bromley 040C",Bromley,26.5,South,Bromley,E09000006
+E01000820,"Bromley 008C",Bromley,21.1,South,Bromley,E09000006
+E01000822,"Bromley 008D",Bromley,13.3,South,Bromley,E09000006
+E01000823,"Bromley 008E",Bromley,11.6,South,Bromley,E09000006
+E01000824,"Bromley 008F",Bromley,15.4,South,Bromley,E09000006
+E01000825,"Bromley 008G",Bromley,17,South,Bromley,E09000006
+E01000826,"Bromley 021A",Bromley,4.3,South,Bromley,E09000006
+E01000827,"Bromley 021B",Bromley,5.2,South,Bromley,E09000006
+E01000828,"Bromley 011E",Bromley,10.1,South,Bromley,E09000006
+E01000829,"Bromley 018E",Bromley,6.1,South,Bromley,E09000006
+E01000830,"Bromley 021C",Bromley,3.7,South,Bromley,E09000006
+E01000831,"Bromley 021D",Bromley,8.2,South,Bromley,E09000006
+E01000832,"Bromley 030A",Bromley,6,South,Bromley,E09000006
+E01000833,"Bromley 021E",Bromley,2.8,South,Bromley,E09000006
+E01000834,"Bromley 027E",Bromley,4.9,South,Bromley,E09000006
+E01000835,"Bromley 030B",Bromley,7.3,South,Bromley,E09000006
+E01000836,"Bromley 030C",Bromley,5.6,South,Bromley,E09000006
+E01000837,"Bromley 030D",Bromley,10.2,South,Bromley,E09000006
+E01000838,"Bromley 030E",Bromley,5,South,Bromley,E09000006
+E01000839,"Bromley 030F",Bromley,4.3,South,Bromley,E09000006
+E01000840,"Bromley 030G",Bromley,10.4,South,Bromley,E09000006
+E01000841,"Bromley 030H",Bromley,4.5,South,Bromley,E09000006
+E01000842,"Camden 011A",Camden,8.5,Central,Camden,E09000007
+E01000843,"Camden 014A",Camden,13.6,Central,Camden,E09000007
+E01000844,"Camden 011B",Camden,9.8,Central,Camden,E09000007
+E01000845,"Camden 014B",Camden,11.3,Central,Camden,E09000007
+E01000846,"Camden 014C",Camden,22.1,Central,Camden,E09000007
+E01000847,"Camden 014D",Camden,17.1,Central,Camden,E09000007
+E01000848,"Camden 011C",Camden,6,Central,Camden,E09000007
+E01000849,"Camden 011D",Camden,7.7,Central,Camden,E09000007
+E01000850,"Camden 026A",Camden,14.3,Central,Camden,E09000007
+E01000851,"Camden 026B",Camden,15,Central,Camden,E09000007
+E01000852,"Camden 026C",Camden,14.6,Central,Camden,E09000007
+E01000853,"Camden 025A",Camden,30.8,Central,Camden,E09000007
+E01000854,"Camden 026D",Camden,15.8,Central,Camden,E09000007
+E01000855,"Camden 028A",Camden,14.7,Central,Camden,E09000007
+E01000856,"Camden 019A",Camden,31.4,Central,Camden,E09000007
+E01000857,"Camden 018A",Camden,14.9,Central,Camden,E09000007
+E01000858,"Camden 018B",Camden,37.7,Central,Camden,E09000007
+E01000859,"Camden 018C",Camden,7.2,Central,Camden,E09000007
+E01000860,"Camden 018D",Camden,17.7,Central,Camden,E09000007
+E01000861,"Camden 019B",Camden,33.5,Central,Camden,E09000007
+E01000862,"Camden 018E",Camden,10.9,Central,Camden,E09000007
+E01000863,"Camden 021A",Camden,34.4,Central,Camden,E09000007
+E01000864,"Camden 015A",Camden,17.9,Central,Camden,E09000007
+E01000865,"Camden 015B",Camden,13.2,Central,Camden,E09000007
+E01000866,"Camden 009A",Camden,22.4,Central,Camden,E09000007
+E01000867,"Camden 015C",Camden,28.4,Central,Camden,E09000007
+E01000868,"Camden 015D",Camden,39.3,Central,Camden,E09000007
+E01000869,"Camden 015E",Camden,22.1,Central,Camden,E09000007
+E01000870,"Camden 009B",Camden,26.8,Central,Camden,E09000007
+E01000871,"Camden 005A",Camden,14.2,Central,Camden,E09000007
+E01000872,"Camden 005B",Camden,24.3,Central,Camden,E09000007
+E01000873,"Camden 005C",Camden,8.6,Central,Camden,E09000007
+E01000874,"Camden 005D",Camden,4.9,Central,Camden,E09000007
+E01000875,"Camden 013A",Camden,21.8,Central,Camden,E09000007
+E01000876,"Camden 013B",Camden,29.9,Central,Camden,E09000007
+E01000877,"Camden 005E",Camden,11.2,Central,Camden,E09000007
+E01000878,"Camden 004A",Camden,5.6,Central,Camden,E09000007
+E01000879,"Camden 004B",Camden,5.9,Central,Camden,E09000007
+E01000880,"Camden 004C",Camden,6.1,Central,Camden,E09000007
+E01000881,"Camden 008A",Camden,13.4,Central,Camden,E09000007
+E01000882,"Camden 008B",Camden,4.3,Central,Camden,E09000007
+E01000883,"Camden 008C",Camden,9.5,Central,Camden,E09000007
+E01000884,"Camden 004D",Camden,5.3,Central,Camden,E09000007
+E01000885,"Camden 004E",Camden,7,Central,Camden,E09000007
+E01000886,"Camden 006A",Camden,9.1,Central,Camden,E09000007
+E01000887,"Camden 006B",Camden,13.1,Central,Camden,E09000007
+E01000888,"Camden 006C",Camden,14.6,Central,Camden,E09000007
+E01000889,"Camden 007A",Camden,30.9,Central,Camden,E09000007
+E01000890,"Camden 007B",Camden,40.9,Central,Camden,E09000007
+E01000891,"Camden 007C",Camden,38.3,Central,Camden,E09000007
+E01000892,"Camden 006D",Camden,15.8,Central,Camden,E09000007
+E01000893,"Camden 002A",Camden,5.3,Central,Camden,E09000007
+E01000894,"Camden 002B",Camden,6.6,Central,Camden,E09000007
+E01000895,"Camden 002C",Camden,8.4,Central,Camden,E09000007
+E01000896,"Camden 002D",Camden,5.7,Central,Camden,E09000007
+E01000897,"Camden 008D",Camden,5.4,Central,Camden,E09000007
+E01000898,"Camden 008E",Camden,11.8,Central,Camden,E09000007
+E01000899,"Camden 002E",Camden,6,Central,Camden,E09000007
+E01000900,"Camden 012A",Camden,26,Central,Camden,E09000007
+E01000901,"Camden 007D",Camden,30.4,Central,Camden,E09000007
+E01000902,"Camden 012B",Camden,36.2,Central,Camden,E09000007
+E01000903,"Camden 006E",Camden,18.9,Central,Camden,E09000007
+E01000904,"Camden 012C",Camden,24.6,Central,Camden,E09000007
+E01000905,"Camden 012D",Camden,38.1,Central,Camden,E09000007
+E01000906,"Camden 012E",Camden,10.4,Central,Camden,E09000007
+E01000907,"Camden 001A",Camden,33.8,Central,Camden,E09000007
+E01000908,"Camden 001B",Camden,27.2,Central,Camden,E09000007
+E01000909,"Camden 001C",Camden,11.8,Central,Camden,E09000007
+E01000910,"Camden 003A",Camden,9.7,Central,Camden,E09000007
+E01000911,"Camden 003B",Camden,17,Central,Camden,E09000007
+E01000912,"Camden 001D",Camden,22.3,Central,Camden,E09000007
+E01000913,"Camden 001E",Camden,9.3,Central,Camden,E09000007
+E01000914,"Camden 028B",Camden,13.1,Central,Camden,E09000007
+E01000915,"Camden 027A",Camden,23.1,Central,Camden,E09000007
+E01000916,"Camden 027B",Camden,19.5,Central,Camden,E09000007
+E01000917,"Camden 027C",Camden,35,Central,Camden,E09000007
+E01000918,"Camden 028C",Camden,20.7,Central,Camden,E09000007
+E01000919,"Camden 028D",Camden,21.7,Central,Camden,E09000007
+E01000920,"Camden 027D",Camden,15,Central,Camden,E09000007
+E01000921,"Camden 003C",Camden,15.2,Central,Camden,E09000007
+E01000922,"Camden 007E",Camden,21.7,Central,Camden,E09000007
+E01000923,"Camden 003D",Camden,19.4,Central,Camden,E09000007
+E01000924,"Camden 009C",Camden,13.3,Central,Camden,E09000007
+E01000925,"Camden 009D",Camden,29.4,Central,Camden,E09000007
+E01000926,"Camden 009E",Camden,17.4,Central,Camden,E09000007
+E01000927,"Camden 007F",Camden,14.9,Central,Camden,E09000007
+E01000928,"Camden 003E",Camden,20.3,Central,Camden,E09000007
+E01000929,"Camden 020A",Camden,25.4,Central,Camden,E09000007
+E01000930,"Camden 020B",Camden,30.8,Central,Camden,E09000007
+E01000931,"Camden 013C",Camden,34.6,Central,Camden,E09000007
+E01000932,"Camden 013D",Camden,20,Central,Camden,E09000007
+E01000933,"Camden 020C",Camden,25.7,Central,Camden,E09000007
+E01000934,"Camden 020D",Camden,35.4,Central,Camden,E09000007
+E01000935,"Camden 020E",Camden,32.3,Central,Camden,E09000007
+E01000936,"Camden 024A",Camden,21.5,Central,Camden,E09000007
+E01000937,"Camden 025B",Camden,14.3,Central,Camden,E09000007
+E01000938,"Camden 024B",Camden,33.7,Central,Camden,E09000007
+E01000939,"Camden 024C",Camden,39.1,Central,Camden,E09000007
+E01000940,"Camden 024D",Camden,19.7,Central,Camden,E09000007
+E01000941,"Camden 025C",Camden,38,Central,Camden,E09000007
+E01000942,"Camden 025D",Camden,15.3,Central,Camden,E09000007
+E01000943,"Camden 025E",Camden,19.8,Central,Camden,E09000007
+E01000944,"Camden 023A",Camden,22.7,Central,Camden,E09000007
+E01000945,"Camden 023B",Camden,29.5,Central,Camden,E09000007
+E01000946,"Camden 021B",Camden,14.8,Central,Camden,E09000007
+E01000947,"Camden 021C",Camden,24.7,Central,Camden,E09000007
+E01000948,"Camden 021D",Camden,28.9,Central,Camden,E09000007
+E01000949,"Camden 023C",Camden,19.6,Central,Camden,E09000007
+E01000950,"Camden 023D",Camden,39.7,Central,Camden,E09000007
+E01000951,"Camden 023E",Camden,34.2,Central,Camden,E09000007
+E01000952,"Camden 022A",Camden,33.4,Central,Camden,E09000007
+E01000953,"Camden 022B",Camden,37.2,Central,Camden,E09000007
+E01000954,"Camden 022C",Camden,34.9,Central,Camden,E09000007
+E01000955,"Camden 022D",Camden,33.2,Central,Camden,E09000007
+E01000956,"Camden 022E",Camden,33.6,Central,Camden,E09000007
+E01000957,"Camden 019C",Camden,26.3,Central,Camden,E09000007
+E01000958,"Camden 019D",Camden,24.5,Central,Camden,E09000007
+E01000959,"Camden 019E",Camden,39,Central,Camden,E09000007
+E01000960,"Camden 017A",Camden,16.5,Central,Camden,E09000007
+E01000961,"Camden 017B",Camden,22.6,Central,Camden,E09000007
+E01000962,"Camden 016A",Camden,6.1,Central,Camden,E09000007
+E01000963,"Camden 017C",Camden,8.8,Central,Camden,E09000007
+E01000964,"Camden 016B",Camden,17.9,Central,Camden,E09000007
+E01000965,"Camden 016C",Camden,17.4,Central,Camden,E09000007
+E01000966,"Camden 016D",Camden,7,Central,Camden,E09000007
+E01000967,"Camden 017D",Camden,9.3,Central,Camden,E09000007
+E01000968,"Camden 016E",Camden,14.3,Central,Camden,E09000007
+E01000969,"Camden 010A",Camden,6.3,Central,Camden,E09000007
+E01000970,"Camden 010B",Camden,10.3,Central,Camden,E09000007
+E01000971,"Camden 010C",Camden,7.9,Central,Camden,E09000007
+E01000972,"Camden 010D",Camden,27.1,Central,Camden,E09000007
+E01000973,"Camden 010E",Camden,20.6,Central,Camden,E09000007
+E01000974,"Camden 013E",Camden,25.1,Central,Camden,E09000007
+E01000975,"Croydon 022A",Croydon,17.7,South,Croydon,E09000008
+E01000976,"Croydon 022B",Croydon,25.8,South,Croydon,E09000008
+E01000977,"Croydon 022C",Croydon,28.3,South,Croydon,E09000008
+E01000978,"Croydon 022D",Croydon,20.6,South,Croydon,E09000008
+E01000979,"Croydon 022E",Croydon,17.6,South,Croydon,E09000008
+E01000980,"Croydon 017A",Croydon,26.5,South,Croydon,E09000008
+E01000981,"Croydon 017B",Croydon,14,South,Croydon,E09000008
+E01000982,"Croydon 017C",Croydon,18.6,South,Croydon,E09000008
+E01000983,"Croydon 017D",Croydon,13.5,South,Croydon,E09000008
+E01000984,"Croydon 022F",Croydon,30.6,South,Croydon,E09000008
+E01000985,"Croydon 021A",Croydon,8.7,South,Croydon,E09000008
+E01000986,"Croydon 021B",Croydon,13,South,Croydon,E09000008
+E01000987,"Croydon 021C",Croydon,9.4,South,Croydon,E09000008
+E01000989,"Croydon 018A",Croydon,12.4,South,Croydon,E09000008
+E01000990,"Croydon 045A",Croydon,40.3,South,Croydon,E09000008
+E01000991,"Croydon 018B",Croydon,8.8,South,Croydon,E09000008
+E01000992,"Croydon 014A",Croydon,32.2,South,Croydon,E09000008
+E01000993,"Croydon 021D",Croydon,12.2,South,Croydon,E09000008
+E01000994,"Croydon 009A",Croydon,19.8,South,Croydon,E09000008
+E01000995,"Croydon 009B",Croydon,20.6,South,Croydon,E09000008
+E01000996,"Croydon 009C",Croydon,19.9,South,Croydon,E09000008
+E01000997,"Croydon 009D",Croydon,22.3,South,Croydon,E09000008
+E01000998,"Croydon 010A",Croydon,32.6,South,Croydon,E09000008
+E01000999,"Croydon 009E",Croydon,22.8,South,Croydon,E09000008
+E01001000,"Croydon 010B",Croydon,28.2,South,Croydon,E09000008
+E01001001,"Croydon 013A",Croydon,37.5,South,Croydon,E09000008
+E01001002,"Croydon 009F",Croydon,22.2,South,Croydon,E09000008
+E01001003,"Croydon 010C",Croydon,25,South,Croydon,E09000008
+E01001004,"Croydon 015A",Croydon,26.9,South,Croydon,E09000008
+E01001005,"Croydon 019A",Croydon,23.2,South,Croydon,E09000008
+E01001006,"Croydon 016A",Croydon,30.7,South,Croydon,E09000008
+E01001007,"Croydon 016B",Croydon,18.9,South,Croydon,E09000008
+E01001008,"Croydon 019B",Croydon,30.4,South,Croydon,E09000008
+E01001009,"Croydon 019C",Croydon,23.7,South,Croydon,E09000008
+E01001010,"Croydon 019D",Croydon,41.8,South,Croydon,E09000008
+E01001011,"Croydon 019E",Croydon,30.9,South,Croydon,E09000008
+E01001012,"Croydon 020A",Croydon,37.5,South,Croydon,E09000008
+E01001013,"Croydon 020B",Croydon,46.1,South,Croydon,E09000008
+E01001014,"Croydon 024A",Croydon,30.3,South,Croydon,E09000008
+E01001015,"Croydon 041A",Croydon,24.3,South,Croydon,E09000008
+E01001016,"Croydon 041B",Croydon,14.4,South,Croydon,E09000008
+E01001017,"Croydon 043A",Croydon,8,South,Croydon,E09000008
+E01001018,"Croydon 044A",Croydon,6.4,South,Croydon,E09000008
