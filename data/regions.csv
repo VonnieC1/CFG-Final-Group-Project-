@@ -1,0 +1,32 @@
+,North London,East London,South London,West London,Central London
+0,"sum_population                     11869789
+all_bame_prop                    521.388934
+all_black_prop                   170.056834
+pakistani_or_bangladeshi_prop     80.009821
+all_indian_prop                    79.18251
+covid_19_deaths                        6331
+dtype: object","sum_population                      36395158
+all_bame_prop                    1604.329558
+all_black_prop                    524.387286
+pakistani_or_bangladeshi_prop     263.520649
+all_indian_prop                   237.345498
+covid_19_deaths                        19387
+dtype: object","sum_population                     16835800
+all_bame_prop                    726.419942
+all_black_prop                   238.587923
+pakistani_or_bangladeshi_prop    110.437039
+all_indian_prop                   105.80553
+covid_19_deaths                        8868
+dtype: object","sum_population                     20856162
+all_bame_prop                    933.925374
+all_black_prop                   299.814782
+pakistani_or_bangladeshi_prop    153.868974
+all_indian_prop                  140.848469
+covid_19_deaths                       10797
+dtype: object","sum_population                      6179831
+all_bame_prop                    267.570189
+all_black_prop                     89.77733
+pakistani_or_bangladeshi_prop     53.108922
+all_indian_prop                   26.145251
+covid_19_deaths                        2978
+dtype: object"
