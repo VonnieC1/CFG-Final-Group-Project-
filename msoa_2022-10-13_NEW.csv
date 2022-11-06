@@ -1,0 +1,983 @@
+,BoroughName,1st_Dose_Uptake_%,2nd_Dose_Uptake_%
+0,Barking and Dagenham,67.4,62.3
+1,Barking and Dagenham,66.5,62.0
+2,Barking and Dagenham,74.7,70.6
+3,Barking and Dagenham,67.2,62.6
+4,Barking and Dagenham,65.5,60.3
+5,Barking and Dagenham,66.2,61.8
+6,Barking and Dagenham,62.2,57.4
+7,Barking and Dagenham,66.2,61.8
+8,Barking and Dagenham,67.2,62.1
+9,Barking and Dagenham,70.1,65.4
+10,Barking and Dagenham,64.4,59.9
+11,Barking and Dagenham,64.3,59.7
+12,Barking and Dagenham,64.4,59.6
+13,Barking and Dagenham,57.5,51.9
+14,Barking and Dagenham,57.9,53.1
+15,Barking and Dagenham,63.1,58.2
+16,Barking and Dagenham,64.3,59.7
+17,Barking and Dagenham,62.8,56.9
+18,Barking and Dagenham,61.6,56.6
+19,Barking and Dagenham,60.1,54.3
+20,Barking and Dagenham,62.6,56.7
+21,Barnet,83.5,80.7
+22,Barnet,80.2,77.2
+23,Barnet,79.6,77.1
+24,Barnet,79.1,75.8
+25,Barnet,79.7,76.9
+26,Barnet,75.6,72.7
+27,Barnet,82.7,79.8
+28,Barnet,80.2,77.2
+29,Barnet,78.8,75.9
+30,Barnet,75.4,72.5
+31,Barnet,75.5,72.5
+32,Barnet,74.9,71.6
+33,Barnet,73.8,70.0
+34,Barnet,76.9,73.1
+35,Barnet,74.7,71.6
+36,Barnet,78.9,75.8
+37,Barnet,76.0,72.2
+38,Barnet,66.7,62.8
+39,Barnet,73.1,69.8
+40,Barnet,76.3,73.5
+41,Barnet,67.4,63.5
+42,Barnet,72.2,68.8
+43,Barnet,71.7,68.7
+44,Barnet,62.7,58.7
+45,Barnet,76.3,72.9
+46,Barnet,66.2,61.0
+47,Barnet,72.9,69.6
+48,Barnet,72.6,69.4
+49,Barnet,75.6,72.7
+50,Barnet,63.9,58.5
+51,Barnet,65.8,62.1
+52,Barnet,61.0,57.0
+53,Barnet,80.3,77.1
+54,Barnet,63.1,59.4
+55,Barnet,71.8,68.3
+56,Barnet,64.2,60.8
+57,Barnet,63.9,59.1
+58,Barnet,69.9,65.8
+59,Barnet,62.5,57.5
+60,Barnet,66.3,61.9
+61,Barnet,68.7,64.6
+62,Bexley,67.2,61.8
+63,Bexley,67.9,62.8
+64,Bexley,71.7,67.0
+65,Bexley,69.8,65.3
+66,Bexley,77.9,74.0
+67,Bexley,82.3,79.3
+68,Bexley,80.9,77.1
+69,Bexley,71.0,65.4
+70,Bexley,85.8,83.1
+71,Bexley,78.2,73.8
+72,Bexley,87.1,84.7
+73,Bexley,82.1,78.9
+74,Bexley,86.2,83.2
+75,Bexley,82.5,79.4
+76,Bexley,80.5,77.3
+77,Bexley,82.7,79.3
+78,Bexley,83.2,80.2
+79,Bexley,78.3,74.6
+80,Bexley,84.3,81.8
+81,Bexley,82.4,79.8
+82,Bexley,86.3,84.0
+83,Bexley,86.9,84.7
+84,Bexley,86.8,84.2
+85,Bexley,87.5,85.2
+86,Bexley,86.1,83.3
+87,Bexley,86.7,84.0
+88,Bexley,77.7,73.9
+89,Brent,62.8,59.2
+90,Brent,63.3,59.5
+91,Brent,65.4,61.8
+92,Brent,72.4,69.6
+93,Brent,65.4,61.9
+94,Brent,64.7,60.4
+95,Brent,60.3,56.5
+96,Brent,70.9,66.2
+97,Brent,61.0,56.7
+98,Brent,59.5,54.2
+99,Brent,63.1,58.6
+100,Brent,64.1,60.4
+101,Brent,64.9,60.7
+102,Brent,56.7,52.0
+103,Brent,62.9,59.0
+104,Brent,66.8,62.5
+105,Brent,62.8,55.1
+106,Brent,65.1,61.0
+107,Brent,66.4,62.1
+108,Brent,66.5,61.7
+109,Brent,58.8,53.2
+110,Brent,61.4,57.5
+111,Brent,62.5,58.7
+112,Brent,60.3,55.6
+113,Brent,56.8,52.1
+114,Brent,73.3,68.9
+115,Brent,61.5,56.6
+116,Brent,61.6,57.7
+117,Brent,72.6,68.1
+118,Brent,68.5,64.7
+119,Brent,58.1,52.7
+120,Brent,68.1,64.4
+121,Brent,67.9,63.8
+122,Brent,60.5,55.7
+123,Bromley,71.3,67.5
+124,Bromley,83.9,81.1
+125,Bromley,78.3,75.3
+126,Bromley,73.3,70.1
+127,Bromley,78.6,75.7
+128,Bromley,87.9,85.7
+129,Bromley,76.4,73.4
+130,Bromley,67.5,63.6
+131,Bromley,81.1,78.3
+132,Bromley,82.3,80.0
+133,Bromley,83.4,81.2
+134,Bromley,82.4,79.6
+135,Bromley,74.5,69.9
+136,Bromley,76.7,73.9
+137,Bromley,84.4,82.4
+138,Bromley,79.7,76.4
+139,Bromley,72.6,68.4
+140,Bromley,82.2,79.8
+141,Bromley,85.8,83.8
+142,Bromley,86.7,84.8
+143,Bromley,79.0,75.5
+144,Bromley,83.8,81.0
+145,Bromley,89.5,87.5
+146,Bromley,77.1,73.5
+147,Bromley,87.3,85.0
+148,Bromley,83.3,80.8
+149,Bromley,83.9,81.0
+150,Bromley,87.6,85.5
+151,Bromley,89.1,87.1
+152,Bromley,81.7,78.4
+153,Bromley,86.6,84.6
+154,Bromley,86.1,83.8
+155,Bromley,88.2,86.2
+156,Bromley,86.0,83.3
+157,Bromley,87.6,85.2
+158,Bromley,84.7,81.9
+159,Camden,73.2,69.5
+160,Camden,74.5,71.0
+161,Camden,74.2,70.6
+162,Camden,71.8,67.6
+163,Camden,68.4,65.0
+164,Camden,72.7,68.7
+165,Camden,65.4,60.5
+166,Camden,66.7,61.8
+167,Camden,64.9,59.9
+168,Camden,65.7,61.9
+169,Camden,69.8,65.7
+170,Camden,67.1,62.2
+171,Camden,64.3,59.8
+172,Camden,67.7,62.6
+173,Camden,70.4,65.9
+174,Camden,67.9,64.4
+175,Camden,61.7,56.8
+176,Camden,71.3,66.6
+177,Camden,63.0,56.1
+178,Camden,62.1,57.7
+179,Camden,66.3,60.1
+180,Camden,65.1,57.6
+181,Camden,64.4,56.5
+182,Camden,55.7,47.8
+183,Camden,54.5,45.6
+184,Camden,54.1,44.8
+185,Camden,64.4,57.8
+186,Camden,56.4,47.9
+187,Croydon,67.7,63.5
+188,Croydon,67.9,63.9
+189,Croydon,63.4,59.4
+190,Croydon,62.6,58.6
+191,Croydon,59.9,55.5
+192,Croydon,60.9,56.6
+193,Croydon,67.9,64.6
+194,Croydon,60.2,55.9
+195,Croydon,62.7,58.2
+196,Croydon,59.0,54.8
+197,Croydon,62.0,57.4
+198,Croydon,59.3,54.8
+199,Croydon,63.7,59.7
+200,Croydon,58.4,52.8
+201,Croydon,63.8,58.9
+202,Croydon,68.1,64.4
+203,Croydon,81.6,78.4
+204,Croydon,60.7,55.7
+205,Croydon,58.7,54.0
+206,Croydon,75.5,72.9
+207,Croydon,62.4,58.5
+208,Croydon,70.4,67.4
+209,Croydon,62.8,58.2
+210,Croydon,71.1,67.2
+211,Croydon,83.3,80.8
+212,Croydon,65.1,60.3
+213,Croydon,68.6,63.8
+214,Croydon,75.6,72.8
+215,Croydon,62.3,56.7
+216,Croydon,74.0,70.5
+217,Croydon,69.6,65.4
+218,Croydon,79.6,76.5
+219,Croydon,77.5,74.1
+220,Croydon,87.2,84.8
+221,Croydon,67.6,62.1
+222,Croydon,78.6,75.6
+223,Croydon,84.4,81.5
+224,Croydon,82.6,80.1
+225,Croydon,80.2,77.1
+226,Croydon,80.0,76.6
+227,Croydon,83.3,80.5
+228,Croydon,84.6,81.8
+229,Croydon,84.6,81.9
+230,Ealing,67.1,62.8
+231,Ealing,68.5,65.3
+232,Ealing,68.2,63.6
+233,Ealing,68.6,64.8
+234,Ealing,67.8,64.3
+235,Ealing,65.5,61.2
+236,Ealing,64.5,60.6
+237,Ealing,66.4,61.5
+238,Ealing,68.5,63.8
+239,Ealing,66.6,62.4
+240,Ealing,61.5,57.8
+241,Ealing,68.6,65.0
+242,Ealing,78.7,76.1
+243,Ealing,70.5,66.0
+244,Ealing,58.4,51.9
+245,Ealing,67.3,63.2
+246,Ealing,71.6,66.5
+247,Ealing,72.7,69.3
+248,Ealing,71.5,68.6
+249,Ealing,68.8,65.3
+250,Ealing,61.1,57.8
+251,Ealing,73.0,69.5
+252,Ealing,71.9,66.7
+253,Ealing,58.7,54.5
+254,Ealing,64.2,60.1
+255,Ealing,70.9,65.0
+256,Ealing,68.0,64.8
+257,Ealing,69.3,65.8
+258,Ealing,68.6,63.2
+259,Ealing,72.5,69.0
+260,Ealing,73.0,70.1
+261,Ealing,74.5,71.4
+262,Ealing,68.0,63.9
+263,Ealing,73.8,70.8
+264,Ealing,78.1,75.4
+265,Ealing,69.7,63.8
+266,Ealing,73.7,68.3
+267,Ealing,73.5,70.5
+268,Enfield,65.0,60.6
+269,Enfield,65.4,60.9
+270,Enfield,63.1,58.6
+271,Enfield,79.9,77.1
+272,Enfield,70.0,66.0
+273,Enfield,62.5,58.0
+274,Enfield,66.2,62.1
+275,Enfield,78.6,75.7
+276,Enfield,81.8,79.4
+277,Enfield,80.3,77.7
+278,Enfield,79.7,77.1
+279,Enfield,65.9,61.0
+280,Enfield,80.5,77.9
+281,Enfield,62.3,57.3
+282,Enfield,70.0,66.9
+283,Enfield,70.4,66.5
+284,Enfield,83.2,81.0
+285,Enfield,63.1,58.7
+286,Enfield,73.5,70.5
+287,Enfield,68.9,65.1
+288,Enfield,78.7,75.9
+289,Enfield,80.9,78.6
+290,Enfield,57.0,52.6
+291,Enfield,59.1,54.9
+292,Enfield,58.6,53.8
+293,Enfield,70.0,66.5
+294,Enfield,60.7,56.3
+295,Enfield,79.6,76.9
+296,Enfield,69.6,66.7
+297,Enfield,60.6,55.2
+298,Enfield,62.9,59.3
+299,Enfield,64.2,60.6
+300,Enfield,56.6,51.6
+301,Enfield,63.6,60.0
+302,Enfield,64.5,61.2
+303,Greenwich,66.8,61.4
+304,Greenwich,56.8,50.8
+305,Greenwich,66.8,61.5
+306,Greenwich,69.1,64.5
+307,Greenwich,71.5,66.6
+308,Greenwich,66.5,61.6
+309,Greenwich,66.4,61.3
+310,Greenwich,69.1,64.6
+311,Greenwich,67.5,62.2
+312,Greenwich,65.4,60.7
+313,Greenwich,71.9,67.7
+314,Greenwich,75.3,71.4
+315,Greenwich,68.7,62.5
+316,Greenwich,79.2,75.9
+317,Greenwich,75.9,71.7
+318,Greenwich,72.7,67.8
+319,Greenwich,76.3,72.3
+320,Greenwich,81.4,78.5
+321,Greenwich,75.4,71.2
+322,Greenwich,84.0,81.3
+323,Greenwich,74.1,69.9
+324,Greenwich,83.0,80.1
+325,Greenwich,78.4,75.5
+326,Greenwich,68.4,63.6
+327,Greenwich,72.5,67.8
+328,Greenwich,72.9,69.3
+329,Greenwich,80.9,78.3
+330,Hackney and City of London,45.6,41.5
+331,Hackney and City of London,65.9,60.9
+332,Hackney and City of London,50.5,46.1
+333,Hackney and City of London,47.8,43.5
+334,Hackney and City of London,62.1,58.5
+335,Hackney and City of London,69.6,66.1
+336,Hackney and City of London,68.8,65.7
+337,Hackney and City of London,74.6,71.1
+338,Hackney and City of London,64.7,60.9
+339,Hackney and City of London,70.8,67.0
+340,Hackney and City of London,74.1,70.9
+341,Hackney and City of London,60.4,56.1
+342,Hackney and City of London,66.4,62.4
+343,Hackney and City of London,67.5,63.7
+344,Hackney and City of London,64.9,60.7
+345,Hackney and City of London,67.0,63.0
+346,Hackney and City of London,66.1,61.9
+347,Hackney and City of London,61.9,57.6
+348,Hackney and City of London,70.3,66.8
+349,Hackney and City of London,68.0,64.4
+350,Hackney and City of London,67.6,63.5
+351,Hackney and City of London,67.4,63.2
+352,Hackney and City of London,65.4,61.1
+353,Hackney and City of London,66.3,62.1
+354,Hackney and City of London,64.7,59.9
+355,Hackney and City of London,58.2,51.5
+356,Hammersmith and Fulham,56.6,50.9
+357,Hammersmith and Fulham,53.8,49.1
+358,Hammersmith and Fulham,60.9,56.6
+359,Hammersmith and Fulham,59.4,55.6
+360,Hammersmith and Fulham,59.7,56.2
+361,Hammersmith and Fulham,61.7,57.9
+362,Hammersmith and Fulham,60.9,57.2
+363,Hammersmith and Fulham,70.2,66.7
+364,Hammersmith and Fulham,68.7,65.6
+365,Hammersmith and Fulham,62.7,58.1
+366,Hammersmith and Fulham,69.0,64.8
+367,Hammersmith and Fulham,61.0,56.6
+368,Hammersmith and Fulham,63.8,59.7
+369,Hammersmith and Fulham,61.5,58.2
+370,Hammersmith and Fulham,57.4,53.9
+371,Hammersmith and Fulham,61.6,57.4
+372,Hammersmith and Fulham,65.1,61.2
+373,Hammersmith and Fulham,67.8,64.5
+374,Hammersmith and Fulham,61.9,59.1
+375,Hammersmith and Fulham,68.7,65.4
+376,Hammersmith and Fulham,65.9,62.4
+377,Hammersmith and Fulham,66.2,63.2
+378,Hammersmith and Fulham,64.3,59.6
+379,Hammersmith and Fulham,71.8,68.8
+380,Hammersmith and Fulham,68.9,64.8
+381,Haringey,62.1,58.6
+382,Haringey,55.2,50.2
+383,Haringey,66.6,63.2
+384,Haringey,61.0,56.8
+385,Haringey,59.0,54.4
+386,Haringey,58.8,55.4
+387,Haringey,56.4,53.0
+388,Haringey,81.5,78.9
+389,Haringey,59.7,56.4
+390,Haringey,57.5,53.4
+391,Haringey,58.1,53.1
+392,Haringey,63.5,59.4
+393,Haringey,80.8,78.0
+394,Haringey,60.4,55.0
+395,Haringey,59.8,55.7
+396,Haringey,79.2,76.2
+397,Haringey,58.9,54.7
+398,Haringey,60.4,57.1
+399,Haringey,71.5,68.3
+400,Haringey,81.7,79.0
+401,Haringey,83.2,80.6
+402,Haringey,62.2,58.8
+403,Haringey,64.3,59.9
+404,Haringey,60.7,55.6
+405,Haringey,57.4,53.7
+406,Haringey,59.3,55.8
+407,Haringey,74.6,71.8
+408,Haringey,47.3,42.4
+409,Haringey,78.9,75.7
+410,Haringey,62.8,59.2
+411,Haringey,59.7,54.9
+412,Haringey,79.7,77.0
+413,Haringey,75.8,72.9
+414,Haringey,79.8,76.9
+415,Haringey,68.3,65.9
+416,Harrow,76.1,72.7
+417,Harrow,69.9,66.6
+418,Harrow,73.6,70.6
+419,Harrow,86.8,84.2
+420,Harrow,74.0,70.5
+421,Harrow,77.2,73.8
+422,Harrow,61.6,57.9
+423,Harrow,74.8,71.6
+424,Harrow,79.9,76.6
+425,Harrow,59.1,55.7
+426,Harrow,65.1,60.4
+427,Harrow,67.1,63.6
+428,Harrow,65.0,60.8
+429,Harrow,78.5,75.0
+430,Harrow,85.1,82.2
+431,Harrow,64.4,60.9
+432,Harrow,82.1,79.5
+433,Harrow,62.9,57.9
+434,Harrow,70.1,65.9
+435,Harrow,84.8,82.0
+436,Harrow,69.1,64.0
+437,Harrow,71.8,68.8
+438,Harrow,77.3,73.8
+439,Harrow,69.6,65.1
+440,Harrow,71.1,66.9
+441,Harrow,70.3,65.5
+442,Harrow,70.3,66.1
+443,Harrow,71.9,67.7
+444,Havering,73.5,69.6
+445,Havering,69.7,65.9
+446,Havering,74.9,71.1
+447,Havering,67.3,62.0
+448,Havering,76.3,73.0
+449,Havering,71.4,67.8
+450,Havering,80.2,77.1
+451,Havering,84.7,82.3
+452,Havering,79.2,76.0
+453,Havering,82.2,79.5
+454,Havering,75.2,71.4
+455,Havering,82.8,80.6
+456,Havering,71.7,67.6
+457,Havering,84.9,82.5
+458,Havering,88.1,86.2
+459,Havering,72.2,68.8
+460,Havering,71.0,66.6
+461,Havering,85.7,83.0
+462,Havering,89.4,87.4
+463,Havering,83.1,80.5
+464,Havering,83.3,80.4
+465,Havering,83.5,80.5
+466,Havering,83.7,81.4
+467,Havering,89.4,87.9
+468,Havering,86.6,84.3
+469,Havering,78.5,75.5
+470,Havering,78.1,74.8
+471,Havering,73.0,68.8
+472,Havering,81.4,78.2
+473,Havering,71.8,67.7
+474,Hillingdon,82.4,79.8
+475,Hillingdon,74.4,70.9
+476,Hillingdon,81.7,78.2
+477,Hillingdon,81.6,78.6
+478,Hillingdon,84.6,81.6
+479,Hillingdon,85.2,82.6
+480,Hillingdon,83.6,81.1
+481,Hillingdon,84.5,82.0
+482,Hillingdon,79.3,76.5
+483,Hillingdon,83.8,81.0
+484,Hillingdon,87.3,85.0
+485,Hillingdon,84.7,82.3
+486,Hillingdon,79.3,76.0
+487,Hillingdon,68.0,62.9
+488,Hillingdon,59.2,53.8
+489,Hillingdon,77.4,73.6
+490,Hillingdon,77.0,72.8
+491,Hillingdon,72.5,67.7
+492,Hillingdon,69.7,63.9
+493,Hillingdon,71.4,66.0
+494,Hillingdon,70.0,65.5
+495,Hillingdon,70.7,65.4
+496,Hillingdon,70.5,65.6
+497,Hillingdon,74.5,70.4
+498,Hillingdon,71.5,66.5
+499,Hillingdon,68.9,63.6
+500,Hillingdon,68.5,63.5
+501,Hillingdon,70.5,66.4
+502,Hillingdon,67.9,62.5
+503,Hillingdon,57.1,50.0
+504,Hillingdon,68.6,63.9
+505,Hounslow,75.5,72.2
+506,Hounslow,70.7,66.1
+507,Hounslow,72.3,66.6
+508,Hounslow,69.4,62.9
+509,Hounslow,73.2,69.5
+510,Hounslow,75.8,72.8
+511,Hounslow,76.4,73.3
+512,Hounslow,72.3,68.8
+513,Hounslow,71.0,66.3
+514,Hounslow,69.2,64.5
+515,Hounslow,65.0,60.7
+516,Hounslow,69.1,64.5
+517,Hounslow,74.7,70.3
+518,Hounslow,67.8,63.5
+519,Hounslow,66.0,61.2
+520,Hounslow,64.7,60.0
+521,Hounslow,62.5,57.4
+522,Hounslow,74.5,71.1
+523,Hounslow,73.8,69.4
+524,Hounslow,69.7,64.6
+525,Hounslow,70.4,65.7
+526,Hounslow,70.8,66.3
+527,Hounslow,70.3,65.3
+528,Hounslow,67.8,62.7
+529,Hounslow,72.0,66.9
+530,Hounslow,68.9,64.5
+531,Hounslow,76.7,72.1
+532,Islington,65.8,61.3
+533,Islington,69.3,65.8
+534,Islington,65.8,62.0
+535,Islington,68.9,65.3
+536,Islington,61.0,56.1
+537,Islington,72.0,68.8
+538,Islington,63.9,59.9
+539,Islington,69.8,65.6
+540,Islington,71.0,67.5
+541,Islington,65.7,61.3
+542,Islington,65.7,59.6
+543,Islington,65.2,60.7
+544,Islington,70.6,67.2
+545,Islington,70.6,66.8
+546,Islington,60.4,53.7
+547,Islington,68.7,64.5
+548,Islington,70.2,66.6
+549,Islington,68.1,64.1
+550,Islington,61.5,54.7
+551,Islington,66.7,62.3
+552,Islington,58.8,52.6
+553,Islington,60.8,53.6
+554,Islington,62.8,56.0
+555,Kensington and Chelsea,59.4,54.5
+556,Kensington and Chelsea,62.7,58.7
+557,Kensington and Chelsea,65.2,61.4
+558,Kensington and Chelsea,61.2,57.4
+559,Kensington and Chelsea,62.3,58.8
+560,Kensington and Chelsea,64.7,59.9
+561,Kensington and Chelsea,68.7,64.8
+562,Kensington and Chelsea,68.3,63.5
+563,Kensington and Chelsea,63.2,58.8
+564,Kensington and Chelsea,60.4,53.3
+565,Kensington and Chelsea,64.6,59.5
+566,Kensington and Chelsea,61.0,55.3
+567,Kensington and Chelsea,56.3,49.9
+568,Kensington and Chelsea,65.1,59.3
+569,Kensington and Chelsea,58.7,52.8
+570,Kensington and Chelsea,61.8,55.6
+571,Kensington and Chelsea,60.9,56.0
+572,Kensington and Chelsea,69.7,65.2
+573,Kensington and Chelsea,69.2,63.8
+574,Kensington and Chelsea,66.8,61.7
+575,Kensington and Chelsea,65.8,61.4
+576,Kingston upon Thames,82.1,79.2
+577,Kingston upon Thames,72.3,68.4
+578,Kingston upon Thames,70.6,66.6
+579,Kingston upon Thames,71.0,67.6
+580,Kingston upon Thames,68.4,63.2
+581,Kingston upon Thames,73.3,68.7
+582,Kingston upon Thames,77.6,74.2
+583,Kingston upon Thames,80.6,77.5
+584,Kingston upon Thames,68.9,64.7
+585,Kingston upon Thames,75.3,71.1
+586,Kingston upon Thames,73.1,69.7
+587,Kingston upon Thames,79.6,76.3
+588,Kingston upon Thames,78.6,75.4
+589,Kingston upon Thames,87.0,84.4
+590,Kingston upon Thames,84.2,81.6
+591,Kingston upon Thames,83.0,80.2
+592,Kingston upon Thames,76.8,73.1
+593,Kingston upon Thames,82.8,79.4
+594,Kingston upon Thames,85.2,82.8
+595,Kingston upon Thames,82.0,78.3
+596,Lambeth,66.1,62.5
+597,Lambeth,66.6,61.9
+598,Lambeth,64.4,57.4
+599,Lambeth,65.2,61.6
+600,Lambeth,63.4,59.7
+601,Lambeth,64.8,61.5
+602,Lambeth,61.5,57.6
+603,Lambeth,57.9,53.9
+604,Lambeth,63.4,59.7
+605,Lambeth,60.0,55.9
+606,Lambeth,69.8,66.4
+607,Lambeth,70.0,67.0
+608,Lambeth,71.5,68.4
+609,Lambeth,68.7,65.8
+610,Lambeth,63.8,60.0
+611,Lambeth,65.1,61.8
+612,Lambeth,69.2,65.7
+613,Lambeth,74.4,71.4
+614,Lambeth,70.1,67.2
+615,Lambeth,64.7,61.2
+616,Lambeth,63.7,59.9
+617,Lambeth,73.1,70.4
+618,Lambeth,61.4,56.9
+619,Lambeth,72.8,69.5
+620,Lambeth,69.2,65.6
+621,Lambeth,70.0,66.6
+622,Lambeth,73.0,69.9
+623,Lambeth,69.0,65.7
+624,Lambeth,71.4,68.1
+625,Lambeth,61.9,58.4
+626,Lambeth,67.5,64.0
+627,Lambeth,67.0,63.4
+628,Lambeth,67.4,64.0
+629,Lambeth,60.4,56.3
+630,Lewisham,65.8,61.6
+631,Lewisham,63.0,58.5
+632,Lewisham,64.0,59.3
+633,Lewisham,64.5,59.7
+634,Lewisham,67.8,64.5
+635,Lewisham,69.0,64.1
+636,Lewisham,68.4,64.8
+637,Lewisham,74.0,70.7
+638,Lewisham,63.5,59.6
+639,Lewisham,70.6,66.6
+640,Lewisham,64.6,59.8
+641,Lewisham,71.6,67.6
+642,Lewisham,72.9,69.3
+643,Lewisham,76.5,73.2
+644,Lewisham,75.8,73.1
+645,Lewisham,69.6,66.0
+646,Lewisham,62.1,58.2
+647,Lewisham,75.1,72.2
+648,Lewisham,67.0,62.8
+649,Lewisham,77.0,73.7
+650,Lewisham,69.2,65.4
+651,Lewisham,72.1,68.5
+652,Lewisham,74.0,71.0
+653,Lewisham,68.0,64.4
+654,Lewisham,65.9,61.4
+655,Lewisham,71.7,67.9
+656,Lewisham,71.0,67.4
+657,Lewisham,65.1,60.9
+658,Lewisham,64.4,59.3
+659,Lewisham,65.1,61.4
+660,Lewisham,70.1,66.3
+661,Lewisham,62.2,57.0
+662,Lewisham,71.4,67.7
+663,Merton,76.7,74.1
+664,Merton,74.7,71.6
+665,Merton,74.0,70.8
+666,Merton,70.6,67.6
+667,Merton,68.6,65.6
+668,Merton,73.5,70.3
+669,Merton,64.9,61.0
+670,Merton,64.5,60.5
+671,Merton,75.3,72.0
+672,Merton,76.4,73.7
+673,Merton,77.4,74.3
+674,Merton,65.7,61.2
+675,Merton,66.2,61.9
+676,Merton,66.2,61.9
+677,Merton,80.0,77.0
+678,Merton,72.5,69.2
+679,Merton,65.9,62.1
+680,Merton,65.3,60.2
+681,Merton,63.8,59.2
+682,Merton,76.2,72.9
+683,Merton,80.9,77.9
+684,Merton,71.8,67.6
+685,Merton,68.6,64.6
+686,Merton,73.6,69.6
+687,Merton,81.0,77.9
+688,Newham,61.8,57.4
+689,Newham,64.3,58.4
+690,Newham,62.7,57.6
+691,Newham,64.3,58.8
+692,Newham,63.7,57.7
+693,Newham,57.5,52.9
+694,Newham,63.3,59.1
+695,Newham,60.9,55.6
+696,Newham,56.4,52.1
+697,Newham,61.4,55.9
+698,Newham,62.1,56.5
+699,Newham,58.3,54.2
+700,Newham,67.4,61.6
+701,Newham,62.0,56.8
+702,Newham,61.5,56.4
+703,Newham,59.4,55.2
+704,Newham,61.1,55.8
+705,Newham,62.1,57.3
+706,Newham,66.8,61.2
+707,Newham,57.7,53.1
+708,Newham,61.5,56.5
+709,Newham,62.3,57.1
+710,Newham,63.0,57.4
+711,Newham,65.3,60.1
+712,Newham,64.3,59.4
+713,Newham,58.9,54.4
+714,Newham,60.7,56.1
+715,Newham,62.7,58.2
+716,Newham,61.2,56.3
+717,Newham,61.5,56.5
+718,Newham,59.4,54.8
+719,Newham,57.9,53.7
+720,Newham,59.8,55.2
+721,Newham,65.0,60.1
+722,Newham,52.0,48.5
+723,Newham,59.6,54.2
+724,Newham,66.5,61.4
+725,Redbridge,83.8,81.5
+726,Redbridge,68.3,64.7
+727,Redbridge,67.3,63.7
+728,Redbridge,74.7,71.7
+729,Redbridge,74.2,70.9
+730,Redbridge,70.6,66.9
+731,Redbridge,78.9,76.0
+732,Redbridge,77.2,73.2
+733,Redbridge,74.2,70.6
+734,Redbridge,72.2,68.1
+735,Redbridge,77.2,73.5
+736,Redbridge,72.7,68.7
+737,Redbridge,81.6,79.1
+738,Redbridge,70.6,66.2
+739,Redbridge,71.0,65.9
+740,Redbridge,82.5,79.9
+741,Redbridge,69.8,65.0
+742,Redbridge,72.5,68.1
+743,Redbridge,67.7,62.7
+744,Redbridge,70.9,65.9
+745,Redbridge,67.0,62.1
+746,Redbridge,67.9,63.3
+747,Redbridge,79.2,76.2
+748,Redbridge,59.4,54.3
+749,Redbridge,60.6,54.8
+750,Redbridge,69.6,65.0
+751,Redbridge,60.7,54.8
+752,Redbridge,59.9,54.4
+753,Richmond upon Thames,74.0,71.0
+754,Richmond upon Thames,79.4,76.6
+755,Richmond upon Thames,74.2,71.5
+756,Richmond upon Thames,74.5,71.1
+757,Richmond upon Thames,79.4,76.8
+758,Richmond upon Thames,76.3,73.4
+759,Richmond upon Thames,80.7,78.0
+760,Richmond upon Thames,68.0,64.4
+761,Richmond upon Thames,77.0,73.7
+762,Richmond upon Thames,80.5,77.2
+763,Richmond upon Thames,81.6,78.4
+764,Richmond upon Thames,79.8,76.3
+765,Richmond upon Thames,78.8,75.0
+766,Richmond upon Thames,78.5,76.1
+767,Richmond upon Thames,80.6,77.3
+768,Richmond upon Thames,78.7,76.2
+769,Richmond upon Thames,77.0,72.8
+770,Richmond upon Thames,84.3,81.6
+771,Richmond upon Thames,84.3,81.9
+772,Richmond upon Thames,80.2,77.1
+773,Richmond upon Thames,83.4,81.2
+774,Richmond upon Thames,79.6,76.7
+775,Richmond upon Thames,84.6,82.0
+776,Southwark,70.8,67.1
+777,Southwark,62.5,55.1
+778,Southwark,69.3,64.5
+779,Southwark,68.7,64.8
+780,Southwark,63.5,58.7
+781,Southwark,67.3,62.9
+782,Southwark,65.8,62.5
+783,Southwark,66.1,58.6
+784,Southwark,67.2,62.8
+785,Southwark,68.4,64.1
+786,Southwark,67.0,61.9
+787,Southwark,66.3,61.7
+788,Southwark,63.4,58.2
+789,Southwark,59.0,54.2
+790,Southwark,62.0,57.5
+791,Southwark,65.7,61.4
+792,Southwark,60.9,56.3
+793,Southwark,61.5,56.7
+794,Southwark,65.5,61.5
+795,Southwark,66.5,61.5
+796,Southwark,63.5,58.5
+797,Southwark,66.8,62.6
+798,Southwark,72.7,68.0
+799,Southwark,70.5,66.1
+800,Southwark,67.5,63.4
+801,Southwark,68.5,64.6
+802,Southwark,78.2,75.4
+803,Southwark,75.2,71.6
+804,Southwark,78.8,76.1
+805,Southwark,84.2,81.6
+806,Southwark,74.9,69.2
+807,Southwark,73.3,69.6
+808,Sutton,74.0,69.2
+809,Sutton,73.5,68.7
+810,Sutton,83.0,79.6
+811,Sutton,80.2,77.3
+812,Sutton,78.1,74.1
+813,Sutton,79.9,76.9
+814,Sutton,81.6,78.3
+815,Sutton,85.3,82.5
+816,Sutton,85.1,81.9
+817,Sutton,82.2,79.1
+818,Sutton,83.1,79.9
+819,Sutton,72.7,67.9
+820,Sutton,81.0,77.4
+821,Sutton,81.2,77.7
+822,Sutton,84.7,81.6
+823,Sutton,87.4,84.9
+824,Sutton,81.4,77.8
+825,Sutton,76.4,72.9
+826,Sutton,72.7,67.8
+827,Sutton,84.5,81.3
+828,Sutton,75.9,72.2
+829,Sutton,88.0,85.2
+830,Sutton,84.4,81.5
+831,Tower Hamlets,71.3,67.0
+832,Tower Hamlets,68.8,63.4
+833,Tower Hamlets,72.4,68.3
+834,Tower Hamlets,69.7,65.4
+835,Tower Hamlets,71.2,66.1
+836,Tower Hamlets,71.2,66.2
+837,Tower Hamlets,70.0,64.7
+838,Tower Hamlets,66.6,61.1
+839,Tower Hamlets,69.5,63.6
+840,Tower Hamlets,57.1,50.1
+841,Tower Hamlets,65.5,59.0
+842,Tower Hamlets,68.9,63.9
+843,Tower Hamlets,64.2,58.6
+844,Tower Hamlets,68.5,62.9
+845,Tower Hamlets,58.8,51.6
+846,Tower Hamlets,69.7,64.4
+847,Tower Hamlets,68.2,62.7
+848,Tower Hamlets,69.3,64.1
+849,Tower Hamlets,70.9,65.6
+850,Tower Hamlets,66.9,61.2
+851,Tower Hamlets,64.3,55.6
+852,Tower Hamlets,69.0,63.1
+853,Tower Hamlets,71.3,66.0
+854,Tower Hamlets,67.9,61.9
+855,Tower Hamlets,68.6,63.0
+856,Tower Hamlets,70.9,65.1
+857,Tower Hamlets,75.0,71.2
+858,Tower Hamlets,67.8,61.6
+859,Tower Hamlets,67.6,63.4
+860,Tower Hamlets,67.7,62.5
+861,Waltham Forest,73.5,70.4
+862,Waltham Forest,78.7,76.0
+863,Waltham Forest,73.2,69.9
+864,Waltham Forest,75.6,72.3
+865,Waltham Forest,70.8,67.2
+866,Waltham Forest,65.5,61.6
+867,Waltham Forest,80.6,77.9
+868,Waltham Forest,69.6,65.4
+869,Waltham Forest,65.0,60.8
+870,Waltham Forest,67.2,63.5
+871,Waltham Forest,66.8,62.9
+872,Waltham Forest,66.3,62.5
+873,Waltham Forest,64.3,60.2
+874,Waltham Forest,67.0,63.1
+875,Waltham Forest,73.0,69.6
+876,Waltham Forest,68.2,64.8
+877,Waltham Forest,66.6,62.9
+878,Waltham Forest,65.8,62.1
+879,Waltham Forest,64.5,60.4
+880,Waltham Forest,58.9,54.5
+881,Waltham Forest,66.6,63.1
+882,Waltham Forest,62.6,58.8
+883,Waltham Forest,61.7,58.2
+884,Waltham Forest,64.5,61.0
+885,Waltham Forest,61.2,57.4
+886,Waltham Forest,60.8,56.4
+887,Waltham Forest,57.7,53.6
+888,Waltham Forest,58.6,55.3
+889,Wandsworth,69.3,65.9
+890,Wandsworth,65.0,60.2
+891,Wandsworth,64.3,60.6
+892,Wandsworth,69.2,66.0
+893,Wandsworth,71.0,67.3
+894,Wandsworth,73.7,71.3
+895,Wandsworth,61.9,58.1
+896,Wandsworth,66.6,62.5
+897,Wandsworth,74.0,71.4
+898,Wandsworth,69.9,67.2
+899,Wandsworth,70.0,67.4
+900,Wandsworth,70.5,67.5
+901,Wandsworth,57.7,53.1
+902,Wandsworth,63.9,60.9
+903,Wandsworth,77.7,74.9
+904,Wandsworth,64.6,61.0
+905,Wandsworth,81.7,79.1
+906,Wandsworth,67.2,63.9
+907,Wandsworth,66.2,62.6
+908,Wandsworth,76.3,73.6
+909,Wandsworth,75.3,72.7
+910,Wandsworth,65.4,61.5
+911,Wandsworth,58.7,54.2
+912,Wandsworth,70.5,67.7
+913,Wandsworth,77.8,75.5
+914,Wandsworth,73.5,70.9
+915,Wandsworth,80.3,78.1
+916,Wandsworth,67.8,64.8
+917,Wandsworth,73.6,71.0
+918,Wandsworth,74.7,72.0
+919,Wandsworth,74.2,71.6
+920,Wandsworth,71.2,68.1
+921,Wandsworth,68.2,64.8
+922,Wandsworth,65.2,61.7
+923,Wandsworth,67.1,63.8
+924,Wandsworth,73.6,69.7
+925,Wandsworth,67.9,64.0
+926,Westminster,62.9,57.9
+927,Westminster,62.8,58.5
+928,Westminster,61.7,56.9
+929,Westminster,64.4,60.5
+930,Westminster,61.5,57.4
+931,Westminster,62.6,59.3
+932,Westminster,63.7,59.6
+933,Westminster,57.3,51.0
+934,Westminster,62.6,57.2
+935,Westminster,60.3,55.7
+936,Westminster,60.6,54.1
+937,Westminster,59.6,52.9
+938,Westminster,62.4,55.6
+939,Westminster,63.4,58.9
+940,Westminster,63.1,55.9
+941,Westminster,56.5,51.2
+942,Westminster,55.0,49.8
+943,Westminster,67.0,59.9
+944,Westminster,63.4,55.0
+945,Westminster,62.2,56.5
+946,Westminster,66.9,62.3
+947,Westminster,66.4,61.8
+948,Westminster,66.1,61.3
+949,Westminster,67.9,63.1
+950,Bromley,76.6,73.1
+951,Lewisham,63.9,58.9
+952,Lewisham,68.2,64.1
+953,Bexley,79.7,76.4
+954,Greenwich,69.4,64.5
+955,Bromley,83.1,80.1
+956,Croydon,65.3,61.0
+957,Bromley,84.9,82.1
+958,Ealing,72.8,70.0
+959,Hounslow,69.2,65.9
+960,Enfield,60.1,54.8
+961,Haringey,55.6,50.6
+962,Harrow,74.7,70.3
+963,Hillingdon,78.7,75.2
+964,Lewisham,63.7,58.9
+965,Barking and Dagenham,67.9,63.3
+966,Redbridge,65.8,60.7
+967,Lambeth,58.6,50.8
+968,Southwark,63.4,57.3
+969,Sutton,87.1,84.6
+970,Tower Hamlets,66.6,60.2
+971,Tower Hamlets,67.4,60.1
+972,Harrow,70.4,67.1
+973,Hackney and City of London,60.3,56.2
+974,Hackney and City of London,51.5,47.2
+975,Redbridge,69.8,65.3
+976,Redbridge,77.3,73.2
+977,Greenwich,75.4,72.0
+978,Greenwich,62.8,58.1
+979,Greenwich,72.0,67.3
+980,Greenwich,72.9,69.2
+981,Greenwich,71.1,67.2
